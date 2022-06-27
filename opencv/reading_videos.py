@@ -1,6 +1,7 @@
 import cv2 as cv
 # Takes either integer if i am going to use webcam then if i am using videos i simply put the path of the video file
-capture = cv.VideoCapture(0)
+# capture = cv.VideoCapture(0)
+capture = cv.VideoCapture('Videos/dog.mp4')
 #I am reading videos as images by frame by frame while it's true it will continue to extract the files into two types one is a boolean and another is a frame
 while True:
     isTrue, frame = capture.read()
