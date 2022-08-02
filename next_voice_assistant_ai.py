@@ -26,8 +26,6 @@ def take_command():
             if 'next' in command:
                 command = command.replace('next', '')
                 print(command)
-
-
     except:
         pass
     return command
