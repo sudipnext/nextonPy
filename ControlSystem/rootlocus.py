@@ -4,10 +4,13 @@ import matplotlib.pyplot as plt
 
 plt.grid()
 ran = np.linspace(0, 10, 1000)
-for k in np.arange(0.1, 50, 0.1):
-    den=[1, 4, 11, (14+k), (10+k)]
+for k in np.arange(1, 300, 1):
+    den=[1, 9, 72, (64+k), (2*k)] 
     s = np.roots(den)
     plt.plot(np.real(s), np.imag(s),'b*')
+    plt.title("Root Locus Plot")
+    plt.xlabel("Sigma")
+    plt.ylabel("jw")
     G = ctl.tf([k], den)
     print(G)
     #For Step Response 
