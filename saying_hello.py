@@ -1,1 +1,3 @@
-print("Hello"*3)
+import numpy as np
+
+print(np.exp(-x ** 2))
