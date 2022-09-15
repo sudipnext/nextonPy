@@ -2,13 +2,14 @@ import control
 import matplotlib.pyplot as plt
 import numpy
 
-num = [4, 1]
-den = [2, 3, 1, 0, 0]
+x= numpy.arange(1, 200, 1)
+num = [1, 2]
+den = [1, -1, 0]
 
 #Creating a transfer function G = num/den
 G = control.tf(num,den) 
 print(G)
-w = numpy.logspace(-3,3,5000)
+w = numpy.logspace(-100,100,5000)
 control.nyquist(G,w);
 plt.grid(True)
 plt.title('Nyquist Diagram')

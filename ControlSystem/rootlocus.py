@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 plt.grid()
 ran = np.linspace(0, 10, 1000)
 for k in np.arange(1, 300, 1):
-    den=[1, 9, 72, (64+k), (2*k)] 
+    den=[1, (6+k), (18-4*k)] 
     s = np.roots(den)
     plt.plot(np.real(s), np.imag(s),'b*')
     plt.title("Root Locus Plot")
