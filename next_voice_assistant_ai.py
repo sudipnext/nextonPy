@@ -32,7 +32,6 @@ def take_command():
 
 
 def run_next():
-
     command = take_command()
     print(command)
     if 'play' in command:
@@ -68,7 +67,6 @@ def run_next():
         talk(wikipedia.summary(command, 1))
     else:
         talk('Please tell the command again!')
-
 
 while True:
     run_next()
