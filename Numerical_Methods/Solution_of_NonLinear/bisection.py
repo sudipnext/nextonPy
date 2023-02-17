@@ -1,5 +1,7 @@
 import math
 
+
+
 def bisectionFunc(x):
     return math.tan(x) + math.tanh(x)
 
