@@ -20,6 +20,9 @@ def bifurication(meu_start, meu_end, x_start, no_iter):
             xn = logisticMap(meu, xn) 
           
     # plotting meu vs x 
+    plt.title("Logistic Map Bifurication Diagram")
+    plt.ylabel("X")
+    plt.xlabel("MEU")
     plt.plot(MEU, XN, ls='', marker=',', color='red')
     plt.ylim(0, 1)
     plt.xlim(meu_start, 4)
@@ -27,3 +30,5 @@ def bifurication(meu_start, meu_end, x_start, no_iter):
 
 
 bifurication(2.8, 4, 0.023, 100)
+
+#github.com/sudipnext/nextonPy
