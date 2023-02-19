@@ -32,4 +32,7 @@
 |     |                                                | [plotting_graph_for_firsttime](/matplotlib.py/plotting_graph_for_first_time.py)               | plotting graph first time                                                         |
 | 8   | numpy                                          | [basic_numpy](/numpy/basic_numpy.py)                                                          | basic numpy operation at initial phase of learning                                |
 | 9   | opencv                                         | Pratice Examples Learned from FreeCodeCamp                                                    | some pratice codes                                                                |
-
+**Some Extra Unordered Files**
+[bifurication diagram](/bifurication.py)
+[voiceAssistant](/next_voice_assistant_ai.py)
+[fourierSeries](/fourier_series.ipynb)
