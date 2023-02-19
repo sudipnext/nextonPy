@@ -12,7 +12,7 @@ def df(z):
 #writing necessary things
 #defining error
 err = 0.01
-maxSample=10000
+maxSample=1000
 #no of iterations
 niter= 1000
 #array of roots
@@ -49,6 +49,8 @@ def newtonFractalPlot():
         plt.scatter(*zip(*points[r]), 
                     color=COLORS[i], 
                     s=0.01)
+        plt.title("f(x)=Z**3-1")
+
     plt.show()
 newtonFractalPlot()
 
