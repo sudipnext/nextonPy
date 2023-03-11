@@ -6,11 +6,10 @@ import sys
 #now importing the triangle model
 from model import *
 from camera import Camera
-#importing lights
-from light import Light
+
 #creating a graphics engine class
 class GraphicsEngine:
-    def __init__(self, win_size=(1336, 800)):
+    def __init__(self, win_size=(1600, 900)):
         pg.init()
         #window size
         self.WIN_SIZE = win_size
@@ -23,9 +22,6 @@ class GraphicsEngine:
         #creating opengl context
         #double buffering provides two complete color buffers for use in drawing. one buffer is displayed while the other buffer is being drawn into. when the drawing is complete, the two buffers are swapped so that the one that was being viewed is now used for drawing.
         pg.display.set_mode(self.WIN_SIZE, flags=pg.OPENGL | pg.DOUBLEBUF)
-        #improving mouse movements
-        pg.event.set_grab(True)
-        pg.mouse.set_visible(False)
         #now we need to detect this using opengl module
         self.ctx = mgl.create_context()
         #activating depth test
@@ -34,10 +30,6 @@ class GraphicsEngine:
         self.clock = pg.time.Clock()
 
         self.time = 0
-        #we need a variable for delta time
-        self.delta_time =0
-        self.light = Light()
-
         #camera
         self.camera= Camera(self)
         #now creating an instance of the method and calling it
@@ -72,11 +64,9 @@ class GraphicsEngine:
         while True:
             self.get_time()
             self.check_events()
-            #now calling the update method from camera before updating
-            self.camera.update()
             self.render()
             #setting the frame rate to 60 seconds
-            self.delta_time = self.clock.tick(60)
+            self.clock.tick(60)
 #creating an instance and running the program
 
 if __name__ == '__main__':

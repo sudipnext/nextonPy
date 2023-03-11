@@ -3,9 +3,8 @@
 import moderngl as mgl
 import numpy as np
 import glm
-# loading the texture itself
+#loading the texture itself
 import pygame as pg
-
 
 class Cube:
     def __init__(self, app):
@@ -15,38 +14,27 @@ class Cube:
         self.shader_program = self.get_shader_program('default')
         self.vao = self.get_vao()
         self.m_model = self.get_model_matrix()
-        # loading textures
+        #loading textures
         self.texture = self.get_texture(path='textures/wooden.jpg')
         self.on_init()
-
     def get_texture(self, path):
         texture = pg.image.load(path).convert()
-        # flipping the y-axis upside as it's downside in pygame
+        #flipping the y-axis upside as it's downside in pygame
         texture = pg.transform.flip(texture, flip_x=False, flip_y=True)
-        texture = self.ctx.texture(size=texture.get_size(
-        ), components=3, data=pg.image.tostring(texture, 'RGB'))
+        texture = self.ctx.texture(size=texture.get_size(), components=3, data=pg.image.tostring(texture, 'RGB'))
         return texture
-
     def update(self):
         m_model = glm.rotate(self.m_model, self.app.time, glm.vec3(0, 1, 0))
-        # updating the matrix in the shader
+        #updating the matrix in the shader
         self.shader_program['m_model'].write(m_model)
-        # updating the shader after changing camera view
-        self.shader_program['m_view'].write(self.app.camera.m_view)
-        self.shader_program['camPos'].write(self.app.camera.position)
 
     def get_model_matrix(self):
         m_model = glm.mat4()
         return m_model
 
     def on_init(self):
-        # light
-        self.shader_program['light.position'].write(self.app.light.position)
-        self.shader_program['light.Ia'].write(self.app.light.Ia)
-        self.shader_program['light.Id'].write(self.app.light.Id)
-        self.shader_program['light.Is'].write(self.app.light.Is)
-        # here we need to sepcify the texture and texture unit
-        self.shader_program['u_texture_0'] = 0
+        #here we need to sepcify the texture and texture unit
+        self.shader_program['u_texture_0'] =0
         self.texture.use()
 
         self.shader_program['m_proj'].write(self.app.camera.m_proj)
@@ -68,7 +56,7 @@ class Cube:
     def get_vao(self):
         # 3f is buffer format and in position is the attributes
         vao = self.ctx.vertex_array(
-            self.shader_program, [(self.vbo, '2f 3f 3f', 'in_texcoord_0', 'in_normal', 'in_position')])
+            self.shader_program, [(self.vbo, '2f 3f', 'in_texcoord_0', 'in_position')])
         return vao
 
     def get_vertex_data(self):
@@ -81,19 +69,9 @@ class Cube:
         vertex_data = self.get_data(vertices, indices)
 
         tex_coord = [(0, 0), (1, 0), (1, 1), (0, 1)]
-        tex_coord_indices = [(0, 2, 3), (0, 1, 2), (0, 2, 3), (0, 1, 2), (0, 1, 2), (
-            2, 3, 0), (2, 3, 0), (2, 0, 1), (0, 2, 3), (0, 1, 2), (3, 1, 2), (3, 0, 1)]
+        tex_coord_indices = [(0, 2, 3), (0, 1, 2), (0, 2, 3),(0, 1, 2), (0, 1, 2), (2, 3, 0), (2, 3, 0), (2, 0, 1), (0, 2, 3), (0, 1, 2), (3, 1, 2), (3, 0, 1)]
         tex_coord_data = self.get_data(tex_coord, tex_coord_indices)
 
-        normals = [(0, 0, 1)*6,
-                   (1, 0, 0)*6,
-                   (0, 0, -1)*6,
-                   (-1, 0, 0)*6,
-                   (0, 1, 0)*6,
-                   (0, -1, 0)*6
-                   ]
-        normals = np.array(normals, dtype='f4').reshape(36, 3)
-        vertex_data = np.hstack([normals, vertex_data])
         vertex_data = np.hstack([tex_coord_data, vertex_data])
         return vertex_data
 
