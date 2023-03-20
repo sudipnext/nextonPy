@@ -29,7 +29,7 @@ vec3 getLight(vec3 color){
     //specular light
     vec3 viewDir = normalize(camPos - fragPos);
     vec3 reflectDir = reflect(-lightDir, Normal);
-    float spec = pow(max(dot(viewDir, reflectDir), 0), 50);
+    float spec = pow(max(dot(viewDir, reflectDir), 0), 32);
     vec3 specular = spec * light.Is;
     
 
