@@ -1,5 +1,6 @@
 # The process of opengl rendering pipeling goes like this
 # It first accepts the vertices and pass it into the vertex shader then to primitive assembly and then comes rasterization where the primitives are divided into fragments and then a fragment shader is launched for each fragments After various tests then it finally outputs to framebuffer, To get as expected results the fragment shader and the vertex shader is connected with uniforms variables
+
 import moderngl as mgl
 import numpy as np
 import glm
