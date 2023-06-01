@@ -1,0 +1,2339 @@
+[
+  { "name": "17 Pieces Storage Box STB-17", "price": " 1,600" },
+  { "name": "Microplush fleece Bedsheet (king size)", "price": " 1,600" },
+  {
+    "name": "Kelyn Breezio English Rose Room Freshener – 230mL",
+    "price": " 240"
+  },
+  { "name": "Baltra  Hand Blender Harmony  BHB – 120", "price": " 2,075" },
+  { "name": "Baltra  Hand Blender Rider  BHB – 121", "price": " 2,525" },
+  { "name": "Baltra  Hand Blender Leader  BHB – 112", "price": " 3,125" },
+  { "name": "Baltra Supercook Roti Maker", "price": " 4,225" },
+  { "name": "Baltra Easycook Roti Maker", "price": " 3,725" },
+  { "name": "BALTRA BIC-125 Touch Pro Induction Cooktop", "price": " 4,225" },
+  { "name": "BALTRA BIC-122 Prima Pro Induction Cooktop", "price": " 4,575" },
+  { "name": "BALTRA BIC-123 Cool Pro  Induction Cooktop", "price": " 3,975" },
+  { "name": "BALTRA BIC-124 Active  Induction Cooktop", "price": " 3,525" },
+  { "name": "BALTRA LED BULB Galaxy", "price": " 95" },
+  { "name": "Baltra  Hair Trimmer Axel BPC 831", "price": " 3,175" },
+  { "name": "Baltra  Hair Trimmer Fun BPC 828", "price": " 1,300" },
+  { "name": "Baltra  Hair Trimmer True  BPC 827", "price": " 1,200" },
+  { "name": "Baltra  Hair Dryer Dominic  BPC 833", "price": " 2,900" },
+  { "name": "Baltra  Hair Dryer Hudson  BPC 834", "price": " 1,800" },
+  { "name": "Baltra High Speed 2  BMG-105 Mixer Grinder", "price": " 14,275" },
+  { "name": "Baltra Dream 3 BMG-156 Mixer Grinder", "price": " 4,375" },
+  { "name": "Baltra Dream 2 BMG-155 Mixer Grinder", "price": " 3,925" },
+  { "name": "Baltra Stylo 3 BMG-134 Mixer Grinder", "price": " 4,375" },
+  { "name": "Baltra Stylo 2 BMG-138 Mixer Grinder", "price": " 3,925" },
+  { "name": "Baltra Magnus 3  BMG-162 Mixer Grinder", "price": " 4,375" },
+  { "name": "Baltra Magnus 2  BMG-161 Mixer Grinder", "price": " 3,925" },
+  { "name": "Baltra Winner BMG-126 Mixer Grinder", "price": " 3,150" },
+  { "name": "BALTRA LED BULB DREAM", "price": " 170" },
+  { "name": "Baltra  Hair Dryer Veana  BPC 807", "price": " 925" },
+  { "name": "Baltra Chimney Furrow BCH-118P 90cm", "price": " 18,575" },
+  { "name": "Baltra Bvc 205 Vacuum Cleaner Tide", "price": " 11,525" },
+  { "name": "Baltra Vacuum Cleaner Nuclear", "price": " 12,575" },
+  {
+    "name": "Baltra BJMG-101 500-Watt Storm Juicer Mixer Grinde",
+    "price": " 7,175"
+  },
+  {
+    "name": "Baltra Personal Care (Hexa)-BPC 806 Hair Dryer",
+    "price": " 1,475"
+  },
+  { "name": "Baltra BIC 121 Sensible Infrared Induction", "price": " 4,425" },
+  { "name": "Baltra Bvc 209 Cruze Vacuum Cleaner", "price": " 10,075" },
+  {
+    "name": "Baltra Winner Plus BMG-127 300-Watt Mixer Grinder with 2 Jars",
+    "price": " 3,850"
+  },
+  {
+    "name": "Baltra 211 Cyclone 1800W Vacuum Cleaner – (BVC-211CYCLONE)",
+    "price": " 12,275"
+  },
+  {
+    "name": "Baltra Bmg 130 Cozy 3 500-Watt Mixer Grinder With 3 Jar",
+    "price": " 4,375"
+  },
+  { "name": "Baltra Bmg 129 Cozy 2 Mixer Grinder", "price": " 3,925" },
+  { "name": "Baltra Kitchen Chimney Retro BCH-114P", "price": " 17,797" },
+  { "name": "Baltra Steam Dry Irons (Marina)", "price": " 1,775" },
+  {
+    "name": "Baltra Torque 1400W Vacuum Cleaner – (BVC-210)",
+    "price": " 9,025"
+  },
+  { "name": "Baltra Bjmg 102 Juicer Mixer Gust 500W", "price": " 7,500" },
+  { "name": "Baltra Vacuum Cleaner", "price": " 9,025" },
+  { "name": "Baltra  Gas Stove Sliver 2 Burner", "price": " 4,425" },
+  { "name": "Baltra  Gas Stove Charm 2 Burner", "price": " 3,125" },
+  { "name": "Baltra Gas Stove Flavour 2 Burner", "price": " 3,250" },
+  { "name": "Baltra 4BR Crystal Body Gas Stove", "price": " 11,675" },
+  { "name": "Baltra 3BR Crystal Body Gas Stove", "price": " 8,725" },
+  { "name": "BALTRA Electric Geyser spew", "price": " 20,375" },
+  { "name": "BALTRA Electric Geyser Steamy", "price": " 15,325" },
+  { "name": "BALTRA Electric Geyser  Ocean", "price": " 17,250" },
+  { "name": "BALTRA Electric Geyser Warmer 25ltr", "price": " 23,475" },
+  { "name": "BALTRA Electric Geyser Warmer 15 ltr", "price": " 20,375" },
+  { "name": "BALTRA Electric Geyser Swelter 3ltr", "price": " 10,175" },
+  { "name": "BALTRA Electric Geyser Swelter 1ltr", "price": " 8,775" },
+  { "name": "Baltra Oil Filled Heater – Stellar 13fin", "price": " 16,975" },
+  { "name": "Baltra Oil Filled Heater – Stellar 11fin", "price": " 14,975" },
+  { "name": "Baltra Royal Hot Caserrole Stainless Steel", "price": " 1,075" },
+  { "name": "Baltra Megna Pressure Cooker", "price": " 2,025" },
+  {
+    "name": "Baltra Deluxe Rice Cooker (Modern Deluxe)-1.8LTR",
+    "price": " 3,675"
+  },
+  { "name": "Baltra Fast Cook Pressure Cooker", "price": " 1,350" },
+  { "name": "Baltra Dream Commercial Rice Cooker", "price": " 7,575" },
+  { "name": "Baltra Dream Delux Rice Cooker", "price": " 3,075" },
+  { "name": "Baltra Cloud Deluxe Rice Cooker", "price": " 2,875" },
+  {
+    "name": "Baltra Deluxe Rice Cooker (Modern Deluxe)-2.2 LTR",
+    "price": " 4,175"
+  },
+  {
+    "name": "Baltra Deluxe Rice Cooker (Modern Deluxe) 1.5 L",
+    "price": " 3,375"
+  },
+  { "name": "Baltra Regular Rice Cooker Dream", "price": " 2,375" },
+  {
+    "name": "Baltra Lava Airpot With Temperature Control And LCD Display",
+    "price": " 6,675"
+  },
+  { "name": "Baltra Gas Geyser Cerro 6L BGWH 205", "price": " 10,975" },
+  { "name": "Baltra Gas Heater – Radiant BTH 109", "price": " 11,225" },
+  {
+    "name": "Baltra Simmer Wall Mounted Heater With Remote Control",
+    "price": " 8,225"
+  },
+  {
+    "name": "Baltra Gas Stove Bright  (BGS 138)- Double  Burner",
+    "price": " 2,875"
+  },
+  {
+    "name": "Baltra Gas Stove Bliss (BGS 121)- Double  Burner",
+    "price": " 3,225"
+  },
+  { "name": "Baltra Air Fryer 3.5 ltrs Marshal BAF- 105", "price": " 12,975" },
+  { "name": "Baltra Air Fryer 3.2 ltrs Parch BAF- 104", "price": " 8,975" },
+  { "name": "Baltra Robust Air Fryer 3.2 Ltr BAF 103", "price": " 12,175" },
+  { "name": "Baltra Irish  BCM – 106 Coffee Maker", "price": " 8,075" },
+  { "name": "Baltra Microwave Decore Plus- 25 Ltrs", "price": " 25,075" },
+  { "name": "Baltra Solid Electric Whistling Kettle", "price": " 2,475" },
+  { "name": "Baltra Gas Geyser Rainbow 6L BGWH 203", "price": " 9,075" },
+  {
+    "name": "Baltra Crystal Body Gas Stove Gas Stove 2 Auto BGS 106",
+    "price": " 6,525"
+  },
+  { "name": "Baltra Water Purifier – BWP-205 (Hydra)", "price": " 2,550" },
+  {
+    "name": "Baltra Water Purifier with dispenser BWP 207 ( Vital)",
+    "price": " 7,925"
+  },
+  { "name": "Baltra Thermal Electric Airpot", "price": " 5,275" },
+  {
+    "name": "Baltra Gas Stove Bliss (BGS 122)- Single Burner",
+    "price": " 2,025"
+  },
+  { "name": "Baltra Lunch Box (Host)", "price": " 2,450" },
+  {
+    "name": "Baltra Spring Water Purifier BWP-208 Voltage 220V-50Hz",
+    "price": " 30,325"
+  },
+  { "name": "Baltra Bgs 119 Silver 2 Gas Stove Charm", "price": " 3,125" },
+  { "name": "Baltra Water Purifier (Pure)", "price": " 2,550" },
+  { "name": "Baltra Dumpling Electric Mo:Mo Maker", "price": " 4,575" },
+  { "name": "DIAMOND ALPINO QUARTZ 800W HOLOGEN HEATER", "price": " 1,200" },
+  { "name": "DIAMOND CANVAS HOLOGEN HEATER", "price": " 8,830" },
+  { "name": "DIAMOND CANTER HOLOGEN HEATER", "price": " 1,375" },
+  { "name": "DIAMOND  DECENT HOLOGEN HEATER", "price": " 1,250" },
+  { "name": "DIAMOND GALLANT GAS + ELE HOLOGEN HEATER", "price": " 9,500" },
+  { "name": "DIAMOND SHINE HOLOGEN HEATER 1200W", "price": " 2,600" },
+  { "name": "DIAMOND LUSTER HOLOGEN HEATER 1200 W", "price": " 3,400" },
+  { "name": "DIAMOND FALCON HOLOGEN HEATER 1200 W", "price": " 3,200" },
+  { "name": "DIAMOND ELEGANCE 16″ STAND FAN REMOTE", "price": " 3,600" },
+  { "name": "DIAMOND STAR 16″ STAND FAN", "price": " 2,870" },
+  { "name": "DIAMOND REGAL 16″ STAND FAN", "price": " 3,600" },
+  { "name": "DIAMOND BRIGHT 16″ STAND FAN", "price": " 2,850" },
+  { "name": "DIAMOND VITARA 16″ STAND FAN REMOTE", "price": " 3,675" },
+  { "name": "DIAMOND JAMIS 16″ STAND FAN", "price": " 3,475" },
+  { "name": "DIAMOND KONA 16″ STAND FAN REMOTE", "price": " 4,300" },
+  { "name": "DIAMOND SUPER 16″ STAND FAN", "price": " 2,865" },
+  { "name": "DIAMOND ACTIVE 16″ STAND FAN", "price": " 3,540" },
+  { "name": "DIAMOND  POLO 16″TABLE FAN", "price": " 3,000" },
+  { "name": "DIAMOND MINT 16″ WALL FAN (REMOTE)", "price": " 3,500" },
+  { "name": "DIAMOND FIGO 16″ WALL FAN", "price": " 2,900" },
+  {
+    "name": "DIAMOND WATER DISPENSER DELTA ( ( TABLE TOP – HOT & COLD )",
+    "price": " 3,775"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER CORAL ( STANDING- HOT & COLD )",
+    "price": " 3,750"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER MARINA( STANDING- HOT & COLD )",
+    "price": " 7,930"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER GLOSSY( STANDING- HOT & COLD )",
+    "price": " 11,850"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER CLASSIC ( STANDING- HOT & COLD )",
+    "price": " 7,830"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER  SMOOTH ( STANDING- HOT & COLD )",
+    "price": " 8,035"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER  SLEEK ( TABLE TOP- HOT & COLD )",
+    "price": " 11,125"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER TERA ( TABLE TOP- HOT & COLD )",
+    "price": " 3,715"
+  },
+  {
+    "name": "DIAMOND WATER DISPENSER CERA ( TABLE TOP- HOT & COLD )",
+    "price": " 3,715"
+  },
+  {
+    "name": "Diamond Max 7 Litre Automatic Electric Kettle",
+    "price": " 2,800"
+  },
+  {
+    "name": "Diamond Max 6 Litre Automatic Electric Kettle",
+    "price": " 2,650"
+  },
+  {
+    "name": "Diamond Max 5 Litre Automatic Electric Kettle",
+    "price": " 2,365"
+  },
+  {
+    "name": "Diamond Max 4 Litre Automatic Electric Kettle",
+    "price": " 2,230"
+  },
+  {
+    "name": "Diamond Venus 2.2 Warmer Rice Cooker 900 Watts",
+    "price": " 3,120"
+  },
+  { "name": "Diamond Venus 1.8 Litre Rice Cooker", "price": " 2,750" },
+  { "name": "Diamond Venus 1.5 Litre Rice Cooker", "price": " 2,500" },
+  { "name": "Diamond Venus 1.0 Litre Rice Cooker", "price": " 2,230" },
+  { "name": "Baltra Air Fryer (MARSHAL 3.5L) BAF 105", "price": " 12,975" },
+  { "name": "Baltra Parch Air Fryer 3.2L", "price": " 8,975" },
+  { "name": "Baltra Sandwich Maker SUPER GRILL", "price": " 2,325" },
+  {
+    "name": "Baltra Tasty Grill Sandwich Maker with 2 Slice",
+    "price": " 2,525"
+  },
+  { "name": "Baltra Microwave Decore Plus- 25 Ltrs", "price": " 25,075" },
+  { "name": "Baltra Carnival Microwave Oven-20L", "price": " 12,075" },
+  { "name": "Baltra Dream Halogen Heater 1200 W BTH 134", "price": " 3,075" },
+  { "name": "Baltra Feather Fan Heater 2000 W BTH 122", "price": " 2,475" },
+  { "name": "Baltra Fan Heater Ambiant Bth 132", "price": " 3,625" },
+  { "name": "Baltra Electric Fan Heater Torrid Bth 129", "price": " 2,275" },
+  { "name": "Baltra Austin Bcm 105 Coffee Make", "price": " 2,675" },
+  { "name": "Baltra Whistling Kettle Neo Bc 146", "price": " 2,725" },
+  {
+    "name": "Baltra Electric Cordless Kettle 1500W 2 Ltr – Jio BC 150",
+    "price": " 1,450"
+  },
+  {
+    "name": "Baltra Eager Electric Cordless Kettle 2.5 LTR BC 143",
+    "price": " 1,650"
+  },
+  {
+    "name": "Baltra Super Fast Electric Cordless Kettle 1.5 Litter Bc 136",
+    "price": " 1,175"
+  },
+  {
+    "name": "Baltra Super Fast Electric Cordless Kettle 1.8 Litter Bc 135",
+    "price": " 1,225"
+  },
+  { "name": "BALTRA 2 SLICE SANDWICH MAKER SPICY BSM 224", "price": " 2,475" },
+  { "name": "Baltra CRUNCHY 2+ Slice Toaster", "price": " 1,975" },
+  { "name": "Baltra Sandwich Maker Black Serve BSM 218", "price": " 2,175" },
+  { "name": "Baltra Crispy 4+ Slice Toaster", "price": " 2,375" },
+  { "name": "Baltra Electric Kettle 1.8 Ltr (Active)", "price": " 1,450" },
+  { "name": "Baltra Cordless Kettle 1.8 Ltr ( Power )", "price": " 1,525" },
+  { "name": "Baltra BC-124 Superb Cordless Kettle 1.8L", "price": " 1,225" },
+  { "name": "Baltra Quartz Heater (Sunny)", "price": " 2,825" },
+  { "name": "Baltra Fan Heater ( Hot Spell )", "price": " 5,175" },
+  { "name": "Baltra Quartz Heater 800 W – Torrent", "price": " 1,450" },
+  { "name": "Cereal Dispenser Box 2 Kg ( Pack Of 3)", "price": " 1,500" },
+  { "name": "4 in 1 Cereal Dispenser 2000 ML (Pack Of 3)", "price": " 1,500" },
+  {
+    "name": "3 in 1 Cereal Dispenser 1500 ml ( Pack Of 3 )",
+    "price": " 1,400"
+  },
+  {
+    "name": "4 in 1 Cereal Dispenser 2500 ML ( Pack Of 3 )",
+    "price": " 1,800"
+  },
+  {
+    "name": "Cereal Dispenser with pop-up lid 2000 ml (Pack Of 3)",
+    "price": " 1,200"
+  },
+  {
+    "name": "Hisense FC-28DD4SA, 213 Litres Chest Freezer",
+    "price": " 58,990"
+  },
+  {
+    "name": "Hisense FC-38DD4SA, 295 Litres Chest Freezer",
+    "price": " 58,090"
+  },
+  {
+    "name": "Hisense FC-66DD4SA, 510 Litres Chest Freezer",
+    "price": " 91,790"
+  },
+  {
+    "name": "HIsense FC-13DD4SA, 100 Litres Chest Freezer",
+    "price": " 29,090"
+  },
+  {
+    "name": "HISENSE RC67SW4SS 564 Litres Stainless Steel Side By Side Refrigerator (Silver)",
+    "price": " 133,990"
+  },
+  {
+    "name": "HISENSE 564 Litres Side By Side Mirror Glass Looks Refrigerator RC67WS4SA (Black)",
+    "price": " 138,290"
+  },
+  { "name": "Hisense 150 Ltr Double Door Refrigerator", "price": " 34,990" },
+  {
+    "name": "Hisense RC-70WS4SA, 610 Litres Side by Side Refrigerator",
+    "price": " 191,190"
+  },
+  {
+    "name": "Hisense RQ56WC4SS – 510 Litres Inverter 4 Crossed Side -By-Side Door Refrigerator With Stainless Steel Pure Flat Design",
+    "price": " 155,490"
+  },
+  {
+    "name": "Hisense 55Ltr Single Door Refrigerator (RD-06DR4SA)",
+    "price": " 15,790"
+  },
+  { "name": "Baltra Mendrill Oven Toaster (18 Ltr)", "price": " 9,075" },
+  { "name": "Baltra Robust Digitalize Air Fryer BAF103", "price": " 12,175" },
+  {
+    "name": "Baltra BHC-101/102/103 Electric Kettle heating cup",
+    "price": " 575"
+  },
+  {
+    "name": "Diamond 1000W Venus Rice Cooker 2.8 Litre-DRCV 280",
+    "price": " 3,550"
+  },
+  {
+    "name": "Baltra BMW 101 Cuisine Digital Grill Microwave Oven – 20 Ltr",
+    "price": " 15,075"
+  },
+  { "name": "Baltra Elite Oven Toaster (10 Ltr.)", "price": " 5,175" },
+  { "name": "Manual Coffee Ceramic Burr Grinder", "price": " 3,000" },
+  { "name": "3 Layer Metal Rack", "price": " 2,500" },
+  { "name": "4 Layer Metal Rack", "price": " 3,000" },
+  {
+    "name": "Electronic Kitchen Scale Digital Food Scale Plastic Weighing Scale",
+    "price": " 1,000"
+  },
+  { "name": "Scarlett Hand Mixer", "price": " 1,000" },
+  {
+    "name": "Caustic soda 300 gm used to remove pipe and drain block",
+    "price": " 200"
+  },
+  { "name": "Small Garden Trowel ( Jyabal)", "price": " 100" },
+  { "name": "CPVC Pipe Glue solvent", "price": " 600" },
+  { "name": "13gm Fevitite Glue – 4 pcs Combo", "price": " 300" },
+  { "name": "Measuring Tape 5 metres", "price": " 150" },
+  { "name": "3 Metres Measuring Tape", "price": " 100" },
+  { "name": "7.5meters Measuring tape", "price": " 300" },
+  { "name": "Dr Fixit Waterproof Joint Filler for Tiles", "price": " 150" },
+  { "name": "20 meter – Clothes Hang Rope", "price": " 300" },
+  { "name": "Adjustable Hand Shower Set", "price": " 1,200" },
+  { "name": "Fevikwik Glue – 10 pcs combo", "price": " 150" },
+  { "name": "Adjustable Shower Curtain Rod", "price": " 1,500" },
+  { "name": "Angle Valve", "price": " 1,000" },
+  { "name": "Bondtite Glue 450gm", "price": " 800" },
+  { "name": "Angle Value", "price": " 400" },
+  { "name": "Angle Valve", "price": " 600" },
+  { "name": "1/2 inch Brass Ball value", "price": " 400" },
+  { "name": "Rubber Door Stopper – 2 pcs combo", "price": " 200" },
+  { "name": "Door lock 2 pcs combo", "price": null },
+  { "name": "6*6 Inch Pop-Up Drain", "price": " 1,500" },
+  { "name": "Urinal Spreader (Sleek)", "price": " 1,600" },
+  { "name": "Pop-up Waste Coupling", "price": " 1,500" },
+  { "name": "SS POP-UP Waste Coupling", "price": " 1,000" },
+  { "name": "Wall Mixture Clutch", "price": " 2,000" },
+  { "name": "Spray With Bracket", "price": " 1,200" },
+  { "name": "Light Spray Head", "price": " 600" },
+  { "name": "Over Head Rain Shower", "price": " 5,000" },
+  { "name": "Over Head Shower Of 8 Inch", "price": " 4,000" },
+  { "name": "Over Head Square Rain Shower Of 4inch", "price": " 1,000" },
+  { "name": "Marble Cutting Blade", "price": " 200" },
+  { "name": "Wood Cutting Blade Of 4 inch", "price": " 250" },
+  { "name": "Soap Holder", "price": " 500" },
+  { "name": "Glass Brush Holder", "price": " 1,600" },
+  { "name": "Glass Soap Holder", "price": " 1,600" },
+  { "name": "Glass Shelf", "price": " 1,500" },
+  { "name": "Indian Single Flow Sink Tap", "price": " 5,000" },
+  { "name": "Basin Pillar Tap", "price": " 1,000" },
+  { "name": "Longbody Tap", "price": " 1,200" },
+  { "name": "Short Body Tap", "price": " 1,000" },
+  { "name": "Floating Switch", "price": " 2,000" },
+  {
+    "name": "Kaisa Villa Cookware Set (4 Piece Stainless Steel Induction)",
+    "price": " 6,800"
+  },
+  { "name": "Aeropress Coffee & Espresso Maker", "price": " 3,500" },
+  { "name": "Nordic Folding Kitchen Racks (HP95-776H)", "price": " 6,200" },
+  { "name": "Wood Pepper Grinder", "price": " 550" },
+  { "name": "Single Burner Electric Stove", "price": " 1,600" },
+  { "name": "12 Cups Non-stick Cupcake Baking Tray", "price": " 700" },
+  { "name": "Bread Moulds Long Non-stick", "price": " 450" },
+  { "name": "Heart Shaped Springform Cake Bake Pan", "price": " 600" },
+  { "name": "6 Cups Non-stick Cupcake Baking Tray", "price": " 500" },
+  { "name": "Portable Electric Lunch Box Steel", "price": " 1,500" },
+  {
+    "name": "Kaisa Villa Cookware Set (6 Piece Stainless Steel Induction)",
+    "price": " 8,500"
+  },
+  { "name": "Makeup Mirror LED Fill Light With Storage", "price": " 1,250" },
+  { "name": "Selroti Maker", "price": " 1,800" },
+  { "name": "Pigeon Mixer Grinder – Black Pearl", "price": " 6,360" },
+  { "name": "Pigeon Mixer Grinder – Zing", "price": " 5,280" },
+  { "name": "Pigeon Mixer Grinder – Viola", "price": " 5,050" },
+  { "name": "Gater Coffee Art Stencil (Pack of 16 designs)", "price": " 550" },
+  { "name": "Kitchen Soap Dispenser", "price": " 500" },
+  { "name": "Outback BBQ Grill", "price": " 3,000" },
+  { "name": "Electric Sukuti Maker (Food Dehydrator)", "price": " 7,100" },
+  { "name": "Multifunction Chopping Board", "price": " 1,000" },
+  { "name": "Wold Tornado Sink & Drain Cleaner", "price": " 1,000" },
+  { "name": "Fridge Storage Box (Pack of 4 )", "price": " 1,000" },
+  { "name": "LPG Gas Cylinder Cover", "price": " 450" },
+  { "name": "8 Pockets Wall Hanging Storage Bag", "price": " 900" },
+  { "name": "Wall Hanging Storage Bag", "price": " 500" },
+  { "name": "Revolving Glass Spice Jar Set of 12 Box", "price": " 2,100" },
+  {
+    "name": "Carvaan Saregama Mini 2.0 Shrimad Bhagavad Gita",
+    "price": " 4,150"
+  },
+  { "name": "Saregama Carvaan Mini 2.0 Bhakti", "price": " 4,150" },
+  { "name": "Carvaan Saregama Mini Kids", "price": " 4,999" },
+  {
+    "name": "Saregama Carvaan Old Songs Music Player with Remote Control",
+    "price": " 15,499"
+  },
+  { "name": "Hisense HX39N2176 39″ NORMAL  LED TV", "price": " 52,000" },
+  {
+    "name": "Hisense RS-20DR4SA 170 ltr Single Door Refrigerator",
+    "price": " 30,790"
+  },
+  { "name": "Hisense 150 Ltr Double Door Refrigerator", "price": " 34,990" },
+  { "name": "Hisense 190 Ltr Single Door Refrigerator", "price": " 34,990" },
+  { "name": "Hisense 210 Liter Chest Freezer,", "price": " 59,990" },
+  { "name": "Baltra Gift Set- 7 Pcs Set", "price": " 7,585" },
+  { "name": "Baltra Gift Set- 4 Pcs Set", "price": " 5,690" },
+  { "name": "Baltra Coffee Pot", "price": " 1,050" },
+  { "name": "Baltra Gift Set- 3 Pcs Set", "price": " 3,355" },
+  {
+    "name": "Baltra Induction Based Non Stick Kadhai with Lid",
+    "price": " 1,900"
+  },
+  { "name": "LPG Gas Stove Hose Pipe – 8mm – 2 Meter", "price": " 350" },
+  { "name": "Baltra Kitchen Chimney Crown BH112T – 60 Cm", "price": " 26,642" },
+  { "name": "Baltra Hotty Gas Geyser 6L- (BGWH-201)", "price": " 9,975" },
+  {
+    "name": "Baltra Bliss Stainless Steel Body Gas Stove 2 Burner (BGS 121)",
+    "price": " 2,975"
+  },
+  { "name": "Baltra Chimney Solitaire BCH-111P 60cm", "price": " 15,672" },
+  { "name": "Baltra Dry Iron", "price": " 1,125" },
+  { "name": "Baltra Table Fan – RIO", "price": " 2,975" },
+  { "name": "Baltra Dry Iron BTI 1103 ( Dynamic )", "price": " 2,375" },
+  { "name": "Baltra Stand Fan DHOOM (BF-128)", "price": " 3,525" },
+  { "name": "Baltra Stand Fan – JET", "price": " 3,275" },
+  { "name": "Baltra Real Steam/Dry Irons Bti-119", "price": " 1,425" },
+  { "name": "Baltra Stand Fan Oscar With Remote (BF 183)", "price": " 5,075" },
+  { "name": "Baltra Ceiling Fan", "price": " 4,375" },
+  {
+    "name": "Baltra Steel Regular 2.2 Ltrs Capacity Rice Cooker BTS-900SP",
+    "price": " 3,925"
+  },
+  {
+    "name": "Baltra Steel Regular 2.8 Ltrs Capacity Rice Cooker BTS-1000SP",
+    "price": " 4,525"
+  },
+  { "name": "Baltra Mixer Grinder-Cozy 2/3", "price": " 3,925" },
+  { "name": "Baltra Steel Regular Rice Cooker 1.8 LTR", "price": " 3,625" },
+  { "name": "Baltra Electric Pressure Cooker 6 Ltr Swift+", "price": " 8,750" },
+  { "name": "Baltra Magicook Roti Maker", "price": " 3,575" },
+  { "name": "Diamond Hard Anodized Black Karahi With Lid", "price": " 1,305" },
+  {
+    "name": "Baltra Decore + Microwave / Grill / Convection – 25 L",
+    "price": " 25,075"
+  },
+  { "name": "Baltra Perfect Electric Airpot", "price": " 4,975" },
+  { "name": "Baltra Fiamma Electric Pan", "price": " 4,425" },
+  { "name": "Baltra Griller", "price": " 2,675" },
+  { "name": "Baltra Passion Air Frier and Deep Frier", "price": " 11,575" },
+  {
+    "name": "Baltra Sandwich Press Grill (GRILL UNO BTG 105)",
+    "price": " 10,094"
+  },
+  { "name": "Samsung Galaxy A52 8GB RAM 128GB Storage", "price": " 41,999" },
+  { "name": "Samsung Galaxy M62 (8GB RAM, 128GB Storage)", "price": " 42,999" },
+  { "name": "Samsung Galaxy M62 6GB RAM, 128GB Storage", "price": " 39,999" },
+  {
+    "name": "Samsung Galaxy A32 (SM- A325F) Black-128GB-8GB",
+    "price": " 34,999"
+  },
+  {
+    "name": "Samsung Galaxy M315 (6 GB RAM, 128 GB Storage)",
+    "price": " 28,999"
+  },
+  {
+    "name": "Samsung Galaxy M12 ( 6 GB RAM,128 GB Storage) (Copy)",
+    "price": " 22,499"
+  },
+  {
+    "name": "Samsung Galaxy M12 ( 4 GB RAM,128 GB Storage)",
+    "price": " 19,999"
+  },
+  {
+    "name": "Samsung Galaxy M12 ( 4 GB RAM,64 GB Storage)",
+    "price": " 18,499"
+  },
+  { "name": "Samsung Galaxy M02s (4GB RAM, 64GB Storage)", "price": " 15,999" },
+  { "name": "Samsung Galaxy M02S (3GB RAM, 32GB Storage)", "price": " 14,499" },
+  { "name": "Samsung Galaxy M022 (3GB RAM,32 GB Storage)", "price": " 12,999" },
+  { "name": "Samsung Galaxy M022 (2GB RAM,32 GB Storage)", "price": " 11,999" },
+  {
+    "name": "Samsung Galaxy M01 Core (1GB RAM,16 GB Storage)",
+    "price": " 8,399"
+  },
+  {
+    "name": "Samsung Galaxy A32 (SM- A325F) Black-128GB-6GB",
+    "price": " 31,999"
+  },
+  {
+    "name": "Samsung Galaxy A32 (SM- A325F)II Ram 8GB Rom 128GB",
+    "price": " 34,999"
+  },
+  { "name": "Samsung Galaxy M325 (6GB+128GB)", "price": " 27,999" },
+  { "name": "Samsung Galaxy M325 (4GB+64GB)", "price": " 24,999" },
+  { "name": "Samsung Galaxy A22 (SM- A225F)", "price": " 27,999" },
+  { "name": "Multi- Function Magic Broom Sweeper", "price": " 700" },
+  {
+    "name": "Furniture Lifter Easy Moving Sliders Mover Tool Set",
+    "price": " 1,500"
+  },
+  {
+    "name": "Under Door Draft Guard Cover Stop Light Dust Cool Air Escape Protector",
+    "price": " 700"
+  },
+  {
+    "name": "Diamond Jumbo Heavy Aluminium Pressure Cooker",
+    "price": " 5,840"
+  },
+  { "name": "Pigeon Mixer Grinder – Star", "price": " 4,910" },
+  { "name": "Pigeon Mixer Grinder – Glory", "price": " 4,610" },
+  {
+    "name": "Diamond Classic Heavy Aluminium Pressure Cooker",
+    "price": " 3,170"
+  },
+  { "name": "Diamond Stainless Steel Pressure Cooker", "price": " 3,485" },
+  {
+    "name": "Diamond Black Contura HA Induction Based  Pressure Cooker",
+    "price": " 2,180"
+  },
+  { "name": "Diamond Black Contura HA Pressure Cooker", "price": " 1,900" },
+  {
+    "name": "Diamond White Contura Induction Based Pressure Cooker",
+    "price": " 1,475"
+  },
+  { "name": "Diamond White Contura Pressure Cooker", "price": " 1,265" },
+  { "name": "Diamond Induction Based Pressure Cooker", "price": " 1,400" },
+  { "name": "Kingone K9 Bluetooth Speaker", "price": " 1,400" },
+  { "name": "Diamond Classic Pressure Cooker", "price": " 1,145" },
+  {
+    "name": "CG Single Door Refrigerator(  CGS2051JDWN)-195Ltr",
+    "price": " 31,790"
+  },
+  {
+    "name": "CG Single Door Refrigerator( CGS2051JDPR)-195Ltr",
+    "price": " 31,790"
+  },
+  {
+    "name": "CG Single Door Refrigerator( CGS2001PLPR)-190Ltr",
+    "price": " 30,690"
+  },
+  {
+    "name": "CG Single Door Refrigerator(CGS185P5.BF/RF) – 175Ltr",
+    "price": " 29,390"
+  },
+  {
+    "name": "CG Single Door Refrigerator( CGS1951PPBL)-185Ltr.",
+    "price": " 29,590"
+  },
+  {
+    "name": "CG Double Door Refrigerator( CGD2801AQWN)- 260 Ltr",
+    "price": " 56,990"
+  },
+  {
+    "name": "CG Double Door Refrigerator (CGD2501THST)-231Ltr",
+    "price": " 48,590"
+  },
+  {
+    "name": "CG Double Door Refrigerator CGD250P4.I 230 Ltr.",
+    "price": " 39,490"
+  },
+  {
+    "name": "CG Single Door Refrigerator (CGS180BR/SG) – 170 Ltr.",
+    "price": " 26,890"
+  },
+  {
+    "name": "CG CGS160IMNR Single Door Refrigerator 150 Ltrs",
+    "price": " 25,390"
+  },
+  {
+    "name": "CG Double Door Refrigerator CGD250P2.RM 230 Ltr",
+    "price": " 49,890"
+  },
+  {
+    "name": "CG Double Door Refrigerator 180 Ltr/ CGD180P4.DS",
+    "price": " 36,390"
+  },
+  {
+    "name": "CG 60 Ltr. Single Door Refrigerator CGS6013BW",
+    "price": " 17,090"
+  },
+  {
+    "name": "CG Singel Door Refrigerator6013BG/BL 60 ltr.",
+    "price": " 16,790"
+  },
+  { "name": "Flex Tape", "price": " 500" },
+  {
+    "name": "Multifunctional Adjustable Washing machine/ Fridge Stand",
+    "price": " 1,850"
+  },
+  { "name": "Baltra Tableware Lifeline Pearl Plate", "price": " 700" },
+  { "name": "Melamine White  Bowl (Set of 6)", "price": " 800" },
+  { "name": "Melamine White Plate (Set of 6)", "price": " 1,500" },
+  { "name": "Melamine Red Plate (Set of 6)", "price": " 1,500" },
+  { "name": "Melamine Red Bowl (Set of 6)", "price": " 700" },
+  { "name": "Folding Handy Cart", "price": " 4,500" },
+  {
+    "name": "Melamine Bowl Red/Black (6 Pcs Set) 2168: 7″ diameter x3.5″ Height",
+    "price": " 1,100"
+  },
+  { "name": "USB Chargeable Electric Garlic Masher", "price": " 1,300" },
+  { "name": "Plastic Bottle Opener", "price": " 300" },
+  { "name": "Plastic Over The Door Hook 3 Pcs Hanger Set", "price": " 500" },
+  { "name": "3 pieces storage box dotted Round (stb-2839)", "price": " 850" },
+  { "name": "4 Pieces Storage Box (STB-2492)", "price": " 600" },
+  { "name": "4 Pieces Storage Box (STB-2392)", "price": " 600" },
+  { "name": "4 Pieces Storage Box (STB-1413)", "price": " 600" },
+  { "name": "4 Pieces Storage Box (stb-1412)", "price": " 600" },
+  { "name": "5 Pieces Storage Box STB-8081 Cube", "price": " 800" },
+  { "name": "Opal Bowl Set (3 pcs)", "price": " 1,200" },
+  { "name": "5 Pieces Storage Box STB-8080 Round", "price": " 800" },
+  {
+    "name": "Joyroom 1m Braided Wire PD C To Lightning Cable",
+    "price": " 1,150"
+  },
+  { "name": "Joyroom 20W PD Adapter (EU/CN Plug)", "price": " 1,950" },
+  {
+    "name": "Recci/Lanex W15 Wireless Earbuds IPX5 (Waterproof)",
+    "price": " 4,350"
+  },
+  { "name": "Recci REP-L18 wired Lightning Earphone", "price": " 1,750" },
+  { "name": "Recci REP-L17 Type C Wired Earphone", "price": " 1,050" },
+  { "name": "Recci C09 Car Holder Output  Upto 15W", "price": " 3,650" },
+  { "name": "Recci 65W Dual PD+USB 3.0 Adapter", "price": " 7,200" },
+  { "name": "Recci W09 Wireless Sport Earbud", "price": " 1,750" },
+  { "name": "Recci T1 Wireless IPX44 Earphone", "price": " 2,550" },
+  { "name": "Akekio AE20 3.5mm Wired Earphone", "price": " 550" },
+  { "name": "Akekio AC10 Fast Charger", "price": " 750" },
+  { "name": "Akekio UC20 USB-C TO USB-C PD 3.0 1m Cable", "price": " 650" },
+  {
+    "name": "Akekio AE04 3.5mm Wired Earbud (SUITABLE  FOR GAMING & CALL & MUSIC)",
+    "price": " 550"
+  },
+  {
+    "name": "Akekio AKY03 Wireless Bluetooth Sport Earphone",
+    "price": " 1,850"
+  },
+  {
+    "name": "Akekio AKY02 Wireless Bluetooth Sports Earphone",
+    "price": " 1,350"
+  },
+  { "name": "French Press Black Coffee Machine", "price": " 900" },
+  { "name": "double Sided IVY Tape", "price": " 800" },
+  { "name": "Portable Mini Sewing Machine", "price": " 3,000" },
+  { "name": "Air Drain Blaster Pump", "price": " 1,300" },
+  { "name": "6 Layer Plastic Shoe Cabinet", "price": " 2,600" },
+  { "name": "Double pole Hanger", "price": " 2,000" },
+  { "name": "Snap Up Bathroom Corner Shelf", "price": " 900" },
+  { "name": "Instant Water Tap Heater", "price": " 3,200" },
+  { "name": "Glass Spice Jar Set of 12 Box", "price": " 2,200" },
+  { "name": "Revolving Glass Spice Jar Set of 16 Box", "price": " 2,200" },
+  { "name": "Baltra Electric kettle- FAST 1.5 Ltr", "price": " 1,275" },
+  { "name": "Portable Wonder Heater Pro", "price": " 1,500" },
+  { "name": "6 – 7 Layer Foldable Shoe Rack Organizer", "price": " 1,400" },
+  { "name": "Travel Mug", "price": " 180" },
+  { "name": "Gentry Mug", "price": " 300" },
+  { "name": "Steel Lunch Box", "price": " 575" },
+  { "name": "Wall Hanger", "price": " 72" },
+  { "name": "Steel Cloth Hanger ( Pipe)", "price": " 240" },
+  { "name": "Steel Cloth Hanger", "price": " 210" },
+  { "name": "Steel Ashtray", "price": " 96" },
+  { "name": "Plastic Ashtray", "price": " 66" },
+  { "name": "Tulip BlueStar Hotline Hot Case", "price": " 300" },
+  { "name": "Tulip Steel Aroma Casserole", "price": " 910" },
+  { "name": "Tulip Tiffin Box", "price": " 1,775" },
+  { "name": "Pet grooming gloves", "price": " 450" },
+  { "name": "Tulip 2 step Lunch Box  – IE20", "price": " 700" },
+  { "name": "Yunteng 1288 Selfie Stick", "price": " 900" },
+  { "name": "Tulip Hard Adonised Pressure Cooker", "price": " 2,900" },
+  { "name": "Tulip Non Stick Chapati Tawa – 28 CM", "price": " 1,250" },
+  { "name": "Tulip Ceiling Fan", "price": " 2,323" },
+  { "name": "Tulip Turbo Farata Stand Fan", "price": " 2,250" },
+  { "name": "Tulip Multi Roti Maker", "price": " 2,900" },
+  { "name": "Tulip JMG Super Mixer", "price": " 4,500" },
+  { "name": "Tulip Champ Mixer", "price": " 2,925" },
+  { "name": "Tulip Nano Mixer", "price": " 2,925" },
+  { "name": "Tulip Swift Mixer", "price": " 3,500" },
+  { "name": "Tulip Alexa Mixer", "price": " 3,950" },
+  { "name": "Tulip Polo Mixer", "price": " 3,950" },
+  { "name": "Tulip Everest Mixer", "price": " 4,775" },
+  { "name": "Tulip Electric Auto Kettle", "price": " 1,775" },
+  { "name": "Tulip Electric Rod Kettle", "price": " 1,300" },
+  { "name": "Tulip Iron Designer", "price": " 1,075" },
+  { "name": "Tulip Iron Vivo", "price": " 910" },
+  { "name": "TULIP HALOGEN HEATER THH-O3 1200 W", "price": " 2,575" },
+  { "name": "TULIP QUARTZ HEATER TQH 2B 800 W", "price": " 1,250" },
+  { "name": "TULIP  QUARTZ HEATER TQH-2A 800 W", "price": " 1,250" },
+  { "name": "Tulip Cocoler All Purpose Fan Net", "price": " 1,250" },
+  { "name": "Tulip Charm Wall Fan 900/909 Net", "price": " 1,750" },
+  { "name": "Tulip Desire Table Fan 718/702 Net", "price": " 1,850" },
+  { "name": "Tulip Stand Fan 608 Net", "price": " 2,100" },
+  { "name": "Tulip Stand Fan 408 Net", "price": " 2,150" },
+  { "name": "TULIP NEXA INFRARED INDUCTION TIRI-01", "price": " 3,850" },
+  { "name": "TULIP AIRPOT", "price": " 3,550" },
+  { "name": "TULIP SEASON HOT & COLD -TWD-HC04", "price": " 8,575" },
+  { "name": "TULIP JOLLY HOT & NORMAL -TWD-HN03", "price": " 5,375" },
+  { "name": "TULIP AURA TABLE TOP -TWD-T02", "price": " 3,550" },
+  { "name": "TULIP PURE TABLE TOP- TWD-T01", "price": " 3,225" },
+  { "name": "Tulip Steel Deluxe Rice Cooker", "price": " 3,125" },
+  { "name": "Tulip Deluxe Rice Cooker", "price": " 2,050" },
+  { "name": "Tulip Plain Rice Cooker", "price": " 1,950" },
+  { "name": "5 Pieces Storage Box Rectangle (STB-8010A)", "price": " 800" },
+  { "name": "10 Egg Storage Box", "price": " 350" },
+  { "name": "Honeycomb Drawer Organizer", "price": " 700" },
+  { "name": "26 cm Ring Light with Stand", "price": " 2,000" },
+  { "name": "Electric Egg Cooker, Boiler, Poacher & Steamer", "price": " 849" },
+  { "name": "Double Layer Electric Egg Cooker", "price": " 1,200" },
+  {
+    "name": "Electric Multi function Egg Boiler With Non Sticky Frying Pan",
+    "price": " 1,250"
+  },
+  { "name": "Metal Pants Hangers with Clip ( Pack of 5)", "price": " 600" },
+  { "name": "Kitchen Scale SF400", "price": " 1,000" },
+  { "name": "CG Personal Cooler CGAR8001D", "price": " 20,590" },
+  { "name": "CG Window Cooler CGAR5005W", "price": " 13,690" },
+  { "name": "CG Personal Cooler CGAR351RP", "price": " 13,890" },
+  { "name": "CG Personal Cooler CGAR2201RP", "price": " 12,390" },
+  { "name": "CG Tower Cooler CGAR35F01R", "price": " 16,690" },
+  { "name": "CG Tower Cooler CGAR54G06RT", "price": " 17,290" },
+  { "name": "CG Tower Cooler CGAR26G06RT", "price": " 15,490" },
+  { "name": "CG Tower Cooler CGAR15G06RT", "price": " 13,590" },
+  { "name": "CG Desert Cooler JET CGAR9007D", "price": " 21,790" },
+  { "name": "CG Desert Cooler JET CGAR7507D", "price": " 18,890" },
+  { "name": "CG Desert Cooler JET CGAR6007D", "price": " 17,690" },
+  { "name": "CG Desert Cooler CGAR7505D", "price": " 21,190" },
+  { "name": "CG Desert Cooler CGAR6005D", "price": " 20,090" },
+  { "name": "CG Microwave CGMW30D01C", "price": " 23,090" },
+  { "name": "CG Microwave CGMW28F01G", "price": " 17,790" },
+  { "name": "CG Microwave CGMW25B01G", "price": " 15,990" },
+  { "name": "CG Microwave CGMW23E01S", "price": " 13,390" },
+  { "name": "CG Solo Microwave CGMW20A01S", "price": " 11,190" },
+  { "name": "CG Vacuum Cleaner CGVC22E01", "price": " 10,890" },
+  { "name": "CG Vacuum Cleaner CGVC22AD01", "price": " 13,890" },
+  { "name": "CG Vacuum Cleaner CGVC18HB01", "price": " 10,090" },
+  { "name": "CG Vacuum Cleaner CGVC18D01I", "price": " 9,390" },
+  { "name": "CG Vacuum Cleaner CGVC160G01I", "price": " 7,790" },
+  { "name": "CG Vacuum Cleaner CGVC14F01I", "price": " 7,790" },
+  { "name": "CG Multi Media Speaker CGA1026TD", "price": " 10,090" },
+  { "name": "CG Multi Media Speaker CGA5871", "price": " 9,190" },
+  { "name": "CG Multi Media Speaker CGA5801", "price": " 8,190" },
+  { "name": "CG Multi Media Speaker CGA3911", "price": " 6,890" },
+  { "name": "CG Multi Media Speaker CGA5202", "price": " 7,890" },
+  {
+    "name": "BALTRA FRONT LOAD 8.5KG WASHING MACHINE (BLMW -85FL02)",
+    "price": " 81,575"
+  },
+  {
+    "name": "BALTRA FRONT LOAD 7.5KG WASHING MACHINE BLMW-75FL01",
+    "price": " 59,975"
+  },
+  {
+    "name": "BALTRA MUSIC SYSTEM TIMBRE ROCKER (BLSB-201) 4.1",
+    "price": " 11,575"
+  },
+  {
+    "name": "BALTRA MUSIC SYSTEM TIMBRE ROCKER (BLSB-201) 2.1",
+    "price": " 10,575"
+  },
+  { "name": "BALTRA MUSIC SYSTEM DYNAMIC (BLSB201)2.1", "price": " 8,575" },
+  { "name": "BALTRA MUSIC SYSTEM WAVE (BLSB202) SOUND BAR", "price": " 6,575" },
+  { "name": "BALTRA 240 LTR. REFRIGERATOR BRF (240SD02)", "price": " 35,675" },
+  { "name": "BALTRA 210 LTR. REFRIGERATOR BRF (210SD01)", "price": " 32,125" },
+  { "name": "BALTRA 180 LTR. REFRIGERATOR BRF (180SD01)", "price": " 29,050" },
+  {
+    "name": "BALTRA 175 LTR. REFRIGERATOR BRF (BRF175SDRR)",
+    "price": " 27,575"
+  },
+  { "name": "BALTRA 150 LTR. REFRIGERATOR BRF (150DD01)", "price": " 29,825" },
+  { "name": "BALTRA 120LTR. REFRIGERATOR BRF (120DD01)", "price": " 25,075" },
+  { "name": "BALTRA 2.0 TON INVERTER AIR CONDITIONER", "price": " 121,775" },
+  { "name": "BALTRA 1.5 TON INVERTER AIR CONDITIONER", "price": " 107,175" },
+  { "name": "BALTRA 1 TON INVERTER AIR CONDITIONER", "price": " 78,825" },
+  { "name": "BALTRA 0.75 TON AIR CONDITIONER", "price": " 77,775" },
+  { "name": "BALTRA 50 INCH 4K LED SMART TV(BL50UST-K)", "price": " 68,225" },
+  { "name": "BALTRA 40 INCH LED NORMAL TV(BL40FAT-K)", "price": " 37,975" },
+  { "name": "BALTRA 40 INCH LED SMART TV(BL40FST-K)", "price": " 43,250" },
+  { "name": "CG Speaker CGA2331", "price": " 4,990" },
+  { "name": "CG Speaker CGA2701", "price": " 4,790" },
+  { "name": "CG Trolly Speaker CGTS10B01D", "price": " 27,590" },
+  { "name": "CG Trolly Speaker CGTS15A01", "price": " 19,490" },
+  { "name": "CG Double Trolly Speaker CGTS12B01D", "price": " 19,290" },
+  { "name": "CG Trolly Speaker CGTS12G01", "price": " 15,490" },
+  { "name": "CG Trolly Speaker CGTS12EO1", "price": " 18,290" },
+  { "name": "CG Trolly Speaker CGTS12A01", "price": " 13,890" },
+  { "name": "CG Air Conditioner CG18HP0102", "price": " 79,190" },
+  { "name": "CG Air Conditioner CG12HP0102", "price": " 62,090" },
+  { "name": "CG Air Conditioner CGCC18HR", "price": " 130,290" },
+  { "name": "CG Air Conditioner CG24HP02DB", "price": " 99,890" },
+  { "name": "CG Air Conditioner CG18HP02DB", "price": " 79,190" },
+  { "name": "CG Air Conditioner CG12HP02DB", "price": " 62,090" },
+  { "name": "CG Washing Machine CGWF1201B", "price": " 85,190" },
+  { "name": "CG Washing Machine CGWF1031", "price": " 81,090" },
+  { "name": "CG Washing Machine CGWF8031B", "price": " 727,990" },
+  { "name": "CG Washing Machine CGWF7041BW", "price": " 52,990" },
+  { "name": "CG Washing Machine CGWF7031B", "price": " 61,190" },
+  { "name": "CG Washing Machine CGWF7021W", "price": " 59,990" },
+  { "name": "CG Fully Automatic Washing Machine CGWT8021", "price": " 42,390" },
+  { "name": "CG Fully Automatic Washing Machine CGWT6021", "price": " 37,690" },
+  { "name": "CG Semi Automatic Washing Machine CGWS8E01", "price": " 28,490" },
+  { "name": "CG Semi Automatic Washing Machine CGWS6C01", "price": " 24,590" },
+  { "name": "CG Side by Side Showcase CG8103SC", "price": " 197,890" },
+  { "name": "CG Side by Side Showcase CG5403SC", "price": " 153,190" },
+  { "name": "CG Normal Showcase CG2703SC", "price": " 70,990" },
+  { "name": "CG Normal Showcase CG2513SC", "price": " 59,890" },
+  { "name": "CG Normal Showcase CG1803SC", "price": " 54,390" },
+  { "name": "CG Normal Showcase CG1413SC", "price": " 45,090" },
+  { "name": "CG Chest Freezer CGDF3303FG", "price": " 51,590" },
+  { "name": "CG Chest Freezer CGDF2303HS", "price": " 43,990" },
+  { "name": "CG Chest Freezer CGDF2903HDD", "price": " 55,990" },
+  { "name": "CG Chest Freezer CGDF2103H", "price": " 43,490" },
+  { "name": "CG Chest Freezer CGDF3503H", "price": " 55,990" },
+  { "name": "CG Chest Freezer CGDF3103H", "price": " 50,290" },
+  { "name": "CG Chest Freezer CGDF1303H", "price": " 34,490" },
+  { "name": "CG Double Door Refrigerator CGD375P4.IW", "price": " 70,690" },
+  { "name": "CG Double Door Refrigerator CGD280PB", "price": " 52,390" },
+  { "name": "CG Double Door Refrigerator CGD250P2.SG", "price": " 44,890" },
+  { "name": "CG Double Door Refrigerator CGD250P2.BM", "price": " 46,090" },
+  { "name": "CG Double Door Refrigerator CGD250P2.BG", "price": " 46,690" },
+  { "name": "CG Double Door Refrigerator CGD250P2.RG", "price": " 46,690" },
+  { "name": "CG Double Door Refrigerator CGD180P4.RF", "price": " 32,590" },
+  { "name": "CG Single Door Refrigerator CGS210P5.BF", "price": " 31,190" },
+  { "name": "CG Single Door Refrigerator CGS210P5.SF", "price": " 30,890" },
+  { "name": "CG Single Door Refrigerator CGS210N5.1", "price": " 29,890" },
+  { "name": "CG Single Door Refrigerator CGS2031 PL PR", "price": " 26,890" },
+  { "name": "CG Single Door Refrigerator CGS2011WR", "price": " 22,590" },
+  { "name": "CG Single Door Refrigerator CGS200PG", "price": " 28,390" },
+  { "name": "CG Single Door Refrigerator CGS2002.RWG", "price": " 32,690" },
+  { "name": "CG Single Door Refrigerator CG185P5.BF", "price": " 27,390" },
+  { "name": "CG Single Door Refrigerator CG185N5.1", "price": " 26,690" },
+  { "name": "CG Single Door Refrigerator CGS180PB", "price": " 26,090" },
+  { "name": "CG Single Door Refrigerator – CGS1023BW", "price": " 19,090" },
+  { "name": "CG Single Door Refrigerator CGS1023BG", "price": " 18,690" },
+  { "name": "CG Single Door Refrigerator CGS6013BW", "price": " 16,590" },
+  {
+    "name": "CG 75 Inch 4K UHD Google Certified Android TV – CG-75A1",
+    "price": " 275,790"
+  },
+  {
+    "name": "CG 65 Inch 4K UHD Google Certified Android TV – CG-65A1",
+    "price": " 137,790"
+  },
+  {
+    "name": "CG 55 Inch 4K UHD Google Certified Android TV – CG-55A1",
+    "price": " 88,190"
+  },
+  {
+    "name": "CG 50 Inch 4K UHD Google Certified Android TV – CG-50A1",
+    "price": " 77,090"
+  },
+  {
+    "name": "CG 43 Inch Google Certified Android TV – CG-43B1",
+    "price": " 56,390"
+  },
+  {
+    "name": "CG 32 Inch Google Certified Android TV – CG-32B1",
+    "price": " 35,990"
+  },
+  { "name": "CG 65 Inch 4K Smart LED TV – CG65DE200U.V1", "price": " 125,290" },
+  { "name": "CG 32 Inch Smart LED TV – CG32DC100S.V1", "price": " 27,990" },
+  { "name": "CG 55 Inch 4K Smart LED TV – CG55DE100U.V1", "price": " 80,390" },
+  { "name": "CG 50 Inch 4K Smart LED TV – CG50DE100U.V1", "price": " 59,990" },
+  { "name": "CG 32 Inch Normal LED TV – CG32DIN09", "price": " 21,990" },
+  { "name": "CG 24 Inch Normal LED TV – CG24DF205", "price": " 15,490" },
+  { "name": "CG 24 Inch Normal LED TV – CG24D2805", "price": " 15,490" },
+  { "name": "CG 43 Inch 4K Smart LED TV – CG43DC200U", "price": " 56,890" },
+  { "name": "CG 49 Inch Smart TV – CG49DC100S", "price": " 60,290" },
+  { "name": "CG 43 Inch Smart TV – CG43DJ06S", "price": " 53,690" },
+  { "name": "CG 32 Inch Smart Tv – CG32DJ06S", "price": " 32,890" },
+  { "name": "CG – 32 Inch Normal LED TV – CG32DF205", "price": " 26,790" },
+  { "name": "CG 24 Inch Normal LED TV – CG24DF205", "price": " 15,490" },
+  {
+    "name": "CG – 20 Inch Normal LED TV CG20D3205\\20D3305",
+    "price": " 12,890"
+  },
+  { "name": "CG – 20 Inch Normal LED TV CG20D1504", "price": " 12,890" },
+  { "name": "Coffee Mug T1 (Pack of 12 )", "price": " 1,000" },
+  { "name": "Coffee Mug N9 ( Pack of 12 )", "price": " 1,500" },
+  { "name": "Coffee Mug N8 ( Pack of 12 )", "price": " 1,500" },
+  { "name": "Coffee Mug N7 ( Pack of 12)", "price": " 1,500" },
+  { "name": "Coffee Mug N4 ( Pack of 12 )", "price": " 1,500" },
+  { "name": "Coffee Mug N 2 ( Pack of 12 )", "price": " 1,500" },
+  { "name": "Coffee Mug – N10 ( Pack of 12 )", "price": " 1,500" },
+  { "name": "Coffee Mug – G ( Pack of 12 )", "price": " 1,500" },
+  { "name": "Coffee Mug A ( Pack of 12 )", "price": " 1,500" },
+  { "name": "Thermos Coffee Pot (1 litre)", "price": " 850" },
+  {
+    "name": "Hicon Ice Maker 2L Tank Manual Watering Type Mini Fast Ice Machine",
+    "price": " 12,000"
+  },
+  {
+    "name": "K7 Mobile Security For Android 1 Device – 1 Year",
+    "price": " 1,000"
+  },
+  { "name": "K7 Ultimate Security", "price": " 2,500" },
+  { "name": "K7 Total Security", "price": " 1,500" },
+  { "name": "K7 Antivirus Premium", "price": " 1,000" },
+  { "name": "Borges Classic Pure Olive Oil", "price": " 1,750" },
+  { "name": "Baltra Air Cooler Frosty BF 162", "price": " 15,526" },
+  { "name": "BALTRA CLARK Induction Cooktop", "price": " 3,425" },
+  { "name": "BALTRA BIC-109 COOL Induction Cooktop", "price": " 3,975" },
+  {
+    "name": "BALTRA Casmo + Pro 2000 Watt Induction Cooktop",
+    "price": " 3,675"
+  },
+  { "name": "Baltra Quizzer Juicer Grinder", "price": " 5,925" },
+  {
+    "name": "C.G Vintage  Hard Anodised  Aluminium Induction Based Pressure Cooker",
+    "price": " 1,540"
+  },
+  {
+    "name": "PASEO Smart Embossed Toilet Roll 2 Ply – 4 Rolls 200’s 25021202",
+    "price": " 237"
+  },
+  { "name": "PASEO Livi Dinner napkins 2 Ply 50’s 53335146", "price": " 209" },
+  { "name": "LUCKY Bowl Plain Medium LG222405- Pack of 6", "price": " 510" },
+  { "name": "LUCKY Bowl Plain Dal LG224 / 222404- Pack of 6", "price": " 300" },
+  { "name": "LUCKY Bowl Ring Big LG20001- Pack of 6", "price": " 1,290" },
+  { "name": "LUCKY Desert Cup LG44 / 404404- Pack of  6", "price": " 330" },
+  { "name": "LUCKY Bowl Ring Dal LG220 / 222005- Pack of 6", "price": " 360" },
+  {
+    "name": "LUCKY Bowl Ring Peanuts LG221/ 222004- Pack of 6",
+    "price": " 240"
+  },
+  {
+    "name": "LUCKY Bowl Ring Chutney -LG222 / 222003 Pack of 6",
+    "price": " 240"
+  },
+  { "name": "LUCKY Shot Glass LG405 – Pack of 6", "price": " 330" },
+  { "name": "LUCKY Shot Glass LG46 – Pack of 6", "price": " 300" },
+  { "name": "LUCKY Shot Glass LG43 – Pack of 6", "price": " 210" },
+  { "name": "LUCKY Shot Glass LG42 – Pack of 6", "price": " 210" },
+  { "name": "LUCKY Shot Glass LG 41 – Pack of 6", "price": " 210" },
+  { "name": "LUCKY Shot Glass LG409 – Pack of 6", "price": " 420" },
+  { "name": "LUCKY Shot Glass LG408 – Pack of 6", "price": " 210" },
+  {
+    "name": "Baltra Electric Pressure Glair Multi Cooker BTC-101 Food Steamer  (0.9 L)",
+    "price": " 1,975"
+  },
+  { "name": "LUCKY Shot Glass LG406 – Pack of 6", "price": " 270" },
+  { "name": "LUCKY Holder Glass LG40 / 104007- Pack of 6", "price": " 270" },
+  { "name": "LUCKY Whisky Glass LG10001 / 101110- Pack of 6", "price": " 420" },
+  { "name": "LUCKY Square Whisky Glass LG100409- Pack of 6", "price": " 390" },
+  {
+    "name": "LUCKY D – Cut Design Whisky Glass LG15 / 101509- Pack of 6",
+    "price": " 330"
+  },
+  { "name": "LUCKY Base Cut Whisky Glass LG3608- Pack of 6", "price": " 300" },
+  {
+    "name": "LUCKY  Whisky Glass (LG132708-LG28/ 122708)- Pack of 6",
+    "price": " 330"
+  },
+  {
+    "name": "LUCKY Round Whisky Glass LG36 / 103608- Pack of 6",
+    "price": " 330"
+  },
+  { "name": "LUCKY Whisky Glass LG35/ 103509- Pack of 6", "price": " 330" },
+  {
+    "name": "LUCKY WHISKY Glass -(LG27 – LG103511) Pack of 6",
+    "price": " 330"
+  },
+  {
+    "name": "LUCKY Tom Collin Glass (LG32-LG3006) – Pack of 6",
+    "price": " 420"
+  },
+  { "name": "LUCKY Juice Glass LG38 / 103209 – Pack of – 6", "price": " 270" },
+  { "name": "LUCKY Ice Tea Glass – Pack of 6", "price": " 480" },
+  {
+    "name": "LUCKY Water Round Glass LG37 / 103710 – Pack of 6",
+    "price": " 420"
+  },
+  { "name": "LUCKY Highball Glass Pack of 6", "price": " 330" },
+  {
+    "name": "LUCKY Hot Lemon Glass LG126 / 312611- Pack of 6",
+    "price": " 510"
+  },
+  { "name": "LUCKY Tea Mug LG312007 – Pack of 6", "price": " 480" },
+  { "name": "LUCKY saucer Coffee LG755 / 775405 – Pack of 6", "price": " 780" },
+  { "name": "LUCKY Beer Mug LG313013 – Pack of 6", "price": " 720" },
+  { "name": "LUCKY Beer Mug  LG115 / 311514 – Pack of 6", "price": " 510" },
+  { "name": "LUCKY Beer Mug LG114 – Pack of 6", "price": " 720" },
+  { "name": "LUCKY Beer Mug LG122 / 312213 – Pack of 6", "price": " 900" },
+  {
+    "name": "LUCKY Beer ozFrosted glass LG22F / 102214(F) – Pack of 6",
+    "price": " 480"
+  },
+  { "name": "LUCKY Beer glass LG22 / 102214 – Pack of 6", "price": " 420" },
+  { "name": "Baltra Portico Electric Pan", "price": " 4,303" },
+  { "name": "Baltra Grace 2 Slice Toaster", "price": " 1,400" },
+  {
+    "name": "Baltra Black Magic 4B Gas Hub – 4 Burner Hub",
+    "price": " 22,233"
+  },
+  { "name": "Baltra Induction Cooker", "price": " 3,975" },
+  {
+    "name": "Videocon 40 Smart Full Hd Led Tv Android 8.00",
+    "price": " 42,941"
+  },
+  { "name": "Panasonic Vacuum Cleaner(MC-CG371A146)", "price": " 12,300" },
+  {
+    "name": "Panasonic AC MX-AC555 Mixer Grinder, 550W, 5 Jars (Bronze)",
+    "price": " 11,460"
+  },
+  { "name": "Panasonic Mixer Grinder – MX-AC350", "price": " 10,290" },
+  {
+    "name": "Panasonic MX-AC380 550 Mixer Grinder (3 Jars)",
+    "price": " 10,290"
+  },
+  {
+    "name": "Panasonic 1.8 Ltr Deluxe Electric Rice Cooker (SR-W18AR)",
+    "price": " 5,820"
+  },
+  { "name": "Panasonic Rice Cooker – 7.2 Ltrs (SR-972)", "price": " 19,320" },
+  { "name": "Panasonic 2.2 Ltr Rice Cooker (sr-wa-22h-ss)", "price": " 4,740" },
+  {
+    "name": "Panasonic 1.8 Ltr Electric Rice Cooker (SR-Y18HYT )",
+    "price": " 4,540"
+  },
+  {
+    "name": "Panasonic Blue Electric Rice Cooker Sr-g06cmb, 0.6ltr.",
+    "price": " 3,610"
+  },
+  {
+    "name": "Panasonic 0.3 Ltr Electric Rice Cooker (SR-3NA-CMB)",
+    "price": " 3,760"
+  },
+  {
+    "name": "PANASONIC Drum Vacuum Cleaner – 1700W MC-YL631R146",
+    "price": " 19,200"
+  },
+  {
+    "name": "Panasonic Bagless Canister Vacuum Cleaner – 2000W(MC-CL565K146)",
+    "price": " 19,700"
+  },
+  {
+    "name": "Panasonic TH-65FX800S 65″ 4K UHD HDR LED TV – Black",
+    "price": " 380,000"
+  },
+  {
+    "name": "Panasonic Th-55Fx800N 55″ 4K Uhd Hdr Led Tv – Black",
+    "price": " 265,400"
+  },
+  {
+    "name": "Panasonic Th-55Fx700N 55″ 4K Uhd Hdr Led Tv – Black",
+    "price": " 183,000"
+  },
+  {
+    "name": "Panasonic Th-49Fx700N 49″ 4K Uhd Hdr Led Tv – Black",
+    "price": " 158,200"
+  },
+  {
+    "name": "Panasonic Th-49Fx600N 49″ 4K Uhd Hdr Led Tv – Black",
+    "price": " 140,000"
+  },
+  {
+    "name": "Panasonic Th-40Fs500N 40″ Smart Full Hd Led Tv – Black",
+    "price": " 68,000"
+  },
+  {
+    "name": "Panasonic Th-40F403N 40″ Full Hd Led Tv – Black",
+    "price": " 62,900"
+  },
+  { "name": "Panasonic 32 Inch HD LED TV TH- 32F401N", "price": " 38,300" },
+  { "name": "Hisense WDBL1014V Washer Dryer", "price": " 86,200" },
+  {
+    "name": "Obo King Food Processor / Mixer System 21pc Include",
+    "price": " 4,200"
+  },
+  {
+    "name": "Hisense 8Kg Front Load Fully Automatic Washing Machine (WFBL8014VT)",
+    "price": " 98,390"
+  },
+  { "name": "Diamond Seiko Induction Cooktop 2000 Watt", "price": " 3,050" },
+  {
+    "name": "Midea DC Inverter Ceiling Cassette 2.0 ton Air Conditioner",
+    "price": " 175,150"
+  },
+  {
+    "name": "Midea DC Inverter Ceiling Cassette 1.5 ton Air Conditioner",
+    "price": " 163,850"
+  },
+  {
+    "name": "Midea DC Inverter Ceiling Cassette 1.0 ton Air Conditioner",
+    "price": " 129,950"
+  },
+  {
+    "name": "Midea Ceiling Cassette 2.0 ton Air Conditioner",
+    "price": " 141,250"
+  },
+  {
+    "name": "Midea Ceiling Cassette 1.5 ton Air Conditioner",
+    "price": " 103,960"
+  },
+  {
+    "name": "Midea Ceiling Cassette 1.0 ton Air Conditioner",
+    "price": " 93,790"
+  },
+  {
+    "name": "Midea DC Inverter Wall Mounted 2.0 ton Air Conditioner (Xtreme series)",
+    "price": " 141,250"
+  },
+  {
+    "name": "Midea DC Inverter Wall Mounted 1.5 ton Air Conditioner (Xtreme series)",
+    "price": " 109,610"
+  },
+  {
+    "name": "Midea DC Inverter Wall Mounted 1.0 ton Air Conditioner (Xtreme series)",
+    "price": " 79,100"
+  },
+  {
+    "name": "Midea Wall Mounted 2.0 ton Air Conditioner (blanc series)",
+    "price": " 102,830"
+  },
+  {
+    "name": "Midea Wall Mounted 1.5 ton Air Conditioner (blanc series)",
+    "price": " 81,360"
+  },
+  {
+    "name": "Midea Wall Mounted 1.0 ton Air Conditioner (blanc series)",
+    "price": " 59,890"
+  },
+  {
+    "name": "Midea Wall Mounted 0.75 ton Air Conditioner (blanc series)",
+    "price": " 57,630"
+  },
+  { "name": "Magic Bullet 21-Piece Mixer/Blender", "price": " 4,800" },
+  {
+    "name": "Shake N Take 3 – Juice & Fruit Blender with 2 Bottles",
+    "price": " 2,500"
+  },
+  {
+    "name": "Linhui Timer ultrasonic top filling water and cool mist air humidifier with essential oil tray LH-193",
+    "price": " 4,500"
+  },
+  {
+    "name": "Linhui Timer ultrasonic top filling water and cool mist air humidifier with essential oil tray LH-192",
+    "price": " 4,500"
+  },
+  { "name": "Potato Peeler", "price": " 250" },
+  { "name": "Deli Oil Pot 600 ml", "price": " 350" },
+  {
+    "name": "Collapsible Silicone Colander Fruit Vegetable Strainer",
+    "price": " 500"
+  },
+  { "name": "Avocado Slicer", "price": " 250" },
+  { "name": "Starbucks Stylish Slim Vacuum Flask", "price": " 550" },
+  { "name": "Mini Portable Blender/ Juicer", "price": " 2,200" },
+  { "name": "Waterproof Bluetooth speaker", "price": " 2,200" },
+  { "name": "CG Gas Room Heater CG-GH02E", "price": " 12,350" },
+  { "name": "Baltra PTC Wall Heater (Affect)", "price": " 5,675" },
+  { "name": "Baltra PTC Wall Heater (Calor)", "price": " 8,525" },
+  { "name": "Kitchen Shelf (self draining Sink)", "price": " 700" },
+  { "name": "Vegetable Chopper", "price": " 900" },
+  {
+    "name": "Whirlpool 20 L Solo Microwave Oven (Magicook 20SW, Black )",
+    "price": " 11,500"
+  },
+  { "name": "OVER THE DOOR HOOKS (5×2 hooks)", "price": " 500" },
+  {
+    "name": "French Press Set (coffee machine) 600 ml + 4 Cups",
+    "price": " 1,200"
+  },
+  { "name": "Multi-blade Salad Scissor", "price": " 550" },
+  { "name": "Moka Coffee Pot Steel – 6 Cups", "price": " 1,000" },
+  {
+    "name": "Baltra Tirano Oven Toaster & Griller (23 Ltr.)",
+    "price": " 9,075"
+  },
+  { "name": "Steel Double-Layers Lunch Box", "price": " 700" },
+  { "name": "Relia Popcorn Maker", "price": " 2,500" },
+  { "name": "JBL Wireless Stereo Heaphones MJ – 6699", "price": " 1,499" },
+  { "name": "JBL Truly Wireless In-Ear Headphones TWS-4", "price": " 2,500" },
+  { "name": "Cotton Floor Mop With Wood Stick", "price": " 150" },
+  { "name": "Pineapple Slicer", "price": " 600" },
+  { "name": "Plate Rack 3 Layer", "price": " 2,400" },
+  { "name": "Magic Silicone Scrubber Gloves", "price": " 750" },
+  { "name": "PORTABLE USB RECHARGEABLE SELFIE RING LIGHT", "price": " 700" },
+  { "name": "Baltra Austin BCM – 105 Coffee Maker", "price": " 2,675" },
+  {
+    "name": "6 Liter Portable, Electronic Mini Car Refrigerator with Cup Holders",
+    "price": " 4,000"
+  },
+  { "name": "Automatic Wireless Charger Car Phone Holder", "price": " 2,100" },
+  { "name": "Large Plastic Dish Drainer", "price": " 600" },
+  {
+    "name": "GAE Throttle Bike and Scooter Security Lock Universal Type",
+    "price": " 999"
+  },
+  { "name": "Honor Band 4", "price": " 6,000" },
+  { "name": "Wireless Portable Juicer", "price": " 1,600" },
+  {
+    "name": "Portable Handy Vacuum Cleaner With Washable Filter and Various Brush",
+    "price": " 5,000"
+  },
+  { "name": "Engraving Pen", "price": " 700" },
+  {
+    "name": "IDragon OTG – PENDRIVE 4 in 1 Micro-USB 8-pin / USB 3.0 Flash Drive (64GB) – Silver / Black",
+    "price": " 5,325"
+  },
+  {
+    "name": "IDragon OTG – PENDRIVE 4 in 1 Micro-USB 8-pin / USB 3.0 Flash Drive (32GB) – Silver / Black",
+    "price": " 3,850"
+  },
+  {
+    "name": "IDragon OTG – PENDRIVE 4 in 1 Micro-USB 8-pin / USB 3.0 Flash Drive (128GB) – Silver / Black",
+    "price": " 8,250"
+  },
+  {
+    "name": "4-in-1 Type C Micro SD Card Reader-Black/White",
+    "price": " 1,250"
+  },
+  {
+    "name": "Professional 9H MR fix AUTO ceramic coating for car",
+    "price": " 2,000"
+  },
+  { "name": "Car Trash Bin", "price": " 500" },
+  { "name": "Happycall Nonstick Double Pan", "price": " 3,000" },
+  { "name": "PUBG Mobile Game Controller", "price": " 450" },
+  { "name": "Melamine Momo Plate With Side Sauce Bowl", "price": " 350" },
+  { "name": "Magic Silicone Scrubbing Gloves", "price": " 750" },
+  {
+    "name": "Bestway Pavillo Airbed Mattress Pump Included",
+    "price": " 3,200"
+  },
+  {
+    "name": "Shake N Take – Juice & Fruit Blender with 2 Bottles",
+    "price": " 2,500"
+  },
+  { "name": "Happy Bear Multi Storage Box Color", "price": " 500" },
+  { "name": "4 Pieces Storage Box Rectangle (Stb-8826)", "price": " 750" },
+  { "name": "4 Pieces Storage Box Square", "price": " 750" },
+  { "name": "Multifunction Electric Rice Cooker", "price": " 1,100" },
+  { "name": "Bamboo Round Pizza Tray With Handle", "price": " 750" },
+  { "name": "6 Piece Bamboo Kitchen Tool Set", "price": " 500" },
+  { "name": "Power Free Hand Blender", "price": " 400" },
+  { "name": "Opal Bowl 10 Pcs", "price": " 1,200" },
+  { "name": "Color Bowl Latte Ribbed (Pack of 6)", "price": " 750" },
+  { "name": "Portable 4-Layer Shoe Rack", "price": " 1,000" },
+  { "name": "Hurricane In and Out Mop", "price": " 3,500" },
+  { "name": "Car Perfume Holder With USB", "price": " 1,500" },
+  { "name": "Onion And Vegetable Chopper", "price": " 150" },
+  { "name": "Sunflower Hotcase / Casserole – Food Container", "price": " 700" },
+  { "name": "Sunflower Hotcase / Casserole", "price": " 750" },
+  { "name": "CG Electric Kettle 4.0L", "price": " 1,770" },
+  { "name": "Whistling Color Kettle 3.2 L", "price": " 1,500" },
+  { "name": "Waterproof Membrane", "price": " 650" },
+  { "name": "JYO18 Foldable Pocket Drone", "price": " 4,000" },
+  { "name": "Sunsumo Waterproof Pouch for Smartphone (Blue)", "price": " 120" },
+  {
+    "name": "6 pcs Safety Guard for Socket (2 and 3 Hole Power Socket Cover)",
+    "price": " 225"
+  },
+  { "name": "Mini Hand Sewing Machine", "price": " 700" },
+  { "name": "HOMIO LUNCH BOX", "price": " 1,050" },
+  { "name": "LUNCH BOX STAINLESS STEEL", "price": " 500" },
+  { "name": "Kid’s Study Table Set", "price": " 5,200" },
+  {
+    "name": "Outdoor Garden 4 LED Solar Pathway Lights (2 Pcs Pack)",
+    "price": " 1,250"
+  },
+  { "name": "360 Rotation Car Phone Holder", "price": " 1,500" },
+  { "name": "Pest Repelling Aid", "price": " 650" },
+  { "name": "Hisense HX43M216F 43″ Normal LED TV", "price": " 60,000" },
+  { "name": "Multifunctional Laptop Table", "price": " 3,000" },
+  { "name": "Foldable Table Square", "price": " 3,000" },
+  { "name": "Baltra Juicer Performer New", "price": " 4,600" },
+  {
+    "name": "Lucas Flourish Lama Amazing Nano Rubber Pad Mobile Phone Holder Car Kits (Black)",
+    "price": " 700"
+  },
+  { "name": "Stainless steel Wire Roster", "price": " 299" },
+  { "name": "Classic Aluminium Hand Juicer", "price": " 2,000" },
+  { "name": "Sharp Hot Pot (2.9Ltr – 3.6 Ltr )", "price": " 5,900" },
+  { "name": "Sharp Rice Cooker – KS18E", "price": " 5,825" },
+  { "name": "Sharp Rice Cooker (1Ltr) – KS11E", "price": " 5,580" },
+  { "name": "Sharp Rice Cooker – KSH777 (7Ltr)", "price": " 15,990" },
+  { "name": "Sharp Rice Cooker 1.5 Ltr to 2.8 Ltr", "price": " 3,640" },
+  {
+    "name": "Black & Decker 4 Slice Long Cool Touch Toaster, White – ET124",
+    "price": " 4,595"
+  },
+  { "name": "Black & Decker CJ100 Citrus Juicer", "price": " 2,030" },
+  {
+    "name": "Black and Decker Mixer Juicer & Food Processor – CJ600",
+    "price": " 2,030"
+  },
+  {
+    "name": "Black & Decker RC1800 1.8-Litre 700-Watt Rice Cooker.",
+    "price": " 4,060"
+  },
+  { "name": "Motion-Activated Solar Power LED EverBrite", "price": " 1,000" },
+  { "name": "Anti -Theft Backpack  With USB Port – Grey", "price": " 2,000" },
+  { "name": "Eleaf Istick Pico", "price": " 2,799" },
+  { "name": "Bluetooth Hat", "price": " 1,250" },
+  { "name": "Keema Maker", "price": " 1,500" },
+  { "name": "Steel Keema Maker", "price": " 2,000" },
+  { "name": "Finger Chips Cutter", "price": " 299" },
+  { "name": "TP-Link 300 Mbps DSL Router.", "price": " 2,400" },
+  { "name": "Coffee Maker ok", "price": " 3,500" },
+  { "name": "Homday Coffee Maker", "price": " 3,000" },
+  {
+    "name": "Classic White Porcelain Espresso Cup and Saucer (Set of 6)",
+    "price": " 750"
+  },
+  { "name": "FILTER COFFEE MAKER", "price": " 2,200" },
+  {
+    "name": "Classic White Porcelain Cuppaccino Cup and Saucer (Set of 6)",
+    "price": " 800"
+  },
+  { "name": "Deluxe QX002 Digital DSLR Camera Bag", "price": " 9,000" },
+  { "name": "Deluxe QX001 DSLR Camera Bag", "price": " 4,500" },
+  { "name": "TCL TY-LWR3W Hot & Normal Water Dispenser", "price": " 7,290" },
+  {
+    "name": "TCL TY-LWDR11W Hot Normal & Cold Water Dispenser",
+    "price": " 10,390"
+  },
+  {
+    "name": "Grip-Lock Motorcycle and Scooter Security Lock – Blue",
+    "price": " 5,000"
+  },
+  { "name": "Car Vacuum with Tyre Inflator (4 in 1)", "price": " 4,400" },
+  { "name": "Portable Heavy Duty Car Air Compressor", "price": " 4,000" },
+  {
+    "name": "Coffee / Milk Blender – Frother – Battery Operated",
+    "price": " 350"
+  },
+  { "name": "Chat Sim   — One Sim Unlimited Chats", "price": " 4,000" },
+  {
+    "name": "CLATRONIC KK3522 Electric Oven with 2 Hot Plates",
+    "price": " 8,500"
+  },
+  { "name": "Cake Mould Round 24cm", "price": " 450" },
+  { "name": "Cake Mould Square 23cm x 23cm", "price": " 450" },
+  { "name": "Egg Cooker", "price": " 1,300" },
+  { "name": "Electric Popcorn Maker", "price": " 2,000" },
+  { "name": "Luma Candles 3 pcs set with Remote", "price": " 1,250" },
+  {
+    "name": "Hisense WFH8014T 8Kg Titanium  Color Washing Machine with 1400RPM",
+    "price": " 80,490"
+  },
+  {
+    "name": "Whirlpool Refrigerator Single Door  200 GENIUS CLS 3S (185 Ltr)",
+    "price": " 24,700"
+  },
+  { "name": "Whirlpool WhiteMagic 622D Fully Auto", "price": " 32,300" },
+  {
+    "name": "Whirlpool 6.5 kg Semi Automatic Washing Machine – SuperWash A-65b",
+    "price": " 23,300"
+  },
+  {
+    "name": "Whirlpool 410 L 3 Star Frost-Free Double Door Refrigerator (Pro 425 Elite, Alpha Steel)",
+    "price": " 72,600"
+  },
+  {
+    "name": "Whirlpool Refrigerator 245 ltrs Special Finish",
+    "price": " 44,000"
+  },
+  { "name": "Whirlpool Refrigerator 245 ltrs", "price": " 43,500" },
+  {
+    "name": "Whirlpool 330 Ltr 343D Protton Triple Door Refrigerator",
+    "price": " 69,200"
+  },
+  {
+    "name": "Whirlpool Fp 263D Royal Protton Frost-free Multi Door Refrigerator (240 LTR, Alpha Steel)",
+    "price": " 52,300"
+  },
+  {
+    "name": "Whirlpool 20 L Solo Microwave Oven (Magicook 20SW, White)",
+    "price": " 11,500"
+  },
+  { "name": "Godrej Microwave Oven 20 Ltr. GMX20SA2BLM", "price": " 9,100" },
+  {
+    "name": "GODREJ RD EDGESX 185 CTS 4.2 185 LTR SINGLE DOOR REFRIGERATOR-Berry Bloom-Indigo Orchid",
+    "price": " 24,599"
+  },
+  {
+    "name": "Godrej 35Ltr Chotukool Portable Single Door Refrigerator (Black)",
+    "price": " 15,530"
+  },
+  {
+    "name": "TCL 7.0 KG Front Loading Washing Machine – TWF70P12101SP",
+    "price": " 52,890"
+  },
+  {
+    "name": "TCL 6.0KG Fully Automatic Front Loading Washing Machine (TWF60P10101S)",
+    "price": " 47,170"
+  },
+  {
+    "name": "TCL 7.0KG Fully Automatic / Top Loading Washing Machine (TWA70-B302TGM)",
+    "price": " 29,300"
+  },
+  {
+    "name": "TCL 6.0KG Fully Automatic / Top Loading Washing Machine (TWA60-B302TGM)",
+    "price": " 27,550"
+  },
+  {
+    "name": "TCL 8.0KG Semi Automatic / Top Loading Washing Machine (TWM-80TF/M)",
+    "price": " 20,140"
+  },
+  {
+    "name": "TCL 6.8KG Semi Automatic / Top Loading Washing Machine (TWM-68TF/M)",
+    "price": " 17,800"
+  },
+  {
+    "name": "Maharaja Whiteline Solo Happiness 500-Watt Mixer Grinder",
+    "price": " 4,570"
+  },
+  { "name": "Maharaja Maestro Mixer Grinder", "price": " 5,253" },
+  { "name": "Maharaja Classico Blue Dry Iron", "price": " 1,071" },
+  { "name": "Maharaja Classico Deluxe Dry Iron", "price": " 2,152" },
+  { "name": "Maharaja Classico Glide Dry Iron", "price": " 1,275" },
+  {
+    "name": "Maharaja Whiteline Padestal Fan 400mm OPAL PF-50",
+    "price": " 5,794"
+  },
+  { "name": "Maharaja Whiteline Wave Ceiling Fan – 1200mm", "price": " 2,897" },
+  {
+    "name": "Maharaja Whiteline Zephyr Ceiling Fan – 600mm",
+    "price": " 3,223"
+  },
+  { "name": "CG EMERGENCY LIGHT CGEL24C01L", "price": " 1,846" },
+  { "name": "CG EMERGENCY LIGHT CGEL36B01A", "price": " 1,846" },
+  { "name": "CG EMERGENCY LIGHT CGEL36A01A", "price": " 1,561" },
+  { "name": "CG Halogen Heater CGHH12B01", "price": " 2,397" },
+  { "name": "CG-Halogen Heater CGHH12C01", "price": " 2,275" },
+  { "name": "CG Halogen Heater CGHH12A01A", "price": " 1,907" },
+  {
+    "name": "Pigeon Classic Aluminium Pressure Cooker with Inner Lid",
+    "price": " 1,340"
+  },
+  {
+    "name": "LG VP7321NNT 2100W Micro Filter Vacuum Cleaner",
+    "price": " 21,590"
+  },
+  {
+    "name": "LG VP7320NNT 2000W Micro Filter Vacuum Cleaner",
+    "price": " 21,090"
+  },
+  {
+    "name": "LG VS8606SWM Cordless Handstick Vacuum Cleaner with Smart Inverter Motor™",
+    "price": " 43,990"
+  },
+  {
+    "name": "LG VC3320NNT 2000-Watt Bagless Vacuum Cleaner",
+    "price": " 15,990"
+  },
+  {
+    "name": "LG VC3316NNT 1400-Watt Canister Bagless Vacuum Cleaner",
+    "price": " 14,890"
+  },
+  {
+    "name": "LG MJ-3294BG 32Ltr Convection Microwave Oven",
+    "price": " 38,190"
+  },
+  {
+    "name": "LG MJ-3283BKG 32Ltr Convection Microwave Oven",
+    "price": " 43,290"
+  },
+  {
+    "name": "LG MJ-3296BFT 32Ltr Convection Microwave Oven",
+    "price": " 34,490"
+  },
+  {
+    "name": "LG MC-3286BPUM 32Ltr Convection Microwave Oven",
+    "price": " 32,090"
+  },
+  {
+    "name": "LG MC-3283FMPG 32Ltr Convection Microwave Oven",
+    "price": " 34,690"
+  },
+  {
+    "name": "LG MC-2883SMP 28Ltr Convection Microwave Oven",
+    "price": " 29,290"
+  },
+  {
+    "name": "LG MC-2886BRUM 28Ltr Convection Microwave Oven",
+    "price": " 29,290"
+  },
+  {
+    "name": "LG MC-2846BLT 28Ltr Convection Microwave Oven",
+    "price": " 26,490"
+  },
+  {
+    "name": "LG MC-2143BPP 21Ltr Convection Microwave Oven",
+    "price": " 25,090"
+  },
+  {
+    "name": "LG MC-2146BL 21Ltr Convection Microwave Oven",
+    "price": " 22,690"
+  },
+  {
+    "name": "LG MC-2143CB 21Ltr Convection Microwave Oven",
+    "price": " 24,190"
+  },
+  { "name": "LG MH-7042G 30Ltr Grill Microwave Oven", "price": " 19,690" },
+  { "name": "LG MH-6842B 28Ltr Grill Microwave Oven", "price": " 18,990" },
+  { "name": "LG MH-6565DIS 25L Grill Microwave Oven", "price": " 25,190" },
+  { "name": "LG MH-6042D 20L White Microwave Oven", "price": " 14,690" },
+  { "name": "LG MS-2042D 20L White Microwave Oven", "price": " 13,190" },
+  {
+    "name": "LG F1409NPRW 9kg Front Loading Washing Machine",
+    "price": " 117,490"
+  },
+  {
+    "name": "LG WD-1486ADP3 8kg Front Loading Washing Machine",
+    "price": " 103,990"
+  },
+  {
+    "name": "LG F-1408NC3W 8kg Front Loading Washing Machine",
+    "price": " 91,990"
+  },
+  {
+    "name": "LG WD-1480TDT 8kg Front Loading Washing Machine",
+    "price": " 88,390"
+  },
+  {
+    "name": "LG WD-1275QDT 7.5kg Front Loading Washing Machine",
+    "price": " 83,190"
+  },
+  {
+    "name": "LG WD-1270SL 7.0kg Front Loading Washing Machine",
+    "price": " 77,790"
+  },
+  {
+    "name": "LG F-1296WDL24 6.5kg Fully Automatic Front-loading Washing Machine",
+    "price": " 73,990"
+  },
+  {
+    "name": "LG F-10B8NDL25 6.0kg Fully Automatic Front-loading Washing Machine",
+    "price": " 65,990"
+  },
+  {
+    "name": "LG WF-T1371DD 13kg Top Loading Washing Machine",
+    "price": " 108,490"
+  },
+  { "name": "LG WF-T80DR 8kg Top Loading Washing Machine", "price": " 44,590" },
+  { "name": "LG WF-T80FS 8kg Top Loading Washing Machine", "price": " 42,990" },
+  {
+    "name": "LG WF-T75SF 7.5kg Top Loading Washing Machine",
+    "price": " 37,990"
+  },
+  {
+    "name": "LG WF-T70SF 7.0kg Top Loading Washing Machine",
+    "price": " 36,990"
+  },
+  {
+    "name": "LG TT-100R3S 9kg Semi-Automatic Washing Machine",
+    "price": " 28,990"
+  },
+  {
+    "name": "LG P-7255R3F 6.5Kg Roller Jet Pulsator Washing Machine",
+    "price": " 27,790"
+  },
+  {
+    "name": "LG GB-B4451GV 445Ltr Gold Bottom Freezer Refrigerator",
+    "price": " 120,890"
+  },
+  {
+    "name": "LG GS-B5282PZ 528Ltr Platinum Silver Side-by-Side Refrigerator",
+    "price": " 212,290"
+  },
+  {
+    "name": "LG GS-L5062PZ 506Ltr Platinum Silver Side-by-Side Refrigerator",
+    "price": " 225,490"
+  },
+  {
+    "name": "LG GT-D5101NS 507Ltr Double Door Evercool Refrigerator",
+    "price": " 147,990"
+  },
+  {
+    "name": "LG GL-B612GLPL 491Ltr Double Door Evercool Refrigerator",
+    "price": " 87,990"
+  },
+  {
+    "name": "LG GT-D4111PZ 411Ltr Double Door Evercool Refrigerator",
+    "price": " 130,990"
+  },
+  {
+    "name": "LG GL-B492GLPL 422Ltr Double Door Evercool Refrigerator",
+    "price": " 79,990"
+  },
+  {
+    "name": "LG GL-B402RPHR 360Ltr Double Door Evercool Refrigerator",
+    "price": " 68,290"
+  },
+  {
+    "name": "LG GL-S322RPCL 310Ltr Double Door Evercool Refrigerator",
+    "price": " 56,590"
+  },
+  {
+    "name": "LG GL-B322RPCL 310Ltr Double Door Evercool Refrigerator",
+    "price": " 57,090"
+  },
+  {
+    "name": "LG GL-B302RLNL 258Ltr Double Door Evercool Refrigerator",
+    "price": " 52,590"
+  },
+  {
+    "name": "LG GL-S302RPCL 258Ltr Double Door Evercool Refrigerator",
+    "price": " 54,290"
+  },
+  {
+    "name": "LG GL-B302RPCL 258Ltr Double Door Evercool Refrigerator",
+    "price": " 53,690"
+  },
+  {
+    "name": "LG GL-B292RPTL 258Ltr Double Door Evercool Refrigerator",
+    "price": " 50,590"
+  },
+  {
+    "name": "LG GL-S292RPCL 258Ltr Double Door Refrigerator – Hazel Dazzel",
+    "price": " 52,690"
+  },
+  {
+    "name": "LG GL-B292RPCL 258Ltr Double Door Refrigerator – Purple Orchid",
+    "price": " 50,590"
+  },
+  {
+    "name": "LG GL-B292SMTL 258Ltr Double Door Refrigerator – Titanium",
+    "price": " 43,790"
+  },
+  {
+    "name": "LG GL-B252VPGY 240Ltr 2 Star Frost-Free Double Door Refrigerator – Wine Blossom",
+    "price": " 42,590"
+  },
+  {
+    "name": "LG GL-B252VLGY 240Ltr 2 Star Frost-Free Double Door Refrigerator – Neo Inox",
+    "price": " 40,890"
+  },
+  {
+    "name": "LG GL-221APL 225Ltr Single Door Evercool Refrigerator",
+    "price": " 36,890"
+  },
+  {
+    "name": "LG GL-D205KSOR 190Ltr Single Door Evercool Refrigerator – Silk Ornate",
+    "price": " 32,490"
+  },
+  {
+    "name": "LG GL-B201APOL 190Ltr Single Door Refrigerator",
+    "price": " 30,790"
+  },
+  {
+    "name": "LG GL-D201APAP 190Ltr Single Door Refrigerator",
+    "price": " 31,490"
+  },
+  {
+    "name": "LG GL-B201ASAB 190Ltr Single Door Refrigerator",
+    "price": " 29,590"
+  },
+  {
+    "name": "LG GL-B201AHDB 190Ltr Single Door Refrigerator",
+    "price": " 29,590"
+  },
+  {
+    "name": "LG GL-B201APAB 190Ltr Single Door Refrigerator",
+    "price": " 29,590"
+  },
+  {
+    "name": "LG GL-B201AHAP 190Ltr Single Door Refrigerator",
+    "price": " 29,890"
+  },
+  {
+    "name": "LG GL-D201AGLL 190Ltr Single Door Refrigerator – Graphic Lily",
+    "price": " 30,790"
+  },
+  {
+    "name": "LG GL-D201AMHL 190Ltr 4 Star Direct-Cool Single Door Refrigerator",
+    "price": " 30,790"
+  },
+  {
+    "name": "LG GL-B201ASHL 190Ltr Single Door Refrigerator",
+    "price": " 28,790"
+  },
+  {
+    "name": "LG GL-B201ASHL 190Ltr Single Door Refrigerator",
+    "price": " 28,790"
+  },
+  {
+    "name": "LG GL-B201APRL 190 Ltr Single Door Refrigerator",
+    "price": " 26,390"
+  },
+  {
+    "name": "LG GL-B201AMLN 190 Ltr 5 Star Single Door Refrigerator",
+    "price": " 26,390"
+  },
+  {
+    "name": "LG GL-B201ATNL 190Ltr 4 Star Direct-Cool Single Door Refrigerator",
+    "price": " 26,390"
+  },
+  {
+    "name": "LG GL-B1950DGQ 185L Single Door Refrigerator – Dim Grey",
+    "price": " 24,390"
+  },
+  {
+    "name": "LG NP7550 20W 2.0ch P7 Music Flow Portable Speaker",
+    "price": " 16,590"
+  },
+  { "name": "LG FH2 X-Boom Handy Speaker", "price": " 26,090" },
+  {
+    "name": "LG LH64B Multimedia Speaker with Portable Remote",
+    "price": " 11,590"
+  },
+  {
+    "name": "LG LH70 Multimedia Speaker loaded with connectivity options",
+    "price": " 12,390"
+  },
+  {
+    "name": "LG DM8360 Mini Audio System with Powerful Bass Blast",
+    "price": " 60,990"
+  },
+  {
+    "name": "LG DM5540 Hi-Fi Mini Audio, Powerful Sound with 515W RMS",
+    "price": " 34,690"
+  },
+  {
+    "name": "LG OM4560 All-In-One Mini System Cube with Bluetooth",
+    "price": " 29,990"
+  },
+  {
+    "name": "LG OM5540 Portable X Boom Audio System with Bluetooth and Audio DJ",
+    "price": " 41,890"
+  },
+  {
+    "name": "LG NB3530A Sound Bar Audio System with Bluetooth Connectivity",
+    "price": " 34,290"
+  },
+  {
+    "name": "LG NP5550B Smart HI-FI Audio Portable Bluetooth Speaker",
+    "price": " 15,090"
+  },
+  {
+    "name": "LG SH4 2.1 Channel 300W Sound Bar with Wireless Subwoofer",
+    "price": " 33,490"
+  },
+  {
+    "name": "LG NB2430A 160W 2.0 Channel Speaker Bar with Sontia Audio Technology",
+    "price": " 17,790"
+  },
+  {
+    "name": "LG NB2520A Speaker Bar System with Integrated SubWoofer",
+    "price": " 24,290"
+  },
+  {
+    "name": "LG BH6340H 1000W 5.1 channel 3D Blu-Ray Home Theater System",
+    "price": " 53,590"
+  },
+  {
+    "name": "LG BH5140S 500W 3D Blu-Ray Home Theater System",
+    "price": " 32,690"
+  },
+  { "name": "LG 1000W DVD Home Theater System – DH6340P", "price": " 33,890" },
+  {
+    "name": "LG 1000W DH6631T 5.1ch DVD Home Theater System",
+    "price": " 38,490"
+  },
+  { "name": "LG 330W DH4130S DVD Home Theater System", "price": " 17,790" },
+  { "name": "LG 65UH850T 65″ 4K Super UHD Smart Led TV", "price": " 459,990" },
+  { "name": "LG 60UH770T 60″ 4K Smart UHD LED TV", "price": " 384,990" },
+  { "name": "LG 55UH650T 55″ 4K Smart UHD LED TV", "price": " 228,290" },
+  { "name": "CG Gas Water Heater CGGW64F 6Ltr", "price": " 8,007" },
+  { "name": "Gas Water Heater CGGW63F 6Ltr", "price": " 7,956" },
+  { "name": "LG 49UH650T 49″ 4K Smart UHD LED TV", "price": " 176,290" },
+  { "name": "LG 43UH610T 43″ 4K Smart UHD LED TV", "price": " 141,690" },
+  { "name": "Gas Water Heater CGGW601 6Ltr Geyser", "price": " 7,803" },
+  {
+    "name": "LG 43UH650T 43″ 4K Ultra Smart UHD LED IPS TV",
+    "price": " 141,690"
+  },
+  {
+    "name": "LG 60LF630T 60″ Full Smart LED TV with webOS",
+    "price": " 237,590"
+  },
+  {
+    "name": "LG 55LF630T 55″ Full Smart LED TV with webOS 2.0",
+    "price": " 174,990"
+  },
+  {
+    "name": "LG 55LH600T 55″ Full Smart LED TV with webOS",
+    "price": " 178,590"
+  },
+  {
+    "name": "LG 49LF630T 49″ Full Smart LED TV with webOS",
+    "price": " 129,990"
+  },
+  {
+    "name": "LG 49LH600T 49″ Full Smart LED TV with webOS",
+    "price": " 130,390"
+  },
+  {
+    "name": "LG 43LH600T 43″ Full Smart LED TV with webOS",
+    "price": " 85,890"
+  },
+  { "name": "LG 43LH590T 43″ Full HD LED TV", "price": " 85,890" },
+  { "name": "LG 32LH591D 32″ Full HD LED TV", "price": " 58,790" },
+  { "name": "LG 32LH604T 32″ Full HD LED TV", "price": " 58,790" },
+  { "name": "LG 55LH545T 55″ Full HD LED TV", "price": " 134,890" },
+  { "name": "LG 49LH541T 49 Inch Full HD LED TV", "price": " 108,190" },
+  { "name": "CG Electric Kettle 4.5 Ltr CG-HP4501", "price": " 3,866" },
+  {
+    "name": "LG 43LH541T 43 Inch 109cm Full HD LED LCD TV",
+    "price": " 72,290"
+  },
+  { "name": "LG 32LH510A 32″ LED Game TV", "price": " 37,190" },
+  { "name": "Hotpot CG-HP3201 3.2Ltrs", "price": " 3,764" },
+  { "name": "CG-HP2601 HOT POT", "price": " 3,601" },
+  { "name": "LG 32LF550B 32″ (80CM) HD LED LCD TV", "price": " 45,890" },
+  { "name": "CG-CF48E01N CEILING FAN 48″", "price": " 2,652" },
+  { "name": "LG 24LH454A 24″ LED TV with IPS panel", "price": " 25,890" },
+  { "name": "LG 22LF450A 22″ LED TV with IPS panel", "price": " 21,490" },
+  { "name": "CG Fan CG-CF48G01P CEILING FAN", "price": " 3,560" },
+  { "name": "LG 20LB451A 20″ LED TV with IPS panel", "price": " 17,990" },
+  { "name": "CG-CF48H01P CEILING FAN", "price": " 3,988" },
+  { "name": "CG Fan CG-CF48A01N", "price": " 2,652" },
+  { "name": "TCL 55″ LED-55P2 Ultra HD SMART TV", "price": " 115,090" },
+  { "name": "CG Fan CG-CF48B01N 48″", "price": " 2,489" },
+  { "name": "CG-CF24A01N CEILING FAN 36″", "price": " 2,438" },
+  { "name": "C1N CEILING FANG-CF24F0", "price": " 2,203" },
+  {
+    "name": "TCL 49E5700 49 Inch 3D Smart/4K LED TV with Active Glasses",
+    "price": " 91,990"
+  },
+  { "name": "CG 16″ Wall Fan CG FW9", "price": " 3,376" },
+  { "name": "CG 16″ Stand Fan CGFS10", "price": " 3,845" },
+  {
+    "name": "TCL 55 inch 3D Curved/Smart 4K Ultra HD TV (55H8800)",
+    "price": " 172,290"
+  },
+  {
+    "name": "TCL 48 inch Curved Full HD LED Smart TV (48P1)",
+    "price": " 89,190"
+  },
+  {
+    "name": "CG 16″ Stand Fan (With Remote Control) CG-FSA01R",
+    "price": " 4,325"
+  },
+  { "name": "TCL 40D2930 40″ Smart LED TV", "price": " 50,090" },
+  { "name": "CG 16″ Stand Fan FS35", "price": " 4,355" },
+  { "name": "TCL 40E5700 40″ Full HD LED 4K/3D TV", "price": " 64,390" },
+  { "name": "TCL 40D2730B 40″ Full HD LED TV", "price": " 51,790" },
+  { "name": "CG 16″ Stand Fan", "price": " 4,213" },
+  { "name": "TCL L40D2900 40 Inches Full HD LED TV", "price": " 44,790" },
+  { "name": "TCL 32″ LED TV (32D2930)", "price": " 36,790" },
+  { "name": "CG 16″ Desk Fan", "price": " 3,305" },
+  { "name": "TCL 32″ LED TV (32D2900)", "price": " 29,890" },
+  { "name": "CG-FT3 Stand Fan", "price": " 3,244" },
+  { "name": "TCL 24″ LED TV (24D2710)", "price": " 22,690" },
+  { "name": "TCL 20″ LED TV (20D2710)", "price": " 17,290" },
+  { "name": "TCL 19″ LED TV (19T3510)", "price": " 15,490" },
+  {
+    "name": "CG 8Kg Front Loading Washing Machine (CGWF8M1)",
+    "price": " 63,190"
+  },
+  {
+    "name": "CG 7Kg Front Loading Washing Machine (CG-WF7M1)",
+    "price": " 56,790"
+  },
+  { "name": "Normal Optical Mouse", "price": " 250" },
+  {
+    "name": "CG 6Kg Front Loading Washing Machine (CGWF6K1)",
+    "price": " 49,490"
+  },
+  {
+    "name": "CG 8Kg Fully Automatic With Double In Let Washing Machine (CGWT8P01)",
+    "price": " 39,790"
+  },
+  {
+    "name": "CG 7Kg Fully Automatic With Double In Let Washing Machine (CGWT7P01)",
+    "price": " 35,290"
+  },
+  {
+    "name": "CG 6Kg Fully Automatic With Double In Let Washing Machine (CG-WT6P01)",
+    "price": " 32,990"
+  },
+  {
+    "name": "CG 8 Kg Semi Automatic Washing Machine (CG-WS8E01)",
+    "price": " 28,490"
+  },
+  {
+    "name": "CG Semi Automatic 6 Kg Washing Machine (CG-WS6C01)",
+    "price": " 24,590"
+  },
+  {
+    "name": "CG Double Door 250 Liters Refrigerator (CGD260M)",
+    "price": " 34,690"
+  },
+  {
+    "name": "CG Single Door 190 Liters Refrigerator (CGS200MTQR)",
+    "price": " 23,590"
+  },
+  {
+    "name": "CG Single Door 190 Liters Refrigerator (CGS200BBR)",
+    "price": " 21,990"
+  },
+  {
+    "name": "CG Single Door 170 Liters Refrigerator (CG-S180 SG/BR)",
+    "price": " 20,290"
+  },
+  { "name": "CG 50 Ltr. Refrigerator (CGS60PSH)", "price": " 13,490" },
+  { "name": "CG 1800W Vacuum Cleaner (CGVC18D01)", "price": " 6,990" },
+  { "name": "CG 1600W Vacuum Cleaner (CGVC16KB01)", "price": " 7,090" },
+  { "name": "CG 1400W Vacuum Cleaner (CGVC14F01)", "price": " 5,890" },
+  { "name": "CG Microwave Oven 30 Ltr (CGMW30C01C)", "price": " 17,990" },
+  { "name": "CG Microwave Oven 25 Ltr (CGMW25B01G)", "price": " 15,990" },
+  { "name": "CG Microwave Oven 20 Ltr (CGMW20A01S)", "price": " 11,190" },
+  { "name": "CG Trolley Speaker 80W (CGTS15A01)", "price": " 19,490" },
+  { "name": "CG Trolley Speaker 120W (CGTS15B01D)", "price": " 26,790" },
+  { "name": "CG Trolley Speaker 120W (CG-TS12D01)", "price": " 17,090" },
+  { "name": "CG Trolley Speaker 55W (CG-TS12A01)", "price": " 13,490" },
+  { "name": "CG 2.1 Multimedia Speaker (CGA1652)", "price": " 4,490" },
+  { "name": "CG 2.1 Multimedia Speaker (CGA10E2)", "price": " 6,290" },
+  { "name": "CG 2.1 Multimedia Speaker (CGA1062)", "price": " 4,590" },
+  { "name": "CG 5.1 Multimedia Speaker (CGA1002)", "price": " 9,290" },
+  { "name": "CG Multimedia Speaker (CG-A5931)", "price": " 9,390" },
+  { "name": "CG 5.1 Multimedia Speaker (CGA5801)", "price": " 8,190" },
+  { "name": "CG 2.1 Multimedia Speaker (CGA2331)", "price": " 4,990" },
+  { "name": "CG 2.1 Channel Audio System (CGA2061)", "price": " 4,490" },
+  { "name": "CG 65″ 4K LED TV (CG65D7300S)", "price": " 175,890" },
+  { "name": "CG 55″ 4K LED TV (CG55D1000S)", "price": " 120,490" },
+  { "name": "CG 49″ 4K LED TV (CG49D1000S)", "price": " 99,990" },
+  { "name": "CG 55″ LED TV (CG55D2102S)", "price": " 98,390" },
+  { "name": "CG 55″ LED TV (CG55D7100)", "price": " 81,890" },
+  { "name": "CG 49″ LED TV (CG49D2102S)", "price": " 76,890" },
+  { "name": "CG 49″ LED TV (CG49D1602)", "price": " 62,690" },
+  { "name": "CG 43″ LED TV (CG43D2102S)", "price": " 59,690" },
+  { "name": "CG 43″ LED TV (CG43D7300)", "price": " 54,690" },
+  { "name": "CG 32″ LED TV (CG32D2702S)", "price": " 37,190" },
+  { "name": "CG 32″ LED TV (CG-32D1905)", "price": " 29,590" },
+  { "name": "CG 32″ LED TV (CG32D8100)", "price": " 29,990" },
+  { "name": "CG 32″ LED TV (CG32D0303)", "price": " 29,390" },
+  { "name": "CG 24″ LED TV (CG24D1905)", "price": " 21,190" },
+  { "name": "CG 24″ LED TV (CG24D0303)", "price": " 21,390" },
+  { "name": "CG 22″ LED TV (CG22D0303)", "price": " 19,290" },
+  { "name": "CG 20″ LED TV (CG20D1504)", "price": " 17,690" },
+  {
+    "name": "Kelvinator 7.3Kg Semi Automatic Top Load Washing Machine (WMKS7363TR)",
+    "price": " 20,790"
+  },
+  {
+    "name": "Kelvinator 7Kg Semi Automatic Top Load Washing Machine (WMKS6714TB)",
+    "price": " 20,270"
+  },
+  { "name": "SonicGear Titan 7 Speaker", "price": " 6,200" },
+  { "name": "SonicGear Sonic Gear Titan 5", "price": " 4,900" },
+  {
+    "name": "Kelvinator 230 Ltr Double Door Refrigerator (KCP-244)",
+    "price": " 33,590"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Double Door Refrigerator (KPP-202HG)",
+    "price": " 33,290"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Double Door Refrigerator (KPP-202MX)",
+    "price": " 30,800"
+  },
+  {
+    "name": "Kelvinator 195 Ltr Double Door Refrigerator (KPP-204MX)",
+    "price": " 28,720"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Double Door Refrigerator (KPP-202)",
+    "price": " 30,540"
+  },
+  {
+    "name": "Kelvinator 230Ltr Single Door Refrigerator (KFL-234WT)",
+    "price": " 22,490"
+  },
+  {
+    "name": "Kelvinator 215 Ltr Single Door Refrigerator (KWP225T)",
+    "price": " 24,300"
+  },
+  {
+    "name": "Kelvinator 215 Ltr Single Door Refrigerator (KWL225 )",
+    "price": " 25,590"
+  },
+  {
+    "name": "Kelvinator 215 Ltr Single Door Refrigerator (KWP224T)",
+    "price": " 23,780"
+  },
+  {
+    "name": "Kelvinator 200 Ltr Single Door Refrigerator (KFL-215)",
+    "price": " 22,290"
+  },
+  {
+    "name": "Kelvinator 200 Ltr Single Door Refrigerator (KFP-214)",
+    "price": " 21,990"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Single Door Refrigerator (KWP205T)",
+    "price": " 23,140"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Single Door Refrigerator (KWL205ST)",
+    "price": " 25,790"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Single Door Refrigerator (KWP-204T)",
+    "price": " 22,480"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Single Door Refrigerator (KWE-203 BR/SG)",
+    "price": " 22,190"
+  },
+  {
+    "name": "Kelvinator 170 Ltr Single Door Refrigerator (KWP184)",
+    "price": " 20,790"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Single Door Refrigerator (KFL-195BT)",
+    "price": " 21,990"
+  },
+  {
+    "name": "Kelvinator 190 Ltr Single Door Refrigerator (KFE 194)",
+    "price": " 19,790"
+  },
+  {
+    "name": "Kelvinator 180 Ltr Single Door Refrigerator (KGE 193)",
+    "price": " 19,090"
+  },
+  {
+    "name": "Kelvinator 170 Ltr Single Door Refrigerator (KWP-184HR)",
+    "price": " 21,120"
+  },
+  {
+    "name": "Kelvinator 170 Ltr Single Door Refrigerator (KWP-184PG/PR)",
+    "price": " 20,660"
+  },
+  {
+    "name": "Kelvinator 170 Ltr Single Door Refrigerator (KWE-183/KGE-183)",
+    "price": " 19,560"
+  },
+  {
+    "name": "Kelvinator 150 Ltr Single Door Refrigerator (KW163PT HR-Gulmohar Red)",
+    "price": " 18,790"
+  },
+  {
+    "name": "Kelvinator 150 Ltr Single Door Refrigerator (KW163SG)",
+    "price": " 18,790"
+  },
+  {
+    "name": "Kelvinator 150 Ltr Single Door Refrigerator (KW163EBR)",
+    "price": " 18,790"
+  },
+  {
+    "name": "Kelvinator 150 Ltr Single Door Refrigerator (KW163PTHR)",
+    "price": " 19,240"
+  },
+  {
+    "name": "Kelvinator 150 Ltr Single Door Refrigerator (KW163PMH)",
+    "price": " 19,090"
+  },
+  {
+    "name": "Kelvinator 245Ltr Single Door Refrigerator (KO255LTPR)",
+    "price": " 31,090"
+  },
+  {
+    "name": "Kelvinator 245Ltr Single Door Refrigerator (KO255LSTCB)",
+    "price": " 32,790"
+  },
+  {
+    "name": "Sonic Gear Morro 1 Ultra 2.0 Multimedia Speakers",
+    "price": " 2,200"
+  },
+  { "name": "Toshiba 10 KG Washing Machine (AW-B1100GSE)", "price": " 71,290" },
+  {
+    "name": "Toshiba 9 Kg Fully Automatic Top Loading Washing Machine (AW-B1000GSE)",
+    "price": " 62,790"
+  },
+  { "name": "Toshiba 9 KG Washing Machine (AW-9790SS)", "price": " 54,970" },
+  { "name": "Toshiba 8 KG Washing Machine (AW-E900LSE)", "price": " 52,790" },
+  { "name": "Toshiba 7.5 KG Washing Machine (AW-8970SS)", "price": " 45,090" },
+  { "name": "Toshiba 7 KG Washing Machine (AW-A800MS)", "price": " 40,930" },
+  { "name": "TOSHIBA 6.5 KG Washing Machine (AW-A750SS)", "price": " 42,490" },
+  {
+    "name": "TOSHIBA 460/409Ltr Double Door Refrigerator (GR-TG46SEDZ)",
+    "price": " 101,750"
+  },
+  {
+    "name": "TOSHIBA 410/348Ltr Double Door Refrigerator (GR-TG41SEDZ)",
+    "price": " 91,350"
+  },
+  {
+    "name": "TOSHIBA 410/348 Ltr Double Door Refrigerator (GR-T41SEBZ-RD)",
+    "price": " 89,020"
+  },
+  {
+    "name": "TOSHIBA 200/180 Ltr Single Door Refrigerator (GR-E183)",
+    "price": " 32,620"
+  },
+  {
+    "name": "TOSHIBA 410Ltr Double Door Refrigerator (GR-T41SEBZ-DS)",
+    "price": " 86,290"
+  },
+  {
+    "name": "Toshiba 315 Ltr Double Door Refrigerator (GR-R39SED)",
+    "price": " 71,730"
+  },
+  {
+    "name": "Toshiba 270 Ltr Double Door Refrigerator (GR-R34SED)",
+    "price": " 68,740"
+  },
+  {
+    "name": "Toshiba 225 Ltr Double Door Refrigerator (GR-S24SPB)",
+    "price": " 55,360"
+  },
+  {
+    "name": "Toshiba 200/186 Ltr Double Door Refrigerator (GR-S20SPB)",
+    "price": " 48,210"
+  },
+  {
+    "name": "TOSHIBA 160/140LLtr Single Door Refrigerator (GR-E1434)",
+    "price": " 27,550"
+  },
+  { "name": "Sensei 40 Inch HDR LED TV (S-40LED05)", "price": " 35,590" },
+  { "name": "Sensei 32 Inch HDR LED TV (S-32LED06)", "price": " 24,190" },
+  { "name": "Sensei 32 Inch HDR LED TV (S-32LED04)", "price": " 25,290" },
+  { "name": "Sensei 24 Inch HDR LED TV (S-24LED06)", "price": " 17,490" },
+  {
+    "name": "PROLiNK FERVOR PRO  Bluetooth Stereo Gaming Headset",
+    "price": " 4,800"
+  },
+  { "name": "Sensei 24 Inch HDR LED TV (S-24LED03)", "price": " 18,390" },
+  { "name": "Sensei 22 Inch HDR LED TV (S-22LED06)", "price": " 16,090" },
+  {
+    "name": "Prolink Display 15.6 Inch LED Monitor PRO1615WE",
+    "price": " 9,000"
+  },
+  { "name": "Sensei 20 Inch HDR LED TV (S-20LED03)", "price": " 14,390" },
+  { "name": "Sensei 20 Inch HDR LED TV (S-20LED06)", "price": " 14,290" },
+  { "name": "Prolink PRO1301WE 13.3-inch Mobile Monitor", "price": " 16,500" },
+  { "name": "Sensei 19 Inches LED TV (S19LED07)", "price": " 13,190" },
+  { "name": "Intex 40 Inches FHD LED TV (LED4000FHD)", "price": " 43,590" },
+  { "name": "Intex 32 inches HD LED TV (LED3108)", "price": " 36,090" },
+  { "name": "Intex 24 Inches LED TV LED2410", "price": " 26,590" },
+  { "name": "Toshiba 39 Inch Full HD LED TV 39P2300VE", "price": " 49,450" },
+  {
+    "name": "Toshiba 32 Inches Smart Full HD LED TV 32L3300VE",
+    "price": " 34,500"
+  },
+  { "name": "Toshiba 40 Inch FHD Smart LED TV 40L5400VL", "price": " 84,690" },
+  { "name": "Toshiba 55 Inches Smart LED TV 55L5650VL", "price": " 106,890" },
+  { "name": "Toshiba 49 Inch Smart HDR LED TV 49L5650VL", "price": " 79,890" },
+  { "name": "Toshiba 40 Inch HDR Smart LED TV 40L5650VL", "price": " 57,600" },
+  { "name": "Toshiba 32 Inch HDR Smart LED TV 32L5650VL", "price": " 45,790" },
+  { "name": "Toshiba 42 Inch Full HD LED TV 43L3650VL", "price": " 59,790" },
+  { "name": "Toshiba 40 Inch Full HD LED TV 40L2400VL", "price": " 51,790" },
+  { "name": "Toshiba 39 Inch LED TV 39P2300VL", "price": " 49,490" },
+  { "name": "Toshiba 32 Inch HDR LED TV 32L3650VL", "price": " 35,590" },
+  { "name": "32 Inch Toshiba HDR LED TV 32L2600VL", "price": " 33,490" },
+  { "name": "Toshiba 32 Inch LED TV 32L2400VL", "price": " 38,390" },
+  { "name": "Toshiba 32 Inch HDR LED TV 32P2400VL", "price": " 34,490" },
+  { "name": "Toshiba 32 inches LED TV 32P2400VB", "price": " 34,490" },
+  { "name": "Toshiba 29 Inches LED TV 29P2300VL", "price": " 29,890" },
+  { "name": "Toshiba 23 Inches LED TV 23PB200V", "price": " 30,190" },
+  { "name": "Toshiba 24 Inches LED TV 24L2600VL", "price": " 23,190" },
+  { "name": "Verbatim SDHC Memory Cards", "price": " 350" },
+  {
+    "name": "Transcend ANDROID OTG 2.0 JetFlash®340 – 64GB",
+    "price": " 4,875"
+  },
+  {
+    "name": "Transcend ANDROID OTG 2.0 JetFlash®340 – 32GB",
+    "price": " 2,535"
+  },
+  {
+    "name": "Transcend  ANDROID OTG 2.0 JetFlash®340 – 16GB",
+    "price": " 1,465"
+  },
+  { "name": "Verbatim Store ‘n’ Nano USB 3.0 Flash Drive", "price": " 1,400" },
+  {
+    "name": "Transcend  ANDROID OTG 2.0 JetFlash®340 – 8GB",
+    "price": " 1,090"
+  },
+  {
+    "name": "Verbatim Store’N’ Go Otg Tiny Usb 3.0 Pen Drive",
+    "price": " 1,450"
+  },
+  {
+    "name": "Verbatim 8GB MicroSDHC Memory Card with Adapter",
+    "price": " 750"
+  },
+  {
+    "name": "Saicoo OTG Micro USB 3.0 Card Reader with SD/Micro Slots",
+    "price": " 1,450"
+  },
+  { "name": "Transcend Micro SD – U1 Class 128 GB", "price": " 11,875" },
+  { "name": "Transcend 64GB – (U1) – MicroSDHC Class 10", "price": " 4,690" },
+  {
+    "name": "Verbatim 8GB Store ‘n’ Go Mini USB 2.0 Flash Drive- Red",
+    "price": " 750"
+  },
+  {
+    "name": "Verbatim 8GB Store ‘n’ Go Mini USB 2.0 Flash Drive- Pink",
+    "price": " 750"
+  },
+  {
+    "name": "Verbatim 16GB Store ‘n’ Go Mini USB 2.0 Flash Drive- Blue",
+    "price": " 1,000"
+  },
+  { "name": "Transcend SD – U1 CLASS 32 GB Class U1", "price": " 2,375" },
+  {
+    "name": "Verbatim 32GB Store ‘n’ Go Mini USB 2.0 Flash Drive- Violet",
+    "price": " 1,350"
+  },
+  { "name": "Transcend 16 GB Micro SD Card Class 10", "price": " 1,150" },
+  { "name": "Transcend 32 GB Micro SDHC Class 10 U1", "price": " 2,375" },
+  {
+    "name": "Verbatim 8GB Store ‘n’ Go V3 USB 3.0 Flash Drive",
+    "price": " 750"
+  },
+  { "name": "Transcend 16 GB Micro SD Card", "price": " 960" },
+  { "name": "Memory card", "price": " 640" },
+  { "name": "WIreless Dual Band Router (Rt-Ac66U )", "price": " 20,000" },
+  { "name": "Wireless DSL Router (Rt-N14UHP)", "price": " 9,875" },
+  { "name": "DSL Wireless Router – RT-N12", "price": " 3,000" },
+  { "name": "ASUS Travel Air N WIRELESS 1TB HARD DISK", "price": " 20,625" },
+  {
+    "name": "ASUS S1 200-lumen 1080p support HDMI/MHL USB Built-in 6,000mAh Battery bank Short-Throw LED Pocket Projector",
+    "price": " 62,500"
+  },
+  {
+    "name": "ASUS P3B 800-Lumens 1280 x 800 Ultra-short-throw 12,000mAh Battery HDMI/MHL VGA microSD reader USB Portable Wireless LED Projector",
+    "price": " 123,125"
+  },
+  { "name": "B1M Wireless LED Projector", "price": " 101,250" },
+  {
+    "name": "Asus VS228NE 22″ LED Full HD DVI-D/VGA Monitor",
+    "price": " 16,250"
+  },
+  {
+    "name": "ASUS MX279H 27-Inch, Full HD 1920×1080 IPS, Audio by Bang & Olufsen ICEpower HDMI VGA Frameless Monitor",
+    "price": " 52,500"
+  },
+  {
+    "name": "ASUS Gaming Monitor – 34″ 21:9 Ultra-wide QHD (3440×1440)",
+    "price": " 198,750"
+  },
+  { "name": "ASUS 28″ PB287Q – 4K Monitor", "price": " 97,500" },
+  { "name": "ASUS VivoPC VM60", "price": " 65,000" },
+  { "name": "ASUS E410", "price": " 48,750" },
+  { "name": "ASUS GL502VS 15.6-Inch Gaming Laptop", "price": " 275,000" },
+  { "name": "ASUS GL502VM 15.6-Inch Gaming Laptop", "price": " 230,000" },
+  { "name": "ASUS GL502VT 15.6-Inch Gaming Laptop", "price": " 211,250" },
+  { "name": "ASUS K501UX", "price": " 122,500" },
+  {
+    "name": "Asus ZenBook UX310UQ 13.3″ FHD Intel Core i7 Laptop",
+    "price": " 143,750"
+  },
+  {
+    "name": "ASUS ZenBook UX330UA-AH54 13.3-inch Ultra-Slim Laptop",
+    "price": " 127,500"
+  },
+  { "name": "zenbook 3 UX390UA I7", "price": " 218,750" },
+  { "name": "ASUS Vivobook X556UQ", "price": " 108,750" },
+  { "name": "ASUS Vivobook X556UQ", "price": " 86,250" },
+  { "name": "ASUS X456UA – 7th Gen i5", "price": " 71,250" },
+  { "name": "ASUS STUDENT PC – X441SA", "price": " 39,375" },
+  { "name": "ASUS X441UA", "price": " 53,750" },
+  { "name": "ASUS E202SA", "price": " 41,875" },
+  { "name": "Asus Transformer Book T100TA", "price": " 45,625" },
+  {
+    "name": "Samsung Gear S2 Classic SM-R7320 Smart Watch, Black",
+    "price": " 34,900"
+  },
+  { "name": "Samsung Gear S2 SM-R720", "price": " 29,900" },
+  { "name": "Distar Mixture Blender MG-301", "price": " 4,350" },
+  { "name": "Distar Rice Cooker", "price": " 2,070" },
+  { "name": "Distar Normal Full HD ELED TV- 40 Inches", "price": " 45,710" },
+  { "name": "Distar Full HDSmart ELED TV – 40 Inches", "price": " 55,710" },
+  { "name": "Distar Smart ELED TV- 32 Inches", "price": " 38,570" },
+  { "name": "Distar Normal Full HD ELED TV- 32 Inches", "price": " 28,570" },
+  { "name": "Distar Full HD ELED TV – 24 Inches", "price": " 22,150" },
+  { "name": "Distar Water heater / Gas Geyser", "price": " 7,860" },
+  { "name": "Distar Stand Fan with Remote FS-40-334R", "price": null },
+  { "name": "Distar Stand Fan Non-remote", "price": null },
+  { "name": "Baltra Microwave & OTG", "price": " 5,175" },
+  { "name": "Baltra Star Rice Cooker", "price": " 1,939" },
+  { "name": "Baltra Platinum Rice Cooker", "price": " 1,939" },
+  { "name": "Baltra Zest Air Frier and Deep Frier", "price": " 4,975" },
+  { "name": "Baltra Fresco Air Frier Fresco", "price": " 16,500" },
+  { "name": "Baltra Leader Hand Blender and Chopper", "price": " 2,925" },
+  { "name": "Juicer Mixer Grinder Gust", "price": " 7,200" },
+  { "name": "Juicer Mixer Grinder Storm", "price": " 5,870" },
+  { "name": "Juicer Mixer Grinder Euro", "price": " 5,844" },
+  { "name": "Mixer Grinder High Speed", "price": " 12,219" },
+  { "name": "Mixer Grinder Winner Grand", "price": " 3,719" },
+  { "name": "Mixer Grinder Winner+", "price": " 3,246" },
+  { "name": "Mixer Grinder Winner", "price": " 2,709" },
+  { "name": "Mixer Grinder Cooper 2/3", "price": " 4,197" },
+  { "name": "Mixer Grinder Fighter 2/3", "price": " 4,197" },
+  { "name": "Mixer Grinder Duster", "price": " 7,172" },
+  { "name": "Mixer Grinder Bold", "price": " 5,307" },
+  { "name": "Mixer Grinder Beat-2/3", "price": " 2,050" },
+  { "name": "Mixer Grinder Future Grand", "price": " 6,109" },
+  { "name": "Mixer Grinder-Speed 3", "price": " 3,450" },
+  { "name": "USB Fan", "price": " 300" },
+  { "name": "Hdy 222 Wireless Bluetooth Speaker", "price": " 1,400" },
+  { "name": "Apollo Home Theater Bluetooth Speaker", "price": " 4,500" },
+  { "name": "Solo 2 Wireless Headphones", "price": " 1,500" },
+  { "name": "Samsung Earphone", "price": " 200" },
+  { "name": "CE5/ CE4 E-Cigarette", "price": " 700" },
+  { "name": "DZ09 Smart Watch", "price": " 1,400" },
+  { "name": "Q18S Smart Watch", "price": " 3,000" },
+  { "name": "i7/ GT08 Smart Watch", "price": " 1,800" },
+  { "name": "i6 Smart Watch", "price": " 1,600" },
+  { "name": "Yunteng VCT-5208 tripod", "price": " 1,600" },
+  { "name": "Cable Take Pole Selfie Stick", "price": " 200" },
+  { "name": "Three Generations Drive-by-wire Selfie Stick", "price": " 250" },
+  { "name": "Wire Seflie Stick 510", "price": " 250" },
+  { "name": "Yunteng 228 tripod", "price": " 400" }
+]

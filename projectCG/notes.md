@@ -1,1 +1,0 @@
-# first we need to transform the model space with model transform to the world space and then to view transform to camera space to projection transform to clip space
