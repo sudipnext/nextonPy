@@ -14,4 +14,5 @@ class GajabkoItem(scrapy.Item):
     price = scrapy.Field()
     description = scrapy.Field()
     image_url = scrapy.Field()
+    categories = scrapy.Field()
 
