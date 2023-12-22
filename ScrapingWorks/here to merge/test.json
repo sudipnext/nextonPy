@@ -1,0 +1,453 @@
+[
+    {
+        "name": "ani difranco",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "guitarist",
+            "musician",
+            "singer-songwriter",
+            "artist",
+            "songwriter",
+            "poet",
+            "music_artist"
+        ],
+        "height": 1.57,
+        "birthday": "1970-09-23",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "angus t. jones",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.75,
+        "birthday": "1993-10-08",
+        "age": 29,
+        "is_alive": true
+    },
+    {
+        "name": "anil kapoor",
+        "net_worth": 12000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "film_producer",
+            "actor",
+            "television_producer"
+        ],
+        "height": 1.75,
+        "birthday": "1956-12-24",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "anika noni rose",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "voice_actor"
+        ],
+        "height": 1.57,
+        "birthday": "1972-09-06",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "angus sampson",
+        "net_worth": 500000,
+        "gender": "male",
+        "nationality": "au",
+        "occupation": [
+            "actor",
+            "screenwriter",
+            "voice_actor",
+            "film_director",
+            "film_producer"
+        ],
+        "birthday": "1979"
+    },
+    {
+        "name": "angus young",
+        "net_worth": 160000000,
+        "gender": "male",
+        "nationality": "au",
+        "occupation": [
+            "musician",
+            "songwriter",
+            "record_producer",
+            "guitarist",
+            "film_score_composer"
+        ],
+        "height": 1.57,
+        "birthday": "1955-03-31",
+        "age": 68,
+        "is_alive": true
+    },
+    {
+        "name": "anita ekberg",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "se",
+        "occupation": [
+            "model",
+            "actor",
+            "fashion_model"
+        ],
+        "height": 1.69,
+        "birthday": "1931-09-29",
+        "age": 91,
+        "is_alive": true
+    },
+    {
+        "name": "anita briem",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "is",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.62,
+        "birthday": "1982-05-29",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "anitta",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "br",
+        "occupation": [
+            "singer",
+            "songwriter",
+            "dancer"
+        ],
+        "birthday": "1993-03-30",
+        "age": 30,
+        "is_alive": true
+    },
+    {
+        "name": "anja rubik",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "pl",
+        "occupation": [
+            "fashion_model",
+            "supermodel"
+        ],
+        "height": 1.79,
+        "birthday": "1983-06-12",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "anjali ranadive",
+        "net_worth": 10000000,
+        "gender": "female",
+        "occupation": [
+            "singer-songwriter"
+        ]
+    },
+    {
+        "name": "anjelica huston",
+        "net_worth": 50000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model",
+            "voice_actor",
+            "film_director",
+            "film_producer"
+        ],
+        "height": 1.78,
+        "birthday": "1951-07-08",
+        "age": 72,
+        "is_alive": true
+    },
+    {
+        "name": "ann b. davis",
+        "net_worth": 200000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1926-05-05",
+        "age": 88,
+        "is_alive": false,
+        "death": "2014-06-01"
+    },
+    {
+        "name": "ann blyth",
+        "net_worth": 2500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "actor"
+        ],
+        "height": 1.57,
+        "birthday": "1928-08-16",
+        "age": 94,
+        "is_alive": true
+    },
+    {
+        "name": "ann coulter",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "lawyer",
+            "author",
+            "writer",
+            "commentator"
+        ],
+        "height": 1.83,
+        "birthday": "1961-12-08",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "ann curry",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "presenter",
+            "tv_personality",
+            "photojournalist",
+            "tv_journalist",
+            "actor",
+            "newscaster"
+        ],
+        "height": 1.68,
+        "birthday": "1956-11-19",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "ann dowd",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1956"
+    },
+    {
+        "name": "ann sothern",
+        "net_worth": 16000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer-songwriter",
+            "businessperson"
+        ],
+        "height": 1.56,
+        "birthday": "1909-01-22",
+        "age": 92,
+        "is_alive": false,
+        "death": "2001-03-15"
+    },
+    {
+        "name": "penelope ann miller",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.7,
+        "birthday": "1964-01-13",
+        "age": 59,
+        "is_alive": true
+    },
+    {
+        "name": "anna belknap",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.6,
+        "birthday": "1972-05-22",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "anna camp",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "rapper",
+            "singer"
+        ],
+        "height": 1.65,
+        "birthday": "1982-09-27",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "ann-margret",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "se",
+        "occupation": [
+            "singer",
+            "actor",
+            "dancer"
+        ],
+        "height": 1.65,
+        "birthday": "1941-04-28",
+        "age": 82,
+        "is_alive": true
+    },
+    {
+        "name": "anna chlumsky",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.57,
+        "birthday": "1980-12-03",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "anna faris",
+        "net_worth": 30000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "voice_actor"
+        ],
+        "height": 1.65,
+        "birthday": "1976-11-29",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "anna friel",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.57,
+        "birthday": "1976-07-12",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "anna gunn",
+        "net_worth": 7000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.78,
+        "birthday": "1968-08-11",
+        "age": 54,
+        "is_alive": true
+    },
+    {
+        "name": "anna hutchison",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "nz",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.66,
+        "birthday": "1986-02-08",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "anna kendrick",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "voice_actor"
+        ],
+        "height": 1.57,
+        "birthday": "1985-08-09",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "anna kournikova",
+        "net_worth": 50000000,
+        "gender": "female",
+        "nationality": "ru",
+        "occupation": [
+            "model",
+            "tennis_player",
+            "athlete"
+        ],
+        "height": 1.73,
+        "birthday": "1981-06-07",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "anna nicole smith",
+        "net_worth": 1000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "stripper",
+            "adult_model",
+            "actor",
+            "film_producer",
+            "spokesperson",
+            "screenwriter",
+            "film_director",
+            "model"
+        ],
+        "height": 1.8,
+        "birthday": "1967-11-28",
+        "age": 39,
+        "is_alive": false,
+        "death": "2007-02-08"
+    },
+    {
+        "name": "anna paquin",
+        "net_worth": 14000000,
+        "gender": "female",
+        "nationality": "ca",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "voice_actor"
+        ],
+        "height": 1.65,
+        "birthday": "1982-07-24",
+        "age": 40,
+        "is_alive": true
+    }
+]

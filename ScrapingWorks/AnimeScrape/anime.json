@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Gintoki Sakata",
+        "Birthday": "Oct 10",
+        "Age": "27",
+        "Gender": "Male",
+        "Blood Type": "B",
+        "Height": "177"
+    },
+    {
+        "name": "Shinpachi Shimura",
+        "Birthday": "Aug 12",
+        "Age": "16-18",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "166"
+    },
+    {
+        "name": "Kagura",
+        "Birthday": "Nov 3",
+        "Age": null,
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": "155"
+    },
+    {
+        "name": "Shinsuke Takasugi",
+        "Birthday": "Aug 10",
+        "Age": "20s",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "170"
+    },
+    {
+        "name": "Kotarou Katsura",
+        "Birthday": "Jun 26",
+        "Age": "20s",
+        "Gender": "Male",
+        "Blood Type": "AB",
+        "Height": "175"
+    },
+    {
+        "name": "Shouyou Yoshida",
+        "Birthday": "Aug 4",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Tae Shimura",
+        "Birthday": "Oct 31",
+        "Age": "18",
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": "168"
+    },
+    {
+        "name": "Sadaharu",
+        "Birthday": "Feb 25",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "170"
+    },
+    {
+        "name": "Tama",
+        "Birthday": "Feb 23",
+        "Age": null,
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": "166"
+    },
+    {
+        "name": "Sougo Okita",
+        "Birthday": "Jul 8",
+        "Age": "18",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "170"
+    },
+    {
+        "name": "Toushirou Hijikata",
+        "Birthday": "May 5",
+        "Age": "27",
+        "Gender": "Male",
+        "Blood Type": "A",
+        "Height": "Human\nHeight"
+    },
+    {
+        "name": "Isao Kondou",
+        "Birthday": "Sep 4",
+        "Age": "28-33",
+        "Gender": "Male",
+        "Blood Type": "A",
+        "Height": "184"
+    },
+    {
+        "name": "Katakuriko Matsudaira",
+        "Birthday": "Sep 4",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "168"
+    },
+    {
+        "name": "Tatsuma Sakamoto",
+        "Birthday": "Nov 15",
+        "Age": "20s",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "181"
+    },
+    {
+        "name": "Kyuubei Yagyuu",
+        "Birthday": "Apr 20",
+        "Age": "17",
+        "Gender": "Non-binary",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Tsukuyo",
+        "Birthday": "Feb 9",
+        "Age": null,
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Nobume Imai",
+        "Birthday": "Oct 2",
+        "Age": null,
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Ayame Sarutobi",
+        "Birthday": "Jun 2",
+        "Age": "20+",
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": "169"
+    },
+    {
+        "name": "Zenzou Hattori",
+        "Birthday": "Aug 22",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "175"
+    },
+    {
+        "name": "Taizou Hasegawa",
+        "Birthday": "Jun 13",
+        "Age": "38",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "Gemini\nHeight"
+    },
+    {
+        "name": "Oboro",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Utsuro",
+        "Birthday": null,
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Prince Hata",
+        "Birthday": "Apr 17",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Jii",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Sagaru Yamazaki",
+        "Birthday": "Feb 6",
+        "Age": "32",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Otose",
+        "Birthday": "Jul 7",
+        "Age": "60-65",
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": "166"
+    },
+    {
+        "name": "Catherine",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Soyo Tokugawa",
+        "Birthday": "Jul 16",
+        "Age": null,
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Umibouzu",
+        "Birthday": "Jul 20",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "168"
+    },
+    {
+        "name": "Henpeita Takechi",
+        "Birthday": "Sep 27",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "178"
+    },
+    {
+        "name": "Matako Kijima",
+        "Birthday": "Jan 8",
+        "Age": null,
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": "165"
+    },
+    {
+        "name": "Kamui",
+        "Birthday": "Jun 1",
+        "Age": "18",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Abuto",
+        "Birthday": "Feb 10",
+        "Age": "32",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "February 10 Zodiac"
+    },
+    {
+        "name": "Elizabeth",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Hideaki Sorachi",
+        "Birthday": "May 25, 1979",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Shimaru Saitou",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Ayumu Toujou",
+        "Birthday": "Jan 14",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Binbokusai Yagyuu",
+        "Birthday": "May 30",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "88"
+    },
+    {
+        "name": "Tokumori Saigou",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Mutsu",
+        "Birthday": "Jul 7",
+        "Age": "24",
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": "158"
+    },
+    {
+        "name": "Hedoro",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Katsuo Kurogoma",
+        "Birthday": "Apr 10",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Jirochou Doromizu",
+        "Birthday": null,
+        "Age": "65",
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Pirako Doromizu",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Tetsuko Murata",
+        "Birthday": "Sep 8",
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": "Virgo Height"
+    },
+    {
+        "name": "Ikumatsu Nishiki",
+        "Birthday": null,
+        "Age": null,
+        "Gender": null,
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Tsuu Terakado",
+        "Birthday": "Feb 20",
+        "Age": "17",
+        "Gender": "Female",
+        "Blood Type": null,
+        "Height": null
+    },
+    {
+        "name": "Shigeshige Tokugawa",
+        "Birthday": "Jun 22",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": "175"
+    },
+    {
+        "name": "Isaburo Sasaki",
+        "Birthday": "Feb 5",
+        "Age": null,
+        "Gender": "Male",
+        "Blood Type": null,
+        "Height": null
+    }
+]

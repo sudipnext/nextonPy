@@ -1,0 +1,607 @@
+category, name, age, gender
+Food,Banana,18,M
+Stars,Venus,1210400000,M
+Stars,Mercury,487940000,M
+Stars,Mars,677900000,M
+Stars,Earth,1274200000,M
+Other,Jupiter (Harry Evett 2017),14000000000,M
+Stars,Saturn,11646000000,M
+Stars,Earth Moon,347420000,M
+Stars,Neptune,4924400000,M
+Stars,Uranus,5072400000,M
+Stars,Sun,139270000000,M
+Other,iPhone 11,15.5,M
+Other,Mercury-Redstone LV,2540,M
+Other,American semi truck,400,M
+Other,Kepler Space Telescope,470,M
+Other,Boeing 767,4801.1,M
+Other,Sojourner rover,100,M
+Other,DVD,12.5,M
+Other,Sputnik 1,158,M
+Other,Falcon 9,7000,M
+Other,Double deck bus,440,M
+Other,Lunar Roving Vehicle,200,M
+Other,Juno probe,2000,M
+Other,Opportunity rover,150,M
+Stars,Pluto,237660000,M
+Other,Eris,232600000,M
+Other,Makemake,143000000,M
+Other,Planet Nine,3900000000,M
+Other,Sedna,99500000,M
+Other,Light Year,9.460992e+17,M
+Food,lemon,7.62,M
+Other,Ceres Of Gaming,94600000,M
+Stars,Stephenson 2-18,299150000000000,M
+Stars,Haumea,163200000,M
+Other,Door Frame,207,M
+Stars,Antares,94614999999999.8,M
+Food,McDonald’s cheeseburger ,14,M
+Other,Mt. Everst,884900,M
+Other,TON 618,38993185180899992,M
+Other,House,609,M
+Other,Knife,32,M
+Food,Apple,8.5,M
+Other,UP 844,477.52,M
+Other,Milky Way Galaxy,1.892146094e+23,M
+Stars,Solar System,1437300000000000,M
+Other,Universe,5.676438283e+29,M
+Other,Resizable Square,152.4,M
+Other,Resizable Circle,152.4,M
+Other,Saturn V,11064.24,M
+Other,Atom,0.1,M
+Other,Door,207,M
+Other,Couch,90.5,M
+Other,Closet,191,M
+Other,Car,154,M
+Other,Ulysses,785,M
+Other,Envisat ,545,M
+Other,Smap,600,M
+Other,Hubble space telescope ,1301,M
+Other,Spoon,19,M
+Other,Sputnik 2,158,M
+Other,Terra,687,M
+Other,Koronas-foton,765,M
+Other,I.S.S.,10889,M
+Stars,Sirius A,238171200000,M
+Stars,Sirius B,1169280000,M
+Other,Devil’s tower ,155800,M
+Other,RMS Titanic,5334,M
+Other,IC 1101,5e+24,M
+Other,Panzer VIII Maus,360.68,M
+Other,Andromeda Galaxy,2.081360703e+23,M
+Other,Laniakea Supercluster,4.919579845e+26,M
+Other,Landkreuzer P. 1000 Ratte,1097.28,M
+Other,Mount. Fiji,496000,M
+Other,NGC 604,1.25e+21,M
+Stars,Rigel,10982880000000,M
+Other,Tadpole Galaxy,3.962901319e+23,M
+Other,Penny,1,M
+Stars,Rigel 2.0,9300000000000,M
+Other,Comet Galaxy,1e+24,M
+Other,Messier 87*,3700000000000000,M
+Stars,Deneb,28257600000000,M
+Other,U1.90,3.595077579e+26,M
+Other,Eros,4300000,M
+Other,Costa rica,51100000,M
+Other,Virgo Cluster,1.41910957e+25,M
+Other,Virgo Supercluster,1.040680351e+26,M
+Stars,Pollux,1224960000000,M
+Other,HCBGW,9.460730472e+27,M
+Other,Cat's Eye Nebula,1.8e+17,M
+Other,Crab Nebula,1.23e+19,M
+Other,Eagle Nebula,1.45e+20,M
+Other,Six Story Building,1828.8,M
+Other,Five Story building ,1620.5,M
+Other,United States,254598220.8,M
+Other,Sloan Great Wall,1.296120074e+27,M
+Other,Triangulum Galaxy,5.676438283e+22,M
+Other,TRES 2-B,24000000000,M
+Other,Condor Galaxy/NGC 6872,4.938501306e+23,M
+Other,WASP-146 b,17169900000,M
+Other,Kepler-22 b,2936200000,M
+Other,Vending Machine (Snack),195,M
+Stars,TRAPPIST-1,16585488000,M
+Other,Trappist-1h,984956600,M
+Other,Dustbin,80,M
+Other,Kepler-145 c,4893700000,M
+Other,HD 100546 b,96076600000,M
+Stars,EPIC 206318379,40368000000,M
+Stars,Alpha Centauri B,120157400000,M
+Other,Kepler-62 c,671100000,M
+Other,Calculator,21,M
+Other,HD 80606 b,12877400000,M
+Other,WASP-183 b,20553500000,M
+Stars,Proxima Centauri,19651907000,M
+Stars,CoRot-7,121104000000,M
+Stars,HV 2084,165648000000000,M
+Stars,UY Scuti,243416423400000,M
+Stars,Betelgeuse,123470400000000,M
+Other,J1407b,13000000000,M
+Stars,VY Canis Majoris,197664000000000,M
+Other,243 Ida,3250000,M
+Stars,Vela Pulsar,2000000,M
+Other,SWEEPS-04,11465420000,M
+Other,Douglas DC-3,2906,M
+Other,51 Pegasi b,26565800000,M
+Other,ROX's 42 B b,34955500000,M
+Stars,Zosma,297888000000,M
+Stars,VV Cephei A,170520000000000,M
+Stars,Preon Star,10,M
+Stars,Quasi Star,1000000000000000,M
+Stars,HAT-P 20,96604800000,M
+Other,Sagittarius A*,4416533200000,M
+Stars,GCIRS 7,136416000000000,M
+Stars,Pistol Star,42500000000000,M
+Other,Kepler-7 b,22566900000,M
+Other,CoRot-7 b,1901600000,M
+Stars,Vega,392265653327,M
+Other,Kepler-51 b,8779238000,M
+Stars,R136a1,4468320000000,M
+Stars,GJ 1245 B,5149700000,M
+Other,Trappist-1 c,1396800000,M
+Stars,Polaris A,5200000000000,M
+Other,Ganymede,526200000,M
+Other,QSO B0746+254,2953558988200000,M
+Stars,Arcturus,3535680000000,M
+Stars,Regulus,430406400000,M
+Other,Io,364320000,M
+Stars,Alpha Centauri A,170297300000,M
+Stars,SMC 50840,132240000000000,M
+Other,55 Cancri e,2428700000,M
+Stars,K2-156,85747200000,M
+Stars,P Cygni,10579200000000,M
+Stars,Mira A,51086400000000,M
+Stars,Teide 1,11100000000,M
+Other,SDSS J1228+1040 b,12600000,M
+Other,Kepler-114 c,1803700000,M
+Stars,Wazn,1600800000000,M
+Stars,EBLM J0555-57AB,11700000000,M
+Stars,Epsilon Indi A,101894400000,M
+Stars,Gliese 229 B,6542400000,M
+Other,Callisto,480600000,M
+Stars,NML Cygni,228288000000000,M
+Other,Fairall 9,150631508400000,M
+Stars,Gacrux,16696800000000,M
+Other,RX J1532.9+3021,5900000000000000,M
+Stars,Peacock,672336000000,M
+Stars,LI-LMC 60,245582100000000,M
+Stars,SSSPM J0829-1309,12260000000,M
+Stars,R136b,3104160000000,M
+Other,H1821+643,1.779e+16,M
+Stars,Acamar,2227200000000,M
+Other,HAT-P-11 b,5439000000,M
+Other,HD 92788 b,16219352000,M
+Stars,LL Pegasi,102799200000000,M
+Other,Electric scooter,108,M
+Other,Europa,312160000,M
+Stars,VV Cephei B,1600000000000,M
+Other,Kepler-392 b,1274200000,M
+Stars,AFGL 2298,53568900000000,M
+Stars,LBV 1806-20,6401831400000,M
+Other,Kepler-152 b,4687800000,M
+Stars,NGC 2363-V1,49533840000000,M
+Stars,GD 165 A,1725336000,M
+Stars,W Cephei A,185056200000000,M
+Other,HATS-20 b,10850000000,M
+Other,Kepler-87 c,7676100000,M
+Stars,Beta Muscae B,217094000000,M
+Stars,VY Canis Majoris (2009),306350000000000,M
+Other,HD 106906's Debris Disk,8228000000000000,M
+Other,Kepler-46 d,2115500000,M
+Other,WD 1145+017 b,191130000,M
+Stars,WOH G64,240712200000000,M
+Stars,Van Maneen 2,1531200000,M
+Other,UGPS J072227.51-054031.2,12388229200,M
+Stars,AB7 B,1947960000000,M
+Stars,NO Aurigae,87658200000000,M
+Stars,Bellatrix,800400000000,M
+Stars,R136c,2561280000000,M
+Stars,R136a2,3257280000000,M
+Stars,Barnard's Star,27271440000,M
+Stars,Chara,156254220000,M
+Stars,Aldebaran,6142896000000,M
+Stars,IRC+10420,49694400000000,M
+Other,Trappist-1 e,1145100000,M
+Stars,Enif,25752000000000,M
+Other,XTE J118+480 A,4271600,M
+Stars,R136a3,2644800000000,M
+Other,Titan,514946000,M
+Stars,W Virginis,7235280000000,M
+Stars,AH Scorpii,196326540000000,M
+Stars,Kepler-22,136218060000,M
+Other,OGLE-2012-BLG-0026L b,9619753600,M
+Stars,S Cassiopeiae,129400200000000,M
+Stars,IRAS 04509-6922,189230400000000,M
+Stars,W60 B90,193404600000000,M
+Stars,R Scuti,11687760000000,M
+Stars,Var 83,20871000000000,M
+Other,G1.9+0.3,2.459789922870811e+18,M
+Other,Kepler-186 f,1490814000,M
+Stars,S Doradus,52873200000000,M
+Stars,RW Cygni,139200000000000,M
+Other,Cigar Galaxy*,17700000000000,M
+Other,Caldwell 90,5.014187150467423e+17,M
+Other,DR 6,3.3112556654030147e+18,M
+Other,Kepler-1047 c,1261458000,M
+Stars,UCAC2 2674864,137748600000000,M
+Other,Mercury's Orbit,11700000000000,M
+Stars,Al Kab,17678400000000,M
+Stars,LIN 295,147552000000000,M
+Stars,DS Crucis,15590400000000,M
+Stars,Mu Cephei,202536000000000,M
+Other,IC4997,91769085584026416,M
+Stars,DG Canum Venaticorum A,35202420000,M
+Stars,Teegarden's Star,17670780000,M
+Other,Phoenix A*,5.9e+16,M
+Stars,Gliese 581 ,43133400000,M
+Other,Virgo A*,4264939178900000,M
+Other,SDSS J090033.50+421547.0,2776345448900000,M
+Stars,Rigel A,10982880000000,M
+Other,Stingray Nebula,1.513716875612807e+17,M
+Other,Unicorn*,1700000,M
+Stars,RSGC1-F01,212884200000000,M
+Other,CoRot-17 b,14261600000,M
+Other,Venus Orbit,21600000000000,M
+Other,Coronet Cluster,3.9735067984836183e+18,M
+Stars,Scheat,13224000000000,M
+Other,Earth Orbit,29920000000000,M
+Other,Boomerang Nebula,1.8921460945160084e+18,M
+Stars,La Superba,48511200000000,M
+Other,WASP-82 b,23349899999.9,M
+Other,CT Cha b,30760800000,M
+Stars,Kepler-100,207408000000,M
+Other,Gliese 504 b,13422700000,M
+Stars,Fomalhaut A,256128000000,M
+Other,OJ 287,1.05960181294e+16,M
+Stars,Polaris B,192096000000,M
+Stars,CFBDS 1448 ,12249600000,M
+Stars,R Doradus ,51504000000000,M
+Stars,IK Pegasi A,222720000000,M
+Other,Kepler-90 c,1503556000,M
+Other,Kepler-37 b,451066800,M
+Other,NGC 2547,4.938501306686782e+18,M
+Other,Mars Orbit,45600000000000,M
+Other,EPIC 211939692.02,3243800000,M
+Other,Deimos,627644.16,M
+Other,Kepler-62 f,1761700000,M
+Stars,AT Microscopii A,57072000000,M
+Stars,Ross 154 ,33393600000,M
+Other,Kepler-90 b,1669202000,M
+Stars,M33-013406.63,16557660000000,M
+Other,V* V2384 Ori b,67254400000,M
+Other,Spirograph Nebula,2.8382191417740128e+17,M
+Stars,IK Pegasi B,834800000,M
+Stars,Kepler-568,73776000000,M
+Stars,Rho Cassiopeiae,62640000000000,M
+Stars,Iota1 Scorpii,36609600000000,M
+Other,Southern Owl Nebula,3.784292189032017e+18,M
+Stars,Mirfak,9465600000000,M
+Other,Kepler-90 i,1681944000,M
+Other,Mount Fuji,377624.34,M
+Stars,Canopus,9883200000000,M
+Stars,RT Carinae,119851200000000,M
+Stars,PG 1159-035,3534156000,M
+Other,Mz 1,1.1920520395450854e+18,M
+Other,Mount Elbert,440131.2,M
+Other,Tunguska event meteor ,10058.4,M
+Other,Jupiter Orbit,155600000000000,M
+Stars,Sigma Canis Majoris,58464000000000,M
+Stars,R Aurigae,41760000000000,M
+Other,Lemon Slice Nebula,6.90633324498343e+17,M
+Stars,Omicron1 Centauri,37584000000000,M
+Stars,Mirach,13920000000000,M
+Stars,Westerlund 1-26,216456000000000,M
+Stars,R Leporis,65076000000000,M
+Other,WASP-123 b,18554100000,M
+Other,Messier 49*,330798606700000,M
+Stars,V838 Monocerotis,104400000000000,M
+Stars,Alphard,7029600000000,M
+Other,TrES-4 b,23853300000,M
+Other,Quaoar,107000000,M
+Stars,Spica A,1039824000000,M
+Other,Ceres,93900000,M
+Other,Abell 1836-BCG,2132469589500000,M
+Stars,Nunki,626400000000,M
+Other,Oyster Nebula,1.0028374300934845e+18,M
+Stars,KW Sagittarii,171842400000000,M
+Other,Homunculus Nebula,5.4872236740964243e+17,M
+Stars,GJ 1132,28814400000,M
+Other,WASP-17 b,27838200000,M
+Stars,Arneb,17956800000000,M
+Other,Kepler-102 b,587200000,M
+Other,Saturn Orbit,285400000000000,M
+Other,IC 2149,1.7029314850644077e+17,M
+Stars,Markab,657024000000,M
+Stars,Eta Carinae A,34800000000000,M
+Other,Neptune Orbit,900000000000000,M
+Other,Helix Nebula,5.430459291260944e+18,M
+Other,Orcus,91000000,M
+Other,SAGE0536AGN,206749129200000,M
+Other,Pluto Orbit,1180000000000000,M
+Other,Bode's Galaxy*,41349825800000,M
+Other,Messier 58*,41349825800000,M
+Stars,SP77 47-5,160080000000000,M
+Other,NGC 4261*,236284719100000,M
+Other,PG 0804+761,409363275800000,M
+Other,NGTS-4 b,3966700000,M
+Other,Kepler-1256 b,1859600000,M
+Stars,Kruger 60 A,48720000000,M
+Stars,Denebola,240537600000,M
+Stars,GJ 1245 A,6376700000,M
+Other,Abell 39,2.3651826181450107e+18,M
+Other,Russia,250000000,M
+Other,Uranus Orbit,573400000000000,M
+Other,2007 OR10,154000000,M
+Stars,Kepler-445,29232000000,M
+Other,Westerlund 1,6.168396268122187e+18,M
+Other,Phantom Streak,4.2951716345513395e+17,M
+Other,51 Eridani b,15520000000,M
+Stars,Acrux,1275238700000,M
+Stars,1 Ceti,3897600000000,M
+Other,PG 1411+442,261685326400000,M
+Other,Kepler-70 b,950800000,M
+Stars,HV 11423,158688000000000,M
+Other,Saturn Nebula,5.6764382835480256e+17,M
+Other,QSO B2126-158,5788975616800000,M
+Stars,CPD-57° 2874,8352000000000,M
+Stars,Jupiter,13982200000,M
+Other,NGC 2509,6.537364756552809e+18,M
+Other,Kepler-57 c,1977200000,M
+Other,Hercules A*,2362847190500000,M
+Other,Adult Diaper,39,M
+Other,Kepler-444 A c,623600000,M
+Stars,AU Microscopii,116928000000,M
+Other,Theia,610200000,M
+Other,WASP-1 b,21168700000,M
+Other,WASP-99 b,15380200000,M
+Other,2002 MS4,93400000,M
+Stars,VW Cephei D,32016000000,M
+Other,Kepler-140 c,2296100000,M
+Other,Proton,0.1,M
+Other,Termination Shock,1237500000000000,M
+Other,HAT-P-7 b,20008200000,M
+Stars,MSX LMC 597,262106100000000,M
+Other,Sedna Orbit,1.3e+16,M
+Other,Kepler-710 b,2349000000,M
+Stars,Achernar,1586880000000,M
+Stars,Red Giant Sun,30000000000000,M
+Stars,LGGS J004520.67+414717.3,260434900000000,M
+Stars,Alderamin,320160000000,M
+Other,J1407b Rings,9000000000000,M
+Stars,Helium Burning Sun,1400000000000,M
+Stars,UY Scuti (2020),240000000000000,M
+Stars,LGGS J004539.99+415404.1,278540000000000,M
+Stars,Saturn (Without Rings),11646400000,M
+Other,Kepler-339 b,1775700000,M
+Stars,Procyon B,1907000000,M
+Stars,Asterope,450911400000,M
+Other,pencil,1.4,M
+Stars,WY Velorum,282378720000000,M
+Other,Kepler-222 c,5788500000,M
+Other,Omega Centauri,1.6272456412837675e+20,M
+Stars,Miaplacidus,946560000000,M
+Stars,Maia,840768000000,M
+Stars,Pleione,445440000000,M
+Stars,Electra,843553000000,M
+Other,Pleiades,1.6556278327015076e+19,M
+Stars,Altair,254736000000,M
+Stars,AM Canum Venaticorum,1907000000,M
+Stars,Taygeta,484826400000,M
+Stars,Procyon A,287081600000,M
+Stars,Merope,709920000000,M
+Stars,Alcyone,1294560000000,M
+Stars,Ainilam,4510080000000,M
+Other,GQ Lupi b,25167600000,M
+Other,CoRot-13 b,12374100000,M
+Other,Messier 60*,2658203089400000,M
+Stars,HR 5171,183048000000000,M
+Other,Cygnus A*,590711797600000,M
+Stars,Kochab,5854752000000,M
+Other,S.W.A.T Bearcat Truck,323,M
+Other,Virus,0.1,M
+Other,Mimivirus,0.5,M
+Other,Charon,120000000,M
+Other,Welcome Mat,28,M
+Other,Concorde,2600.2,M
+Stars,R71,14894400000000,M
+Other,X-15,680.4,M
+Other,Kepler-298 e,1913400000,M
+Other,Antonov An-225 Mriya,8800.5,M
+Stars,Alnitak Aa,2784000000000,M
+Stars,LMC 62090,115536000000000,M
+Other,Orion Nebula,2.2705753134192103e+19,M
+Other,Oort Cloud,1.0974447348192849e+18,M
+Other,Cessna 172,273.3,M
+Stars,Luhman 16 A,11928800000,M
+Other,F-15 Eagle,1300.3,M
+Other,United Kingdom,500002,M
+Other,Bell X-1,343.2,M
+Stars,Melnick 34,2784000000005.3,M
+Stars,Trumpler 27-1,149361600000000,M
+Stars,RSGC1-F02,208521600000000,M
+Other,Wright Flyer,284.4,M
+Stars,RS Cancri,23510419700000,M
+Other,SR-71 Blackbird,444.6,M
+Other,F-22 Raptor,1356.2,M
+Other,Kepler-1398 c,1286300000,M
+Other,2003 AZ84,77200000,M
+Other,SSA22 Protocluster,1.892146094e+26,M
+Other,J1407b III,1000000000,M
+Other,Hydra Cluster,9.460730472e+24,M
+Other,Trappist-1 f,1303500000,M
+Other,King LQG,2.223271661e+26,M
+Other,Iapetus,147000000,M
+Other,Centaurus Cluster,1.135287656e+25,M
+Other,Titania,157800000,M
+Other,L 98-59 b,897600000,M
+Stars,PMMR 115,150336000000000,M
+Other,Huge LQG,3.784292189e+27,M
+Other,Trappist-1 d,963400000,M
+Other,Local Group,9.460730472e+24,M
+Stars,GRW+70 8247,660000000,M
+Other,Dione,112400000,M
+Other,Triton,270700000,M
+Other,2015 RR245,77000000,M
+Other,Pinwheel Galaxy,1.60832418e+23,M
+Other,Caelum Supercluster,8.60926473e+26,M
+Other,Small Magellanic Cloud,6.622511330806657e+21,M
+Other,Salacia,85400000,M
+Other,TOI-700 d,1484900000,M
+Stars,119 Tauri,82128000000000,M
+Other,2014 EZ51,77000000,M
+Other,Observable Universe,8.798479339e+28,M
+Stars,Markeb,1235795400000,M
+Stars,Omicron Pavonis,18254595000000,M
+Other,DISS 10d m,11500000000,M
+Other,Ariel,115800000,M
+Other,Oberon,152300000,M
+Other,PCSC,9.460730472e+26,M
+Other,The Great Attractor,3.784292189e+26,M
+Other,2013 FY27,74000000,M
+Stars,ZTF J1901+1458,361800000,M
+Other,Umbriel,116900000,M
+Other,S5 0014+81,2.3632233443e+16,M
+Other,Rhea,152800000,M
+Other,Tethys,108000000,M
+Other,Califonia,122000000,M
+Stars,AG Carinae,76560000000000,M
+Stars,Aludra,7836960000000,M
+Stars,TV Geminorum,86721600000000,M
+Other,2004 GV9,68000000,M
+Other,2018 AG37 (FarFarOut),63400000,M
+Other,Leo Cluster,1.892146094e+25,M
+Other,Gigameter,100000000000,M
+Other,WISEP J190648.47+401106.8,12944000000,M
+Other,CFBDSIR 2149-0403,15520242000,M
+Other,Ross 458 (AB) c,14960700000,M
+Other,Chevrolet Camaro (2014 ~ 2015),137.8,M
+Other,Petameter,1e+17,M
+Other,Meter,100,M
+Other,Nereid,34000000,M
+Stars,HV 888,274662360000000,M
+Other,Decameter,1000,M
+Other,Quettameter,1e+32,M
+Other,Kepler-390 b,1044844000,M
+Other,Ixion,70960000,M
+Other,Yottameter,1e+26,M
+Other,Cell,0.2,M
+Other,WASP-8 b,14513300000,M
+Stars,WLM 11,43133400000000,M
+Other,Hectometer,10000,M
+Other,Proteus,42000000,M
+Stars,HD 20782,139140000000,M
+Other,Dysnomia,70000000,M
+Other,Quark,0.2,M
+Other,Water Mulecule,0.2,M
+Stars,Struve 2398 B,37985220000,M
+Stars,IC 10 3,95310900000000,M
+Other,Miranda,47200000,M
+Other,Enceladus,50400000,M
+Other,Komberg-Kravtsov-Lukash LQG 9,1.892146094e+26,M
+Other,SWEEPS-11,15799700000,M
+Other,Kepler-1408 b,1134038000,M
+Other,Kepler-44 b,17337700000,M
+Other,Sperm,0.4,M
+Other,Centimeter,1,M
+Other,West Virginia,4000000,M
+Other,Decimeter,10,M
+Other,Megameter,100000000,M
+Other,HD 20782 b,16914862000,M
+Other,Multiverse,3.784292189e+42,M
+Other,Plank Length,0.1,M
+Stars,OGLE-TR-122 B,16704000000,M
+Other,The Giant Nothing,1.702931485e+27,M
+Other,Vanth,44000000,M
+Other,Zettameter,1e+23,M
+Other,Kilometer,100000,M
+Stars,BAT-99-98,5217750000000,M
+Other,Mimas,39600000,M
+Other,Bacteria,0.2,M
+Other,2005 RR43,70200000,M
+Other,Varda,70500000,M
+Other,Ronnameter,1e+29,M
+Stars,DX Cancri,15305400000,M
+Stars,AR Scorpii B,1200000000,M
+Other,Space X,4900,M
+Other,Kepler-1625 b,14525880000,M
+Other,2005 RN43,67900000,M
+Other,CoRot-9 b,13143100000,M
+Other,Kepler-16 (AB)-b,10539782360,M
+Other,Millimeter,0.1,M
+Other,Exameter,1e+20,M
+Other,NGC 1262,3.595077579e+23,M
+Other,1995 SM55,70100000,M
+Other,PSR B1257+12 b,430679600,M
+Stars,DU Crucis,79031520000000,M
+Stars,OTS 44,79309800000,M
+Other,Eskimo Nebula,6.43329672135443e+17,M
+Stars,2M 2140+16,13920000000,M
+Other,2003 OP32,73500000,M
+Other,RCW 88,4.919579845741623e+19,M
+Stars,PHL 293B,187560720000000,M
+Stars,J1407,129400200000,M
+Stars,2MASS J0523-1403,14122022000,M
+Other,Terameter,100000000000000,M
+Other,Light Minute,1798752000000,M
+Other,Light Hour,107925404700000,M
+Other,Light Month,7.77062051136e+16,M
+Other,Light Day,2590206837100000,M
+Other,Astronomical Unit,14956787070000,M
+Other,Vatican City,80000,M
+Other,Eridanus Supervoid,4.626297201e+26,M
+Other,Light Week,1.813144785984e+16,M
+Other,APM 08279+5255,13623451880515260,M
+Other,Light Second,29979200000,M
+Other,BoomBox Radio,48,M
+Other,Kepler-90 d,3669666000,M
+Other,Kepler-90 h,14122022000,M
+Other,France,108000000,M
+Other,Door (Tall),224,M
+Other,Phobos,2300000,M
+Stars,Kepler-70,28245420000,M
+Other,EPIC 22881391 b,1109700000,M
+Stars,Kepler-90,166968000000,M
+Other,Kepler-90 g,10321020000,M
+Other,Canada,300000000,M
+Other,Kepler-90 f,3669666000,M
+Other,Kepler-90 e,3309372000,M
+Other,Transcendentem,1e+20,M
+Other,red bloud ceel,0.4,M
+Other,James Web Spacecraft,2000,M
+Other,NGC 496,1.100803294e+23,M
+Other,Telsa Roadster,144,M
+Other,Canis Major Dwarf,4.628189347e+21,M
+Other,Holmberg 15A,2.3632233443e+16,M
+Other,Cone Nebula,7.568584378064034e+18,M
+Other,School Bus,305,M
+Other,Omniverse,1e+56,M
+Other,Noeah´S Ark,1500,M
+Other,Voyager 2,524,M
+Other,NGC 2355,7.398291229557594e+18,M
+Other,Black Eye Galaxy,5.099049902e+22,M
+Other,ESO-444-46,295993723900000,M
+Other,Palomar 12,9.213805407245705e+19,M
+Other,Sculptor Wall,3.500470274e+26,M
+Stars,Frozen Star,14000000000,M
+Other,Cleopatra's Eye Nebula,15326383365579670,M
+Other,RGG 118,29540300000,M
+Other,FSR 1735,3.3519368064351093e+19,M
+Stars,Cha 110913-773444,25730000000,M
+Other,Texas,128900000,M
+Other,Alaska,228500000,M
+Other,OGLE-2005-BLG-390Lb,2153000000,M
+Other,Pranker Solar Probe,100,M
+Other,AK47,35,M
+Other,BD+20 594 b,2841000000,M
+Other,Table,145,M
+Other,School Bus,500,M
+Other,Kepler-10 b,1873000000,M
+Stars,Avior A,36096089800000,M
+Other,New Horizons,200,M
+Other,Voyager 1,500,M
+Other,Monaco,114800,M
+Other,North Carolina,29600000,M
+Other,Locomotive,800,M
+Other,Caldwell 3,8.437647079e+22,M
+Other,Hercules A,1.1825913e+24,M
+Other,Rhode Island,7700000,M

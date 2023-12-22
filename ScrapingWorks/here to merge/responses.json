@@ -1,0 +1,5725 @@
+[
+    {
+        "name": "2 chainz",
+        "net_worth": 9000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "rapper",
+            "music_artist",
+            "composer",
+            "record_producer"
+        ],
+        "height": 1.96,
+        "birthday": "1977-09-12",
+        "age": 45,
+        "is_alive": true
+    },
+    {
+        "name": "21 savage",
+        "net_worth": 12000000
+    },
+    {
+        "name": "karla martinez",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "mx",
+        "occupation": [
+            "television_presenter"
+        ],
+        "birthday": "1976-05-11",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "a. j. cook",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "ca",
+        "occupation": [
+            "actor",
+            "dancer"
+        ],
+        "height": 1.69,
+        "birthday": "1978-07-22",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "aaliyah",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "model",
+            "actor",
+            "dancer"
+        ],
+        "height": 1.71,
+        "birthday": "1979-01-16",
+        "age": 22,
+        "is_alive": false,
+        "death": "2001-08-25"
+    },
+    {
+        "name": "aamir khan",
+        "net_worth": 180000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "film_director",
+            "screenwriter",
+            "television_producer"
+        ],
+        "height": 1.68,
+        "birthday": "1965-03-14",
+        "age": 58,
+        "is_alive": true
+    },
+    {
+        "name": "aaron ashmore",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "ca",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.83,
+        "birthday": "1979-10-07",
+        "age": 43,
+        "is_alive": true
+    },
+    {
+        "name": "aaron carter",
+        "net_worth": 400000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "singer-songwriter",
+            "actor",
+            "songwriter",
+            "rapper",
+            "dancer"
+        ],
+        "height": 1.83,
+        "birthday": "1987-12-07",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "aaron douglas",
+        "net_worth": 800000,
+        "gender": "male",
+        "nationality": "ca",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.83,
+        "birthday": "1971-08-23",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "aaron eckhart",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer"
+        ],
+        "height": 1.83,
+        "birthday": "1968-03-12",
+        "age": 55,
+        "is_alive": true
+    },
+    {
+        "name": "aaron judge",
+        "net_worth": 10000000
+    },
+    {
+        "name": "aaron lohr",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "actor"
+        ],
+        "birthday": "1976-04-02",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "aaron paul",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.73,
+        "birthday": "1979-08-27",
+        "age": 43,
+        "is_alive": true
+    },
+    {
+        "name": "aaron rodgers",
+        "net_worth": 120000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "american_football_player",
+            "athlete"
+        ],
+        "height": 1.88,
+        "birthday": "1983-12-02",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "aaron stanford",
+        "net_worth": 500000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1976-12-27",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "aaron staton",
+        "net_worth": 4000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.85,
+        "birthday": "1980-08-02",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "aaron taylor-johnson",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.8,
+        "birthday": "1990-06-13",
+        "age": 33,
+        "is_alive": true
+    },
+    {
+        "name": "aaron yoo",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.71,
+        "birthday": "1979-05-12",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "aashish chaudhary",
+        "net_worth": 30000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "model"
+        ]
+    },
+    {
+        "name": "aasif mandvi",
+        "net_worth": 800000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "comedian",
+            "screenwriter"
+        ],
+        "height": 1.78,
+        "birthday": "1966-03-05",
+        "age": 57,
+        "is_alive": true
+    },
+    {
+        "name": "abbey lee kershaw",
+        "net_worth": 4000000
+    },
+    {
+        "name": "abbi jacobson",
+        "net_worth": 6000000,
+        "gender": "female",
+        "occupation": [
+            "actor",
+            "screenwriter"
+        ]
+    },
+    {
+        "name": "abbie cornish",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "au",
+        "occupation": [
+            "actor",
+            "model",
+            "voice_actor"
+        ],
+        "height": 1.73,
+        "birthday": "1982-08-07",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "abby brammell",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.7,
+        "birthday": "1979-03-19",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "abby elliott",
+        "net_worth": 1500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "singer"
+        ],
+        "birthday": "1987-06-16",
+        "age": 36,
+        "is_alive": true
+    },
+    {
+        "name": "abe vigoda",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.84,
+        "birthday": "1921-02-24",
+        "age": 102,
+        "is_alive": true
+    },
+    {
+        "name": "abhishek bachchan",
+        "net_worth": 30000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "presenter",
+            "businessperson",
+            "singer",
+            "playback_singer",
+            "film_producer"
+        ],
+        "height": 1.85,
+        "birthday": "1976-02-05",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "abigail breslin",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.55,
+        "birthday": "1996-04-14",
+        "age": 27,
+        "is_alive": true
+    },
+    {
+        "name": "abigail ratchford",
+        "net_worth": 4000000
+    },
+    {
+        "name": "abigail spencer",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "screenwriter"
+        ],
+        "height": 1.65,
+        "birthday": "1981-08-04",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "action bronson",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "rapper",
+            "chef"
+        ],
+        "birthday": "1983-12-02",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "ada nicodemou",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "au",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.55,
+        "birthday": "1977-05-14",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "adam ant",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "musician",
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1954-11-03",
+        "age": 68,
+        "is_alive": true
+    },
+    {
+        "name": "adam arkin",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "television_producer",
+            "writer"
+        ],
+        "height": 1.87,
+        "birthday": "1956-08-19",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "adam baldwin",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.93,
+        "birthday": "1962-02-27",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "adam beach",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "ca",
+        "occupation": [
+            "actor",
+            "film_producer"
+        ],
+        "height": 1.82,
+        "birthday": "1972-11-11",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "adam brody",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "musician",
+            "voice_actor"
+        ],
+        "height": 1.8,
+        "birthday": "1979-12-15",
+        "age": 43,
+        "is_alive": true
+    },
+    {
+        "name": "adam campbell",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.71,
+        "birthday": "1980-08-19",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "adam carolla",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "talk_show_host",
+            "radio_personality",
+            "actor",
+            "carpentry",
+            "tv_personality",
+            "presenter",
+            "voice_actor",
+            "screenwriter",
+            "television_producer"
+        ],
+        "height": 1.88,
+        "birthday": "1964-05-27",
+        "age": 59,
+        "is_alive": true
+    },
+    {
+        "name": "adam deacon",
+        "net_worth": 4000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "film_director",
+            "rapper",
+            "screenwriter",
+            "writer"
+        ],
+        "height": 1.65,
+        "birthday": "1983-03-04",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "adam devine",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "film_producer",
+            "actor",
+            "screenwriter",
+            "television_producer",
+            "comedian",
+            "voice_actor"
+        ],
+        "height": 1.73,
+        "birthday": "1983-11-07",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "adam driver",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.91,
+        "birthday": "1983-11-19",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "adam garcia",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "au",
+        "occupation": [
+            "actor",
+            "dancer",
+            "singer"
+        ],
+        "height": 1.8,
+        "birthday": "1973-06-01",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "adam goldberg",
+        "net_worth": 6000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_director",
+            "film_producer",
+            "musician",
+            "film_editor",
+            "singer",
+            "voice_actor",
+            "composer",
+            "screenwriter"
+        ],
+        "height": 1.8,
+        "birthday": "1970-10-25",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "adam lamberg",
+        "net_worth": 1500000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.62,
+        "birthday": "1984-09-14",
+        "age": 38,
+        "is_alive": true
+    },
+    {
+        "name": "adam lambert",
+        "net_worth": 30000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "musician",
+            "artist",
+            "record_producer",
+            "singer-songwriter",
+            "music_artist"
+        ],
+        "height": 1.85,
+        "birthday": "1982-01-29",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "adam levine",
+        "net_worth": 120000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "musician",
+            "guitarist",
+            "actor",
+            "singer-songwriter",
+            "entrepreneur",
+            "vocal_coach"
+        ],
+        "height": 1.82,
+        "birthday": "1979-03-18",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "adam mckay",
+        "net_worth": 40000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "screenwriter",
+            "actor",
+            "film_director",
+            "comedian",
+            "television_producer",
+            "television_director",
+            "film_producer"
+        ],
+        "height": 1.96,
+        "birthday": "1968-04-17",
+        "age": 55,
+        "is_alive": true
+    },
+    {
+        "name": "adam pally",
+        "net_worth": 600000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "screenwriter",
+            "comedian",
+            "film_producer"
+        ],
+        "height": 1.79,
+        "birthday": "1982-03-18",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "adam rayner",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1977-08-28",
+        "age": 45,
+        "is_alive": true
+    },
+    {
+        "name": "adam rodriguez",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "screenwriter"
+        ],
+        "height": 1.83,
+        "birthday": "1975-04-02",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "adam sandler",
+        "net_worth": 420000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "screenwriter",
+            "film_producer",
+            "actor",
+            "television_producer",
+            "comedian",
+            "musician",
+            "songwriter",
+            "voice_actor"
+        ],
+        "height": 1.77,
+        "birthday": "1966-09-09",
+        "age": 56,
+        "is_alive": true
+    },
+    {
+        "name": "adam savage",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "educator",
+            "television_producer",
+            "special_effects_designer",
+            "presenter",
+            "industrial_designer"
+        ],
+        "height": 1.82,
+        "birthday": "1967-07-15",
+        "age": 55,
+        "is_alive": true
+    },
+    {
+        "name": "adam scott",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "television_producer",
+            "television_director",
+            "screenwriter"
+        ],
+        "height": 1.77,
+        "birthday": "1973-04-03",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "adam west",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "presenter"
+        ],
+        "height": 1.88,
+        "birthday": "1928-09-19",
+        "age": 88,
+        "is_alive": false,
+        "death": "2017-06-09"
+    },
+    {
+        "name": "adan canto",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "mx",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1981-12-05",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "addison rae",
+        "net_worth": 5000000
+    },
+    {
+        "name": "addison timlin",
+        "net_worth": 400000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.54,
+        "birthday": "1991-06-29",
+        "age": 32,
+        "is_alive": true
+    },
+    {
+        "name": "adelaide clemens",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "au",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.75,
+        "birthday": "1989-11-30",
+        "age": 33,
+        "is_alive": true
+    },
+    {
+        "name": "madeleine albright",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "politician",
+            "diplomat",
+            "professor"
+        ],
+        "height": 1.47,
+        "birthday": "1937-05-15",
+        "age": 86,
+        "is_alive": true
+    },
+    {
+        "name": "adele exarchopoulos",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "fr",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1993-11-22",
+        "age": 29,
+        "is_alive": true
+    },
+    {
+        "name": "adina porter",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1971-03-13",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "adrian chiles",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "presenter",
+            "radio_personality",
+            "disc_jockey",
+            "actor",
+            "writer",
+            "screenwriter"
+        ],
+        "height": 1.83,
+        "birthday": "1967-03-21",
+        "age": 56,
+        "is_alive": true
+    },
+    {
+        "name": "adrian grenier",
+        "net_worth": 12000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "musician",
+            "television_producer",
+            "film_director"
+        ],
+        "height": 1.83,
+        "birthday": "1976-07-10",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "adrian holmes",
+        "net_worth": 4000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.82,
+        "birthday": "1974-03-31",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "adrian lester",
+        "net_worth": 6000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "television_director",
+            "screenwriter"
+        ],
+        "height": 1.85,
+        "birthday": "1968-08-14",
+        "age": 54,
+        "is_alive": true
+    },
+    {
+        "name": "adrian pasdar",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_director",
+            "voice_actor",
+            "guitarist"
+        ],
+        "height": 1.78,
+        "birthday": "1965-04-30",
+        "age": 58,
+        "is_alive": true
+    },
+    {
+        "name": "adrian paul",
+        "net_worth": 500000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "television_producer",
+            "model",
+            "dancer",
+            "choreographer"
+        ],
+        "height": 1.83,
+        "birthday": "1959-05-29",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "adrian zmed",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1954-03-14",
+        "age": 69,
+        "is_alive": true
+    },
+    {
+        "name": "adriana lima",
+        "net_worth": 95000000,
+        "gender": "female",
+        "nationality": "br",
+        "occupation": [
+            "model",
+            "supermodel",
+            "fashion_model"
+        ],
+        "height": 1.78,
+        "birthday": "1981-06-12",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "adrianne curry",
+        "net_worth": 500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "television_producer",
+            "actor",
+            "waiting_staff"
+        ],
+        "height": 1.79,
+        "birthday": "1982-08-06",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "adrianne palicki",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.8,
+        "birthday": "1983-05-06",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "adrien brody",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "voice_actor"
+        ],
+        "height": 1.85,
+        "birthday": "1973-04-14",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "adrienne bailon",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer-songwriter",
+            "dancer",
+            "tv_personality"
+        ],
+        "height": 1.5,
+        "birthday": "1983-10-24",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "adrienne barbeau",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "writer",
+            "author"
+        ],
+        "height": 1.59,
+        "birthday": "1945-06-11",
+        "age": 78,
+        "is_alive": true
+    },
+    {
+        "name": "adrienne maloof-nassif",
+        "net_worth": 50000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "businessperson",
+            "presenter"
+        ],
+        "height": 1.55,
+        "birthday": "1961-09-04",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "afrojack",
+        "net_worth": 60000000,
+        "gender": "male",
+        "nationality": "nl",
+        "occupation": [
+            "disc_jockey",
+            "record_producer",
+            "remixer"
+        ],
+        "height": 2.08,
+        "birthday": "1987-09-09",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "afshan azad",
+        "net_worth": 1500000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.7,
+        "birthday": "1988-02-12",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "agnes bruckner",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.72,
+        "birthday": "1985-08-16",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "agnieszka radwanska",
+        "net_worth": 25000000,
+        "gender": "female",
+        "nationality": "pl",
+        "occupation": [
+            "tennis_player"
+        ],
+        "height": 1.72,
+        "birthday": "1989-03-06",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "agyness deyn",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "fashion_model",
+            "singer",
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1983-02-16",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "ahmed best",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_producer",
+            "television_director",
+            "screenwriter",
+            "musician",
+            "voice_actor"
+        ],
+        "height": 1.8,
+        "birthday": "1973-08-19",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "ahna o'reilly",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1985-02-17",
+        "age": 38,
+        "is_alive": true
+    },
+    {
+        "name": "aida turturro",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.65,
+        "birthday": "1962-09-25",
+        "age": 60,
+        "is_alive": true
+    },
+    {
+        "name": "aidan gallagher",
+        "net_worth": 2000000
+    },
+    {
+        "name": "aidan gillen",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "ie",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.78,
+        "birthday": "1968-04-24",
+        "age": 55,
+        "is_alive": true
+    },
+    {
+        "name": "aidan quinn",
+        "net_worth": 12000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.83,
+        "birthday": "1959-03-08",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "aileen quinn",
+        "net_worth": 500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "dancer",
+            "film_director",
+            "singer-songwriter"
+        ],
+        "height": 1.49,
+        "birthday": "1971-06-28",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "aimee garcia",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "teacher",
+            "voice_actor",
+            "screenwriter"
+        ],
+        "height": 1.57,
+        "birthday": "1978-11-28",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "aimee kelly",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1993-07-08",
+        "age": 30,
+        "is_alive": true
+    },
+    {
+        "name": "aimee mann",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "singer-songwriter",
+            "bassist",
+            "songwriter",
+            "actor",
+            "guitarist"
+        ],
+        "height": 1.82,
+        "birthday": "1960-09-08",
+        "age": 62,
+        "is_alive": true
+    },
+    {
+        "name": "aimee teegarden",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model",
+            "film_producer"
+        ],
+        "height": 1.7,
+        "birthday": "1989-10-10",
+        "age": 33,
+        "is_alive": true
+    },
+    {
+        "name": "ainsley harriott",
+        "net_worth": 4000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "presenter",
+            "chef",
+            "celebrity_chef",
+            "actor"
+        ],
+        "height": 1.91,
+        "birthday": "1957-02-28",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "aisha hinds",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1975-11-13",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "aisha tyler",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "comedian",
+            "author",
+            "voice_actor",
+            "screenwriter"
+        ],
+        "height": 1.83,
+        "birthday": "1970-09-18",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "aishwarya al alsaud",
+        "net_worth": 820000000
+    },
+    {
+        "name": "aishwarya rai",
+        "net_worth": 100000000,
+        "gender": "female",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.7,
+        "birthday": "1973-11-01",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "aisleyne horgan-wallace",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "fashion_designer",
+            "model",
+            "presenter",
+            "actor"
+        ],
+        "height": 1.72,
+        "birthday": "1978-12-28",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "aj lee",
+        "net_worth": 4000000
+    },
+    {
+        "name": "aj michalka",
+        "net_worth": 700000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "songwriter",
+            "actor",
+            "model",
+            "musician",
+            "guitarist"
+        ],
+        "height": 1.68,
+        "birthday": "1991-04-10",
+        "age": 32,
+        "is_alive": true
+    },
+    {
+        "name": "aj styles",
+        "net_worth": 6000000
+    },
+    {
+        "name": "ajay piramal",
+        "net_worth": 1800000000,
+        "gender": "male",
+        "nationality": "in",
+        "birthday": "1955-12-20",
+        "age": 67,
+        "is_alive": true
+    },
+    {
+        "name": "ajay devgan",
+        "net_worth": 30000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "film_director"
+        ],
+        "height": 1.75,
+        "birthday": "1969-04-02",
+        "age": 54,
+        "is_alive": true
+    },
+    {
+        "name": "terje hakonsen",
+        "net_worth": 4000000,
+        "gender": "male",
+        "birthday": "1974-10-11",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "aksel hennie",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "no",
+        "occupation": [
+            "actor",
+            "film_director",
+            "screenwriter",
+            "voice_actor"
+        ],
+        "height": 1.73,
+        "birthday": "1975-10-29",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "akshay kumar",
+        "net_worth": 240000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "presenter",
+            "stunt_performer",
+            "martial_artist",
+            "film_producer"
+        ],
+        "height": 1.8,
+        "birthday": "1967-09-09",
+        "age": 55,
+        "is_alive": true
+    },
+    {
+        "name": "al cowlings",
+        "net_worth": 250000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "american_football_player"
+        ],
+        "height": 1.96,
+        "birthday": "1947-06-16",
+        "age": 76,
+        "is_alive": true
+    },
+    {
+        "name": "al franken",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "politician",
+            "comedian",
+            "author",
+            "actor",
+            "screenwriter",
+            "radio_personality",
+            "commentator",
+            "television_producer"
+        ],
+        "height": 1.68,
+        "birthday": "1951-05-21",
+        "age": 72,
+        "is_alive": true
+    },
+    {
+        "name": "al gore",
+        "net_worth": 300000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "politician",
+            "writer",
+            "author",
+            "presenter",
+            "advocate",
+            "philanthropist",
+            "environmentalist",
+            "actor"
+        ],
+        "height": 1.87,
+        "birthday": "1948-03-31",
+        "age": 75,
+        "is_alive": true
+    },
+    {
+        "name": "jamal lewis",
+        "net_worth": -1000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "american_football_player"
+        ],
+        "height": 1.8,
+        "birthday": "1979-08-26",
+        "age": 43,
+        "is_alive": true
+    },
+    {
+        "name": "al pacino",
+        "net_worth": 120000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_director",
+            "film_producer",
+            "theatre_director"
+        ],
+        "height": 1.7,
+        "birthday": "1940-04-25",
+        "age": 83,
+        "is_alive": true
+    },
+    {
+        "name": "al roker",
+        "net_worth": 70000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "tv_meteorologist",
+            "tv_journalist",
+            "presenter",
+            "journalist",
+            "writer",
+            "author",
+            "actor",
+            "television_producer",
+            "voice_actor"
+        ],
+        "height": 1.73,
+        "birthday": "1954-08-20",
+        "age": 68,
+        "is_alive": true
+    },
+    {
+        "name": "alain delon",
+        "net_worth": 200000000,
+        "gender": "male",
+        "nationality": "fr",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "screenwriter",
+            "film_director",
+            "soldier",
+            "singer",
+            "television_producer"
+        ],
+        "height": 1.77,
+        "birthday": "1935-11-08",
+        "age": 87,
+        "is_alive": true
+    },
+    {
+        "name": "alan alda",
+        "net_worth": 40000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "screenwriter",
+            "film_director",
+            "author",
+            "activist"
+        ],
+        "height": 1.88,
+        "birthday": "1936-01-28",
+        "age": 87,
+        "is_alive": true
+    },
+    {
+        "name": "alan arkin",
+        "net_worth": 15000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "singer",
+            "musician",
+            "screenwriter",
+            "film_director"
+        ],
+        "height": 1.75,
+        "birthday": "1934-03-26",
+        "age": 89,
+        "is_alive": true
+    },
+    {
+        "name": "alan cumming",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "film_director",
+            "film_producer",
+            "screenwriter",
+            "author",
+            "entrepreneur",
+            "voice_actor",
+            "film_score_composer"
+        ],
+        "height": 1.78,
+        "birthday": "1965-01-27",
+        "age": 58,
+        "is_alive": true
+    },
+    {
+        "name": "alan dale",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "au",
+        "occupation": [
+            "actor",
+            "rugby_player",
+            "voice_actor"
+        ],
+        "height": 1.88,
+        "birthday": "1947-05-06",
+        "age": 76,
+        "is_alive": true
+    },
+    {
+        "name": "alan jackson",
+        "net_worth": 95000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "songwriter",
+            "singer",
+            "singer-songwriter",
+            "musician",
+            "artist",
+            "music_artist"
+        ],
+        "height": 1.93,
+        "birthday": "1958-10-17",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "alan king",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "ie",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1973-02-05",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "alan ladd jr",
+        "net_worth": 75000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "film_producer"
+        ],
+        "birthday": "1937-10-22",
+        "age": 85,
+        "is_alive": true
+    },
+    {
+        "name": "alan rickman",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "graphic_designer",
+            "film_director",
+            "film_producer",
+            "screenwriter",
+            "voice_actor"
+        ],
+        "height": 1.85,
+        "birthday": "1946-02-21",
+        "age": 77,
+        "is_alive": true
+    },
+    {
+        "name": "alan ritchson",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "model",
+            "actor"
+        ],
+        "height": 1.88,
+        "birthday": "1984-11-28",
+        "age": 38,
+        "is_alive": true
+    },
+    {
+        "name": "alan ruck",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.83,
+        "birthday": "1956-07-01",
+        "age": 67,
+        "is_alive": true
+    },
+    {
+        "name": "alan shearer",
+        "net_worth": 52500000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "coach",
+            "football_player"
+        ],
+        "height": 1.83,
+        "birthday": "1970-08-13",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "alan sugar",
+        "net_worth": 1300000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "businessperson",
+            "tv_personality",
+            "entrepreneur",
+            "author",
+            "politician"
+        ],
+        "height": 1.73,
+        "birthday": "1947-03-24",
+        "age": 76,
+        "is_alive": true
+    },
+    {
+        "name": "alan thicke",
+        "net_worth": 40000000,
+        "gender": "male",
+        "nationality": "ca",
+        "occupation": [
+            "actor",
+            "songwriter",
+            "screenwriter",
+            "television_producer",
+            "comedian",
+            "writer",
+            "presenter",
+            "master_of_ceremonies",
+            "musician",
+            "composer"
+        ],
+        "height": 1.85,
+        "birthday": "1947-03-01",
+        "age": 69,
+        "is_alive": false,
+        "death": "2016-12-13"
+    },
+    {
+        "name": "alan tudyk",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.83,
+        "birthday": "1971-03-16",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "alan young",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.78,
+        "birthday": "1919-11-19",
+        "age": 103,
+        "is_alive": true
+    },
+    {
+        "name": "alana de la garza",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.75,
+        "birthday": "1976-06-18",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "alanis morissette",
+        "net_worth": 45000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "writer",
+            "singer",
+            "record_producer",
+            "songwriter",
+            "actor",
+            "film_director",
+            "film_score_composer",
+            "film_producer",
+            "guitarist",
+            "musician"
+        ],
+        "height": 1.63,
+        "birthday": "1974-06-01",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "alanna masterson",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1988-06-27",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "alanna ubach",
+        "net_worth": 800000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "singer"
+        ],
+        "height": 1.57,
+        "birthday": "1975-10-03",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "albert brooks",
+        "net_worth": 28000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "screenwriter",
+            "film_director",
+            "television_director",
+            "voice_actor"
+        ],
+        "height": 1.78,
+        "birthday": "1947-07-22",
+        "age": 75,
+        "is_alive": true
+    },
+    {
+        "name": "albert einstein",
+        "net_worth": 1000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "physicist",
+            "scientist",
+            "writer",
+            "philosopher",
+            "theoretical_physicist",
+            "mathematician",
+            "author",
+            "teacher"
+        ],
+        "height": 1.75,
+        "birthday": "1879-03-14",
+        "age": 76,
+        "is_alive": false,
+        "death": "1955-04-18"
+    },
+    {
+        "name": "albert finney",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "singer",
+            "film_director",
+            "voice_actor"
+        ],
+        "height": 1.75,
+        "birthday": "1936-05-09",
+        "age": 82,
+        "is_alive": false,
+        "death": "2019-02-07"
+    },
+    {
+        "name": "alberto del rio",
+        "net_worth": 6000000,
+        "gender": "male",
+        "nationality": "mx",
+        "occupation": [
+            "mixed_martial_artist",
+            "wrestler"
+        ],
+        "height": 1.96,
+        "birthday": "1977-05-25",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "aldis hodge",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.85,
+        "birthday": "1986-09-20",
+        "age": 36,
+        "is_alive": true
+    },
+    {
+        "name": "alec baldwin",
+        "net_worth": 60000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_producer",
+            "film_producer",
+            "voice_actor",
+            "author",
+            "comedian"
+        ],
+        "height": 1.83,
+        "birthday": "1958-04-03",
+        "age": 65,
+        "is_alive": true
+    },
+    {
+        "name": "alec guinness",
+        "net_worth": 100000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.78,
+        "birthday": "1914-04-02",
+        "age": 86,
+        "is_alive": false,
+        "death": "2000-08-05"
+    },
+    {
+        "name": "alec mapa",
+        "net_worth": 1000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "writer",
+            "comedian"
+        ],
+        "height": 1.65,
+        "birthday": "1965-07-10",
+        "age": 57,
+        "is_alive": true
+    },
+    {
+        "name": "aled jones",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "presenter",
+            "singer",
+            "musician"
+        ],
+        "birthday": "1970-12-29",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "alejandro gonzalez inarritu",
+        "net_worth": 40000000,
+        "gender": "male",
+        "nationality": "mx",
+        "occupation": [
+            "film_director",
+            "film_producer",
+            "screenwriter",
+            "composer",
+            "film_score_composer",
+            "film_editor"
+        ],
+        "height": 1.84,
+        "birthday": "1963-08-15",
+        "age": 59,
+        "is_alive": true
+    },
+    {
+        "name": "alek wek",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "sd",
+        "occupation": [
+            "fashion_model",
+            "supermodel"
+        ],
+        "height": 1.8,
+        "birthday": "1977-04-16",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "alesha dixon",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "songwriter",
+            "musician",
+            "singer-songwriter",
+            "model",
+            "presenter",
+            "rapper",
+            "dancer"
+        ],
+        "height": 1.69,
+        "birthday": "1978-10-07",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "alessandra ambrosio",
+        "net_worth": 80000000,
+        "gender": "female",
+        "nationality": "br",
+        "occupation": [
+            "fashion_model",
+            "supermodel",
+            "actor"
+        ],
+        "height": 1.76,
+        "birthday": "1981-04-11",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "alessandro nivola",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.75,
+        "birthday": "1972-06-28",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "alessia cara",
+        "net_worth": 4000000
+    },
+    {
+        "name": "alex band",
+        "net_worth": 500000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "musician",
+            "singer-songwriter",
+            "record_producer",
+            "actor"
+        ],
+        "height": 1.78,
+        "birthday": "1981-06-08",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "alex borstein",
+        "net_worth": 24000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "screenwriter",
+            "television_producer",
+            "comedian",
+            "singer",
+            "voice_actor",
+            "film_producer"
+        ],
+        "height": 1.52,
+        "birthday": "1973-02-15",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "alex d. linz",
+        "net_worth": 400000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.63,
+        "birthday": "1989-01-03",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alex ferguson",
+        "net_worth": 70000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "coach",
+            "manager",
+            "football_player"
+        ],
+        "height": 1.8,
+        "birthday": "1941-12-31",
+        "age": 81,
+        "is_alive": true
+    },
+    {
+        "name": "judge alex ferrer",
+        "net_worth": 15000000
+    },
+    {
+        "name": "alex gaskarth",
+        "net_worth": 1000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "singer-songwriter",
+            "guitarist"
+        ],
+        "height": 1.84,
+        "birthday": "1987-12-14",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "alex james",
+        "net_worth": 25000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "author",
+            "bassist",
+            "songwriter",
+            "musician",
+            "journalist",
+            "guitarist",
+            "model",
+            "tv_personality"
+        ],
+        "birthday": "1968-11-21",
+        "age": 54,
+        "is_alive": true
+    },
+    {
+        "name": "alex jennings",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.88,
+        "birthday": "1957-05-10",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "alex jones",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_director",
+            "film_producer",
+            "radio_personality"
+        ],
+        "height": 1.78,
+        "birthday": "1974-02-11",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "alex kapranos",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "guitarist",
+            "author",
+            "record_producer",
+            "songwriter",
+            "musician"
+        ],
+        "height": 1.8,
+        "birthday": "1972-03-20",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "alex karras",
+        "net_worth": 6000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "wrestler",
+            "american_football_player",
+            "actor",
+            "writer",
+            "television_producer"
+        ],
+        "height": 1.88,
+        "birthday": "1935-07-15",
+        "age": 77,
+        "is_alive": false,
+        "death": "2012-10-10"
+    },
+    {
+        "name": "alex kingston",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.7,
+        "birthday": "1963-03-11",
+        "age": 60,
+        "is_alive": true
+    },
+    {
+        "name": "alex meneses",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "birthday": "1965-02-12",
+        "age": 58,
+        "is_alive": true
+    },
+    {
+        "name": "alex morgan",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "football_player"
+        ],
+        "height": 1.73,
+        "birthday": "1989-07-02",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alex o'loughlin",
+        "net_worth": 25000000,
+        "gender": "male",
+        "nationality": "au",
+        "occupation": [
+            "actor",
+            "writer"
+        ],
+        "height": 1.88,
+        "birthday": "1976-08-24",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "alex pettyfer",
+        "net_worth": 3500000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "model",
+            "actor"
+        ],
+        "height": 1.81,
+        "birthday": "1990-04-10",
+        "age": 33,
+        "is_alive": true
+    },
+    {
+        "name": "alex rodriguez",
+        "net_worth": 350000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "baseball_player",
+            "actor",
+            "athlete"
+        ],
+        "height": 1.9,
+        "birthday": "1975-07-27",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "alex russell",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "au",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1987-12-11",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "alex turner",
+        "net_worth": 25000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "guitarist",
+            "songwriter",
+            "musician",
+            "composer"
+        ],
+        "height": 1.77,
+        "birthday": "1986-01-06",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "alex winter",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "film_director",
+            "actor",
+            "screenwriter",
+            "television_director",
+            "film_producer"
+        ],
+        "birthday": "1965-07-17",
+        "age": 57,
+        "is_alive": true
+    },
+    {
+        "name": "alex wolff",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "drummer",
+            "actor",
+            "songwriter",
+            "musician",
+            "composer",
+            "guitarist",
+            "keyboard_player"
+        ],
+        "height": 1.4,
+        "birthday": "1997-11-01",
+        "age": 25,
+        "is_alive": true
+    },
+    {
+        "name": "alexander nesis",
+        "net_worth": 3000000000,
+        "gender": "male",
+        "nationality": "ru",
+        "birthday": "1962-12-19",
+        "age": 60,
+        "is_alive": true
+    },
+    {
+        "name": "alexa chung",
+        "net_worth": 12000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "presenter",
+            "model",
+            "editor"
+        ],
+        "height": 1.73,
+        "birthday": "1983-11-05",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "alexa davalos",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.7,
+        "birthday": "1982-05-28",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "alexa vega",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer"
+        ],
+        "height": 1.55,
+        "birthday": "1988-08-27",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alexander armstrong",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "presenter",
+            "actor",
+            "comedian",
+            "television_producer",
+            "screenwriter"
+        ],
+        "height": 1.91,
+        "birthday": "1970-03-02",
+        "age": 53,
+        "is_alive": true
+    },
+    {
+        "name": "alexander ludwig",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "ca",
+        "occupation": [
+            "actor",
+            "model",
+            "singer-songwriter",
+            "voice_actor"
+        ],
+        "height": 1.88,
+        "birthday": "1992-05-07",
+        "age": 31,
+        "is_alive": true
+    },
+    {
+        "name": "alexander siddig",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "sd",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.82,
+        "birthday": "1965-11-21",
+        "age": 57,
+        "is_alive": true
+    },
+    {
+        "name": "alexander skarsgard",
+        "net_worth": 12000000,
+        "gender": "male",
+        "nationality": "se",
+        "occupation": [
+            "actor",
+            "film_director"
+        ],
+        "height": 1.94,
+        "birthday": "1976-08-25",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "alexandra breckenridge",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "photographer",
+            "voice_actor"
+        ],
+        "height": 1.7,
+        "birthday": "1982-05-15",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "alexandra burke",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "singer-songwriter",
+            "model",
+            "dancer"
+        ],
+        "height": 1.62,
+        "birthday": "1988-08-25",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alexandra daddario",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.73,
+        "birthday": "1986-03-16",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "alexandra paul",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "swimmer",
+            "actor",
+            "athlete"
+        ],
+        "height": 1.78,
+        "birthday": "1963-07-29",
+        "age": 59,
+        "is_alive": true
+    },
+    {
+        "name": "alexandria ocasio-cortez",
+        "net_worth": 100000
+    },
+    {
+        "name": "alexei sayle",
+        "net_worth": 6000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "comedian",
+            "screenwriter",
+            "author"
+        ],
+        "height": 1.8,
+        "birthday": "1952-08-07",
+        "age": 70,
+        "is_alive": true
+    },
+    {
+        "name": "alexia echevarria",
+        "net_worth": 3000000
+    },
+    {
+        "name": "alexis bellino",
+        "net_worth": 1500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "tv_personality",
+            "businessperson"
+        ],
+        "birthday": "1977"
+    },
+    {
+        "name": "alexis bledel",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model",
+            "film_producer"
+        ],
+        "height": 1.7,
+        "birthday": "1981-09-16",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "alexis denisof",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.86,
+        "birthday": "1966-02-25",
+        "age": 57,
+        "is_alive": true
+    },
+    {
+        "name": "alexis dziena",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.57,
+        "birthday": "1984-07-08",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "alexis fields",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1979-03-03",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "alexis ren",
+        "net_worth": 3000000
+    },
+    {
+        "name": "alexis sanchez",
+        "net_worth": 50000000,
+        "gender": "male",
+        "nationality": "cl",
+        "occupation": [
+            "soccer_player"
+        ],
+        "height": 1.69,
+        "birthday": "1988-12-19",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alfie allen",
+        "net_worth": 6000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.75,
+        "birthday": "1986-09-12",
+        "age": 36,
+        "is_alive": true
+    },
+    {
+        "name": "alfonso cuaron",
+        "net_worth": 50000000,
+        "gender": "male",
+        "nationality": "mx",
+        "occupation": [
+            "screenwriter",
+            "film_director",
+            "film_producer",
+            "film_editor",
+            "cinematographer",
+            "television_director",
+            "actor"
+        ],
+        "height": 1.82,
+        "birthday": "1961-11-28",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "alfonso ribeiro",
+        "net_worth": 7000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "comedian",
+            "game_show_host",
+            "dancer",
+            "singer",
+            "voice_actor"
+        ],
+        "height": 1.68,
+        "birthday": "1971-09-21",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "alfre woodard",
+        "net_worth": 13000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "voice_actor"
+        ],
+        "height": 1.6,
+        "birthday": "1952-11-08",
+        "age": 70,
+        "is_alive": true
+    },
+    {
+        "name": "alfred enoch",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.84,
+        "birthday": "1988-12-02",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alfred hitchcock",
+        "net_worth": 200000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "film_director",
+            "actor",
+            "film_producer",
+            "screenwriter",
+            "television_director",
+            "television_producer",
+            "film_art_director",
+            "film_editor",
+            "writer"
+        ],
+        "height": 1.7,
+        "birthday": "1899-08-13",
+        "age": 80,
+        "is_alive": false,
+        "death": "1980-04-29"
+    },
+    {
+        "name": "alfred molina",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_producer",
+            "voice_actor",
+            "film_producer"
+        ],
+        "height": 1.89,
+        "birthday": "1953-05-24",
+        "age": 70,
+        "is_alive": true
+    },
+    {
+        "name": "ali fedotowsky",
+        "net_worth": 600000,
+        "gender": "female",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.7,
+        "birthday": "1984-09-16",
+        "age": 38,
+        "is_alive": true
+    },
+    {
+        "name": "ali landry",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.75,
+        "birthday": "1973-07-21",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "ali larter",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.73,
+        "birthday": "1976-02-28",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "ali macgraw",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model",
+            "author",
+            "activist"
+        ],
+        "height": 1.77,
+        "birthday": "1939-04-01",
+        "age": 84,
+        "is_alive": true
+    },
+    {
+        "name": "ali wong",
+        "net_worth": 3000000
+    },
+    {
+        "name": "alia bhatt",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.68,
+        "birthday": "1993-03-15",
+        "age": 30,
+        "is_alive": true
+    },
+    {
+        "name": "alia shawkat",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.66,
+        "birthday": "1989-04-18",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alice braga",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "br",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.63,
+        "birthday": "1983-04-15",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "alice cooper",
+        "net_worth": 50000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "actor",
+            "disc_jockey",
+            "singer-songwriter",
+            "guitarist",
+            "musician",
+            "film_score_composer"
+        ],
+        "height": 1.77,
+        "birthday": "1948-02-04",
+        "age": 75,
+        "is_alive": true
+    },
+    {
+        "name": "alice evans",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1971-08-02",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "alice eve",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.66,
+        "birthday": "1982-02-06",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "alicia arden",
+        "net_worth": 500000
+    },
+    {
+        "name": "alicia keys",
+        "net_worth": 150000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "musician",
+            "record_producer",
+            "singer-songwriter",
+            "actor",
+            "pianist"
+        ],
+        "height": 1.68,
+        "birthday": "1981-01-25",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "alicia silverstone",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor",
+            "television_producer",
+            "author",
+            "activist",
+            "film_producer",
+            "voice_actor"
+        ],
+        "height": 1.65,
+        "birthday": "1976-10-04",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "alicia vikander",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "se",
+        "occupation": [
+            "actor",
+            "dancer"
+        ],
+        "height": 1.66,
+        "birthday": "1988-10-03",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alicia witt",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "model",
+            "songwriter",
+            "pianist",
+            "screenwriter",
+            "film_producer",
+            "film_score_composer"
+        ],
+        "height": 1.73,
+        "birthday": "1975-08-21",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "alisan porter",
+        "net_worth": 500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer"
+        ],
+        "height": 1.53,
+        "birthday": "1981-06-20",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "alison becker",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "comedian"
+        ],
+        "height": 1.62,
+        "birthday": "1977-03-08",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "alison brie",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.6,
+        "birthday": "1982-12-29",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "alison doody",
+        "net_worth": 25000000,
+        "gender": "female",
+        "nationality": "ie",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.75,
+        "birthday": "1966-11-11",
+        "age": 56,
+        "is_alive": true
+    },
+    {
+        "name": "alison haislip",
+        "net_worth": 500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_producer",
+            "journalist"
+        ],
+        "height": 1.7,
+        "birthday": "1981-02-06",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "alison lohman",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.57,
+        "birthday": "1979-09-18",
+        "age": 43,
+        "is_alive": true
+    },
+    {
+        "name": "alison moyet",
+        "net_worth": 18000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "singer-songwriter",
+            "performer",
+            "musician"
+        ],
+        "birthday": "1961-06-18",
+        "age": 62,
+        "is_alive": true
+    },
+    {
+        "name": "alison pill",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "ca",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.68,
+        "birthday": "1985-11-27",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "alison sweeney",
+        "net_worth": 9000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.62,
+        "birthday": "1976-09-19",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "alissa violet",
+        "net_worth": 6000000
+    },
+    {
+        "name": "alistair overeem",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "nl",
+        "height": 1.96,
+        "birthday": "1980-05-17",
+        "age": 43,
+        "is_alive": true
+    },
+    {
+        "name": "allen covert",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "film_producer",
+            "writer",
+            "screenwriter",
+            "songwriter",
+            "film_score_composer",
+            "voice_actor"
+        ],
+        "height": 1.75,
+        "birthday": "1964-10-13",
+        "age": 58,
+        "is_alive": true
+    },
+    {
+        "name": "allen iverson",
+        "net_worth": 1000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "basketball_player",
+            "rapper",
+            "athlete"
+        ],
+        "height": 1.83,
+        "birthday": "1975-06-07",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "allen payne",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.85,
+        "birthday": "1968-07-07",
+        "age": 55,
+        "is_alive": true
+    },
+    {
+        "name": "alley mills",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.65,
+        "birthday": "1951-05-09",
+        "age": 72,
+        "is_alive": true
+    },
+    {
+        "name": "allison janney",
+        "net_worth": 14000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "musician"
+        ],
+        "height": 1.83,
+        "birthday": "1959-11-19",
+        "age": 63,
+        "is_alive": true
+    },
+    {
+        "name": "allison mack",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "television_director",
+            "film_producer"
+        ],
+        "height": 1.65,
+        "birthday": "1982-07-29",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "allison munn",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.6,
+        "birthday": "1974-10-07",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "allison tolman",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.68,
+        "birthday": "1981-11-18",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "allison williams",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "comedian",
+            "musician"
+        ],
+        "height": 1.67,
+        "birthday": "1987-11-30",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "ally sheedy",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "author"
+        ],
+        "height": 1.65,
+        "birthday": "1962-06-13",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "ally walker",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "film_director",
+            "screenwriter"
+        ],
+        "height": 1.78,
+        "birthday": "1961-08-25",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "alok nath",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1956-07-10",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "alona tal",
+        "net_worth": 600000,
+        "gender": "female",
+        "nationality": "il",
+        "occupation": [
+            "actor",
+            "singer",
+            "voice_actor"
+        ],
+        "height": 1.63,
+        "birthday": "1983-10-20",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "alton brown",
+        "net_worth": 13000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "tv_chef",
+            "chef",
+            "actor",
+            "author",
+            "tv_personality",
+            "cinematographer",
+            "commentator",
+            "screenwriter",
+            "television_director"
+        ],
+        "height": 1.82,
+        "birthday": "1962-07-30",
+        "age": 60,
+        "is_alive": true
+    },
+    {
+        "name": "aly michalka",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "actor",
+            "songwriter",
+            "guitarist",
+            "musician",
+            "singer-songwriter",
+            "dancer",
+            "model"
+        ],
+        "height": 1.73,
+        "birthday": "1989-03-25",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "alysia reiner",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "activist"
+        ],
+        "birthday": "1970-07-21",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "alyson hannigan",
+        "net_worth": 40000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.65,
+        "birthday": "1974-03-24",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "alyson stoner",
+        "net_worth": 1500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor",
+            "singer",
+            "voice_actor",
+            "dancer",
+            "choreographer",
+            "singer-songwriter"
+        ],
+        "height": 1.57,
+        "birthday": "1993-08-11",
+        "age": 29,
+        "is_alive": true
+    },
+    {
+        "name": "alyssa campanella",
+        "net_worth": 300000,
+        "gender": "female",
+        "height": 1.74,
+        "birthday": "1990-03-21",
+        "age": 33,
+        "is_alive": true
+    },
+    {
+        "name": "alyssa milano",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "actor",
+            "television_producer",
+            "businessperson"
+        ],
+        "height": 1.57,
+        "birthday": "1972-12-19",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "amaia salamanca",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "es",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.67,
+        "birthday": "1986-03-28",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "amal clooney",
+        "net_worth": 50000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "lawyer",
+            "activist",
+            "writer",
+            "court_clerk",
+            "book_editor"
+        ],
+        "birthday": "1978-02-03",
+        "age": 45,
+        "is_alive": true
+    },
+    {
+        "name": "amanda bearse",
+        "net_worth": 16000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "comedian",
+            "television_director"
+        ],
+        "height": 1.62,
+        "birthday": "1958-08-09",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "amanda blake",
+        "net_worth": 500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.67,
+        "birthday": "1929-02-20",
+        "age": 60,
+        "is_alive": false,
+        "death": "1989-08-16"
+    },
+    {
+        "name": "amanda bynes",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "actor",
+            "fashion_designer",
+            "voice_actor"
+        ],
+        "height": 1.7,
+        "birthday": "1986-04-03",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "amanda cerny",
+        "net_worth": 8000000
+    },
+    {
+        "name": "amanda crew",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "ca",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.78,
+        "birthday": "1986-06-05",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "amanda detmer",
+        "net_worth": 2500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.63,
+        "birthday": "1971-09-27",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "amanda holden",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "presenter",
+            "singer"
+        ],
+        "height": 1.62,
+        "birthday": "1971-02-16",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "amanda pays",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "designer",
+            "presenter"
+        ],
+        "height": 1.7,
+        "birthday": "1959-06-06",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "amanda peet",
+        "net_worth": 100000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.7,
+        "birthday": "1972-01-11",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "amanda peterson",
+        "net_worth": 50000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.63,
+        "birthday": "1971-07-08",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "amanda plummer",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.63,
+        "birthday": "1957-03-23",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "amanda righetti",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.74,
+        "birthday": "1983-04-04",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "amanda seales",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "poet",
+            "rapper",
+            "actor",
+            "disc_jockey",
+            "songwriter",
+            "presenter"
+        ],
+        "birthday": "1981-07-01",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "amanda seyfried",
+        "net_worth": 12000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "model"
+        ],
+        "height": 1.61,
+        "birthday": "1985-12-03",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "amanda tapping",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "ca",
+        "occupation": [
+            "actor",
+            "television_director",
+            "television_producer"
+        ],
+        "height": 1.75,
+        "birthday": "1965-08-28",
+        "age": 57,
+        "is_alive": true
+    },
+    {
+        "name": "amanda wyss",
+        "net_worth": 600000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.62,
+        "birthday": "1960-11-24",
+        "age": 62,
+        "is_alive": true
+    },
+    {
+        "name": "amandla stenberg",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.42,
+        "birthday": "1998-10-23",
+        "age": 24,
+        "is_alive": true
+    },
+    {
+        "name": "amar'e stoudemire",
+        "net_worth": 70000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "basketball_player",
+            "actor"
+        ],
+        "height": 2.11,
+        "birthday": "1982-11-16",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "amaury nolasco",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "pr",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.79,
+        "birthday": "1970-12-24",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "amber benson",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "film_director",
+            "actor",
+            "screenwriter",
+            "film_producer",
+            "writer"
+        ],
+        "height": 1.63,
+        "birthday": "1977-01-08",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "amber heard",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.73,
+        "birthday": "1986-04-22",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "amber lancaster",
+        "net_worth": 500000,
+        "gender": "female",
+        "height": 1.65,
+        "birthday": "1980-09-19",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "amber marshall",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "ca",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.65,
+        "birthday": "1988-06-02",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "amber riley",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer-songwriter"
+        ],
+        "height": 1.6,
+        "birthday": "1986-02-15",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "amber rose",
+        "net_worth": 12000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor",
+            "musician",
+            "socialite"
+        ],
+        "height": 1.73,
+        "birthday": "1983-10-21",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "amber smith",
+        "net_worth": 13000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "fashion_model",
+            "actor",
+            "supermodel",
+            "spokesperson"
+        ],
+        "height": 1.75,
+        "birthday": "1971-03-02",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "amber stevens",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.75,
+        "birthday": "1986-10-07",
+        "age": 36,
+        "is_alive": true
+    },
+    {
+        "name": "amber tamblyn",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "poet",
+            "film_producer"
+        ],
+        "height": 1.7,
+        "birthday": "1983-05-14",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "amber valletta",
+        "net_worth": 16000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor",
+            "spokesperson"
+        ],
+        "height": 1.75,
+        "birthday": "1974-02-09",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "ambyr childers",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1988-07-18",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "ameesha patel",
+        "net_worth": 30000000,
+        "gender": "female",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "film_producer"
+        ],
+        "height": 1.59,
+        "birthday": "1976-06-09",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "amelia heinle",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.68,
+        "birthday": "1973-03-17",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "amelia warner",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "singer",
+            "songwriter"
+        ],
+        "height": 1.68,
+        "birthday": "1982-06-04",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "amelle berrabah",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "songwriter",
+            "singer-songwriter"
+        ],
+        "height": 1.57,
+        "birthday": "1984-04-22",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "america ferrera",
+        "net_worth": 16000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "voice_actor"
+        ],
+        "height": 1.55,
+        "birthday": "1984-04-18",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "amir blumenfeld",
+        "net_worth": 700000,
+        "gender": "male",
+        "nationality": "il",
+        "occupation": [
+            "actor",
+            "comedian",
+            "screenwriter",
+            "television_editor"
+        ],
+        "height": 1.78,
+        "birthday": "1983-01-18",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "amir khan",
+        "net_worth": 40000000,
+        "gender": "male",
+        "nationality": "gb",
+        "height": 1.76,
+        "birthday": "1986-12-08",
+        "age": 36,
+        "is_alive": true
+    },
+    {
+        "name": "amitabh bachchan",
+        "net_worth": 400000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "musician",
+            "presenter",
+            "film_producer",
+            "singer",
+            "voice_actor",
+            "television_presenter",
+            "playback_singer"
+        ],
+        "height": 1.85,
+        "birthday": "1942-10-11",
+        "age": 80,
+        "is_alive": true
+    },
+    {
+        "name": "aml ameen",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "film_director",
+            "film_producer",
+            "screenwriter"
+        ],
+        "birthday": "1985-07-30",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "amrish puri",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "in",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "playback_singer"
+        ],
+        "birthday": "1932-06-22",
+        "age": 72,
+        "is_alive": false,
+        "death": "2005-01-12"
+    },
+    {
+        "name": "amrita rao",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "in",
+        "occupation": [
+            "model",
+            "actor"
+        ],
+        "height": 1.65,
+        "birthday": "1981-06-07",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "amy acker",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "model"
+        ],
+        "height": 1.73,
+        "birthday": "1976-12-05",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "amy adams",
+        "net_worth": 60000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "dancer",
+            "voice_actor"
+        ],
+        "height": 1.63,
+        "birthday": "1974-08-20",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "amy brenneman",
+        "net_worth": 16000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_producer",
+            "screenwriter"
+        ],
+        "height": 1.68,
+        "birthday": "1964-06-22",
+        "age": 59,
+        "is_alive": true
+    },
+    {
+        "name": "amy childs",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "model"
+        ],
+        "height": 1.73,
+        "birthday": "1990-06-07",
+        "age": 33,
+        "is_alive": true
+    },
+    {
+        "name": "amy davidson",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "height": 1.52,
+        "birthday": "1979-09-15",
+        "age": 43,
+        "is_alive": true
+    },
+    {
+        "name": "amy dumas",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "wrestler",
+            "singer",
+            "model"
+        ],
+        "height": 1.68,
+        "birthday": "1975-04-14",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "amy irving",
+        "net_worth": 120000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model"
+        ],
+        "height": 1.63,
+        "birthday": "1953-09-10",
+        "age": 69,
+        "is_alive": true
+    },
+    {
+        "name": "amy jo johnson",
+        "net_worth": 300000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "songwriter",
+            "singer",
+            "gymnast",
+            "musician",
+            "actor"
+        ],
+        "height": 1.57,
+        "birthday": "1970-10-06",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "amy lee",
+        "net_worth": 12000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "pianist",
+            "songwriter",
+            "musician",
+            "multi-instrumentalist",
+            "film_score_composer"
+        ],
+        "height": 1.61,
+        "birthday": "1981-12-13",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "amy locane",
+        "net_worth": 100000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.67,
+        "birthday": "1971-12-19",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "amy macdonald",
+        "net_worth": 9000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "singer-songwriter",
+            "musician",
+            "guitarist"
+        ],
+        "height": 1.63,
+        "birthday": "1987-08-25",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "amy madigan",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer",
+            "singer",
+            "pianist",
+            "voice_actor"
+        ],
+        "height": 1.66,
+        "birthday": "1950-09-11",
+        "age": 72,
+        "is_alive": true
+    },
+    {
+        "name": "amy paffrath",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.6,
+        "birthday": "1983-07-22",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "amy poehler",
+        "net_worth": 25000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "screenwriter",
+            "comedian",
+            "television_producer",
+            "voice_actor",
+            "television_director"
+        ],
+        "height": 1.57,
+        "birthday": "1971-09-16",
+        "age": 51,
+        "is_alive": true
+    },
+    {
+        "name": "amy robach",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "journalist"
+        ],
+        "height": 1.65,
+        "birthday": "1973-02-06",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "amy ryan",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.62,
+        "birthday": "1968-05-03",
+        "age": 55,
+        "is_alive": true
+    },
+    {
+        "name": "amy schumer",
+        "net_worth": 25000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "stand-up_comedian",
+            "comedian",
+            "screenwriter",
+            "television_producer"
+        ],
+        "height": 1.7,
+        "birthday": "1981-06-01",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "amy sedaris",
+        "net_worth": 12000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "screenwriter",
+            "author",
+            "comedian",
+            "playwright",
+            "businessperson",
+            "voice_actor"
+        ],
+        "height": 1.56,
+        "birthday": "1961-03-29",
+        "age": 62,
+        "is_alive": true
+    },
+    {
+        "name": "amy shirley",
+        "net_worth": 4500000,
+        "gender": "female",
+        "occupation": [
+            "production_designer"
+        ],
+        "height": 1.65
+    },
+    {
+        "name": "amy smart",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "fashion_model",
+            "voice_actor"
+        ],
+        "height": 1.68,
+        "birthday": "1976-03-26",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "amy weber",
+        "net_worth": 400000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model",
+            "singer",
+            "film_producer",
+            "wrestler"
+        ],
+        "height": 1.7,
+        "birthday": "1970-07-02",
+        "age": 53,
+        "is_alive": true
+    },
+    {
+        "name": "amy winehouse",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "music_arranger",
+            "singer-songwriter",
+            "musician"
+        ],
+        "height": 1.6,
+        "birthday": "1983-09-14",
+        "age": 27,
+        "is_alive": false,
+        "death": "2011-07-23"
+    },
+    {
+        "name": "amy yasbeck",
+        "net_worth": 16000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.7,
+        "birthday": "1962-09-12",
+        "age": 60,
+        "is_alive": true
+    },
+    {
+        "name": "ana beatriz barros",
+        "net_worth": 15000000,
+        "gender": "female",
+        "nationality": "br",
+        "occupation": [
+            "fashion_model",
+            "supermodel"
+        ],
+        "height": 1.82,
+        "birthday": "1982-05-29",
+        "age": 41,
+        "is_alive": true
+    },
+    {
+        "name": "ana brenda contreras",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "mx",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1986-12-24",
+        "age": 36,
+        "is_alive": true
+    },
+    {
+        "name": "ana cheri",
+        "net_worth": 5000000
+    },
+    {
+        "name": "ana de armas",
+        "net_worth": 4000000,
+        "gender": "female",
+        "nationality": "cu",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.68,
+        "birthday": "1988-04-30",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "ana de la reguera",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "mx",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.6,
+        "birthday": "1977-04-08",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "ana gasteyer",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.7,
+        "birthday": "1967-05-04",
+        "age": 56,
+        "is_alive": true
+    },
+    {
+        "name": "ana hickmann",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "br",
+        "occupation": [
+            "fashion_model"
+        ],
+        "height": 1.85,
+        "birthday": "1981-03-01",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "ana ivanovic",
+        "net_worth": 16000000,
+        "gender": "female",
+        "nationality": "rs",
+        "occupation": [
+            "tennis_player"
+        ],
+        "height": 1.84,
+        "birthday": "1987-11-06",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "ana kasparian",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "film_producer",
+            "television_producer",
+            "actor"
+        ],
+        "birthday": "1986-07-07",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "ana ortiz",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer"
+        ],
+        "height": 1.64,
+        "birthday": "1971-01-25",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "anahi",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "mx",
+        "occupation": [
+            "singer",
+            "actor",
+            "dancer",
+            "record_producer",
+            "singer-songwriter"
+        ],
+        "height": 1.63,
+        "birthday": "1983-05-14",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "anastacia",
+        "net_worth": 40000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "songwriter",
+            "fashion_designer",
+            "singer-songwriter",
+            "musician",
+            "actor",
+            "record_producer",
+            "dancer",
+            "philanthropist"
+        ],
+        "height": 1.57,
+        "birthday": "1968-09-17",
+        "age": 54,
+        "is_alive": true
+    },
+    {
+        "name": "anders holm",
+        "net_worth": 7000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "screenwriter",
+            "actor",
+            "film_producer",
+            "television_producer"
+        ],
+        "height": 1.93,
+        "birthday": "1981-05-29",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "anderson cooper",
+        "net_worth": 200000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "journalist",
+            "author",
+            "film_producer",
+            "presenter",
+            "television_producer"
+        ],
+        "height": 1.78,
+        "birthday": "1967-06-03",
+        "age": 56,
+        "is_alive": true
+    },
+    {
+        "name": "anderson silva",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "br",
+        "occupation": [
+            "mixed_martial_artist",
+            "actor"
+        ],
+        "height": 1.88,
+        "birthday": "1975-04-14",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "andie macdowell",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor",
+            "film_producer",
+            "television_producer"
+        ],
+        "height": 1.73,
+        "birthday": "1958-04-21",
+        "age": 65,
+        "is_alive": true
+    },
+    {
+        "name": "andie macdowell",
+        "net_worth": 20000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor",
+            "film_producer",
+            "television_producer"
+        ],
+        "height": 1.73,
+        "birthday": "1958-04-21",
+        "age": 65,
+        "is_alive": true
+    },
+    {
+        "name": "andra day",
+        "net_worth": 4000000
+    },
+    {
+        "name": "andre agassi",
+        "net_worth": 175000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "athlete",
+            "tennis_player"
+        ],
+        "height": 1.8,
+        "birthday": "1970-04-29",
+        "age": 53,
+        "is_alive": true
+    },
+    {
+        "name": "andre braugher",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.83,
+        "birthday": "1962-07-01",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "andre drummond",
+        "net_worth": 40000000
+    },
+    {
+        "name": "andre royo",
+        "net_worth": 2000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer"
+        ],
+        "height": 1.7,
+        "birthday": "1968-07-18",
+        "age": 54,
+        "is_alive": true
+    },
+    {
+        "name": "andre the giant",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "fr",
+        "occupation": [
+            "wrestler",
+            "actor"
+        ],
+        "height": 2.24,
+        "birthday": "1946-05-19",
+        "age": 46,
+        "is_alive": false,
+        "death": "1993-01-27"
+    },
+    {
+        "name": "andrea anders",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1975-05-10",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "andrea barber",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.57,
+        "birthday": "1976-07-03",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "andrea bocelli",
+        "net_worth": 100000000,
+        "gender": "male",
+        "nationality": "it",
+        "occupation": [
+            "songwriter",
+            "musician",
+            "record_producer",
+            "multi-instrumentalist",
+            "lawyer",
+            "singer",
+            "actor",
+            "singer-songwriter",
+            "author"
+        ],
+        "height": 1.87,
+        "birthday": "1958-09-22",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "andrea bowen",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor"
+        ],
+        "height": 1.65,
+        "birthday": "1990-03-04",
+        "age": 33,
+        "is_alive": true
+    },
+    {
+        "name": "andrea evans",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.65,
+        "birthday": "1957-06-18",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "andrea martin",
+        "net_worth": 1000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "screenwriter",
+            "voice_actor",
+            "singer"
+        ],
+        "height": 1.62,
+        "birthday": "1947-01-15",
+        "age": 76,
+        "is_alive": true
+    },
+    {
+        "name": "andrea navedo",
+        "net_worth": 3000000,
+        "gender": "female",
+        "occupation": [
+            "actor"
+        ]
+    },
+    {
+        "name": "andrea russett",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us"
+    },
+    {
+        "name": "andrea savage",
+        "net_worth": 500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "screenwriter",
+            "television_producer",
+            "voice_actor"
+        ],
+        "birthday": "1973-02-20",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "andrea thompson",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1959-05-22",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "andres iniesta",
+        "net_worth": 120000000,
+        "gender": "male",
+        "nationality": "es",
+        "occupation": [
+            "football_player"
+        ],
+        "height": 1.7,
+        "birthday": "1984-05-11",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "andrew bryniarski",
+        "net_worth": 300000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "bodybuilder"
+        ],
+        "height": 1.96,
+        "birthday": "1969-02-13",
+        "age": 54,
+        "is_alive": true
+    },
+    {
+        "name": "andrew dice clay",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "television_producer",
+            "screenwriter",
+            "film_producer"
+        ],
+        "height": 1.8,
+        "birthday": "1957-09-29",
+        "age": 65,
+        "is_alive": true
+    },
+    {
+        "name": "andrew flintoff",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "cricketer"
+        ],
+        "height": 1.93,
+        "birthday": "1977-12-06",
+        "age": 45,
+        "is_alive": true
+    },
+    {
+        "name": "andrew garfield",
+        "net_worth": 13000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.79,
+        "birthday": "1983-08-20",
+        "age": 39,
+        "is_alive": true
+    },
+    {
+        "name": "andrew gower",
+        "net_worth": 680000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "programmer"
+        ],
+        "birthday": "1978-12-02",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "andrew keegan",
+        "net_worth": 1500000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_producer"
+        ],
+        "height": 1.84,
+        "birthday": "1979-01-29",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "andrew lincoln",
+        "net_worth": 16000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.78,
+        "birthday": "1973-09-14",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "andrew mccarthy",
+        "net_worth": 12000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "travel_writer"
+        ],
+        "height": 1.75,
+        "birthday": "1962-11-29",
+        "age": 60,
+        "is_alive": true
+    },
+    {
+        "name": "andrew rannells",
+        "net_worth": 4000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "voice_actor",
+            "actor"
+        ],
+        "height": 1.85,
+        "birthday": "1978-08-23",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "andrew robinson",
+        "net_worth": 500000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "television_director",
+            "professor",
+            "playwright"
+        ],
+        "birthday": "1942-02-14",
+        "age": 81,
+        "is_alive": true
+    },
+    {
+        "name": "andrew sachs",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.62,
+        "birthday": "1930-04-07",
+        "age": 93,
+        "is_alive": true
+    },
+    {
+        "name": "andrew schulz",
+        "net_worth": 3000000,
+        "gender": "male",
+        "occupation": [
+            "actor"
+        ]
+    },
+    {
+        "name": "andrew scott",
+        "net_worth": 8000000,
+        "gender": "male",
+        "nationality": "ie",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1976-10-21",
+        "age": 46,
+        "is_alive": true
+    },
+    {
+        "name": "andrew shue",
+        "net_worth": 100000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "football_player",
+            "entrepreneur"
+        ],
+        "height": 1.73,
+        "birthday": "1967-02-20",
+        "age": 56,
+        "is_alive": true
+    },
+    {
+        "name": "andrew taggart",
+        "net_worth": 70000000
+    },
+    {
+        "name": "andrew tate",
+        "net_worth": 1000000
+    },
+    {
+        "name": "andy biersack",
+        "net_worth": 4000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "musician",
+            "lyricist",
+            "singer-songwriter",
+            "multi-instrumentalist"
+        ],
+        "height": 1.93,
+        "birthday": "1990-12-26",
+        "age": 32,
+        "is_alive": true
+    },
+    {
+        "name": "andy dick",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "musician",
+            "actor",
+            "film_producer",
+            "television_producer",
+            "screenwriter",
+            "television_director",
+            "voice_actor"
+        ],
+        "height": 1.78,
+        "birthday": "1965-12-21",
+        "age": 57,
+        "is_alive": true
+    },
+    {
+        "name": "andy garcia",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "film_director",
+            "film_producer",
+            "television_director",
+            "television_producer"
+        ],
+        "height": 1.78,
+        "birthday": "1956-04-12",
+        "age": 67,
+        "is_alive": true
+    },
+    {
+        "name": "andy gibb",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "guitarist",
+            "actor"
+        ],
+        "height": 1.73,
+        "birthday": "1958-03-05",
+        "age": 30,
+        "is_alive": false,
+        "death": "1988-03-10"
+    },
+    {
+        "name": "andy griffith",
+        "net_worth": 60000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "screenwriter",
+            "singer",
+            "television_producer",
+            "comedian",
+            "voice_actor",
+            "writer"
+        ],
+        "height": 1.83,
+        "birthday": "1926-06-01",
+        "age": 86,
+        "is_alive": false,
+        "death": "2012-07-03"
+    },
+    {
+        "name": "andy kaufman",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "entertainer",
+            "artist",
+            "writer",
+            "screenwriter",
+            "wrestler"
+        ],
+        "height": 1.85,
+        "birthday": "1949-01-17",
+        "age": 35,
+        "is_alive": false,
+        "death": "1984-05-16"
+    },
+    {
+        "name": "andy kindler",
+        "net_worth": 500000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "comedian"
+        ],
+        "height": 1.7,
+        "birthday": "1956-10-16",
+        "age": 66,
+        "is_alive": true
+    },
+    {
+        "name": "andy lau",
+        "net_worth": 70000000,
+        "gender": "male",
+        "nationality": "hk",
+        "occupation": [
+            "singer",
+            "actor",
+            "film_producer",
+            "presenter",
+            "songwriter",
+            "voice_actor"
+        ],
+        "height": 1.75,
+        "birthday": "1961-09-27",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "andy milonakis",
+        "net_worth": 1000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "screenwriter",
+            "rapper"
+        ],
+        "height": 1.66,
+        "birthday": "1976-01-30",
+        "age": 47,
+        "is_alive": true
+    },
+    {
+        "name": "andy murray",
+        "net_worth": 100000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "tennis_player"
+        ],
+        "height": 1.9,
+        "birthday": "1987-05-15",
+        "age": 36,
+        "is_alive": true
+    },
+    {
+        "name": "andy richter",
+        "net_worth": 10000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "announcer",
+            "voice_actor",
+            "screenwriter",
+            "television_producer"
+        ],
+        "height": 1.88,
+        "birthday": "1966-10-28",
+        "age": 56,
+        "is_alive": true
+    },
+    {
+        "name": "andy roddick",
+        "net_worth": 40000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "tennis_player",
+            "athlete",
+            "actor"
+        ],
+        "height": 1.88,
+        "birthday": "1982-08-30",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "andy ruiz jr.",
+        "net_worth": 10000000
+    },
+    {
+        "name": "andy samberg",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "comedian",
+            "actor",
+            "musician",
+            "screenwriter",
+            "television_producer",
+            "television_director",
+            "lyricist",
+            "voice_actor",
+            "rapper",
+            "film_producer"
+        ],
+        "height": 1.77,
+        "birthday": "1978-08-18",
+        "age": 44,
+        "is_alive": true
+    },
+    {
+        "name": "andy serkis",
+        "net_worth": 28000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "author",
+            "film_director",
+            "film_producer"
+        ],
+        "height": 1.73,
+        "birthday": "1964-04-20",
+        "age": 59,
+        "is_alive": true
+    },
+    {
+        "name": "andy taylor",
+        "net_worth": 20000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "singer",
+            "songwriter",
+            "musician",
+            "guitarist"
+        ],
+        "birthday": "1961-02-16",
+        "age": 62,
+        "is_alive": true
+    },
+    {
+        "name": "andy whitfield",
+        "net_worth": 5000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "model",
+            "engineer"
+        ],
+        "height": 1.8,
+        "birthday": "1971-10-17",
+        "age": 39,
+        "is_alive": false,
+        "death": "2011-09-11"
+    },
+    {
+        "name": "andy williams",
+        "net_worth": 45000000,
+        "gender": "male",
+        "nationality": "us",
+        "occupation": [
+            "singer",
+            "record_producer",
+            "actor"
+        ],
+        "height": 1.69,
+        "birthday": "1927-12-03",
+        "age": 84,
+        "is_alive": false,
+        "death": "2012-09-25"
+    },
+    {
+        "name": "angel coulby",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.62,
+        "birthday": "1980-08-30",
+        "age": 42,
+        "is_alive": true
+    },
+    {
+        "name": "angel haze",
+        "net_worth": 500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "rapper",
+            "lyricist",
+            "singer"
+        ],
+        "birthday": "1991-07-10",
+        "age": 31,
+        "is_alive": true
+    },
+    {
+        "name": "angela bassett",
+        "net_worth": 25000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "voice_actor",
+            "film_producer"
+        ],
+        "height": 1.63,
+        "birthday": "1958-08-16",
+        "age": 64,
+        "is_alive": true
+    },
+    {
+        "name": "angela cartwright",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "photographer",
+            "child_actor"
+        ],
+        "height": 1.65,
+        "birthday": "1952-09-09",
+        "age": 70,
+        "is_alive": true
+    },
+    {
+        "name": "angela kinsey",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "performer"
+        ],
+        "height": 1.55,
+        "birthday": "1971-06-25",
+        "age": 52,
+        "is_alive": true
+    },
+    {
+        "name": "angela lansbury",
+        "net_worth": 70000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "singer",
+            "television_producer",
+            "writer",
+            "author",
+            "voice_actor"
+        ],
+        "height": 1.73,
+        "birthday": "1925-10-16",
+        "age": 97,
+        "is_alive": true
+    },
+    {
+        "name": "angela rippon",
+        "net_worth": 10000000,
+        "gender": "female",
+        "nationality": "gb",
+        "occupation": [
+            "presenter",
+            "journalist"
+        ],
+        "birthday": "1944-10-12",
+        "age": 78,
+        "is_alive": true
+    },
+    {
+        "name": "angela sarafyan",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.72,
+        "birthday": "1983-06-30",
+        "age": 40,
+        "is_alive": true
+    },
+    {
+        "name": "angela simmons",
+        "net_worth": 7500000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "shoe_designer",
+            "magazine_editor"
+        ],
+        "height": 1.7,
+        "birthday": "1987-09-18",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "angelababy",
+        "net_worth": 40000000,
+        "gender": "female",
+        "nationality": "cn",
+        "occupation": [
+            "singer",
+            "actor",
+            "model"
+        ],
+        "height": 1.68,
+        "birthday": "1989-02-28",
+        "age": 34,
+        "is_alive": true
+    },
+    {
+        "name": "angelica bridges",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model",
+            "singer"
+        ],
+        "height": 1.73,
+        "birthday": "1973-11-20",
+        "age": 49,
+        "is_alive": true
+    },
+    {
+        "name": "angelina jolie",
+        "net_worth": 120000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor",
+            "model",
+            "voice_actor",
+            "film_director",
+            "screenwriter",
+            "film_producer",
+            "writer",
+            "author"
+        ],
+        "height": 1.69,
+        "birthday": "1975-06-04",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "angelina pivarnick",
+        "net_worth": 2000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1986-06-26",
+        "age": 37,
+        "is_alive": true
+    },
+    {
+        "name": "angelique boyer",
+        "net_worth": 6000000,
+        "gender": "female",
+        "nationality": "fr",
+        "occupation": [
+            "actor",
+            "singer",
+            "model"
+        ],
+        "height": 1.65,
+        "birthday": "1988-07-04",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "angelique kerber",
+        "net_worth": 30000000,
+        "gender": "female",
+        "nationality": "de",
+        "occupation": [
+            "tennis_player"
+        ],
+        "height": 1.72,
+        "birthday": "1988-01-18",
+        "age": 35,
+        "is_alive": true
+    },
+    {
+        "name": "anggun",
+        "net_worth": 16000000
+    },
+    {
+        "name": "angie cepeda",
+        "net_worth": 5000000,
+        "gender": "female",
+        "nationality": "co",
+        "occupation": [
+            "actor"
+        ],
+        "birthday": "1974-08-02",
+        "age": 48,
+        "is_alive": true
+    },
+    {
+        "name": "angie dickinson",
+        "net_worth": 25000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.65,
+        "birthday": "1931-09-30",
+        "age": 91,
+        "is_alive": true
+    },
+    {
+        "name": "angie everhart",
+        "net_worth": 8000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor",
+            "film_producer"
+        ],
+        "height": 1.78,
+        "birthday": "1969-09-07",
+        "age": 53,
+        "is_alive": true
+    },
+    {
+        "name": "angie harmon",
+        "net_worth": 30000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "model",
+            "actor"
+        ],
+        "height": 1.76,
+        "birthday": "1972-08-10",
+        "age": 50,
+        "is_alive": true
+    },
+    {
+        "name": "angie stone",
+        "net_worth": 3000000,
+        "gender": "female",
+        "nationality": "us",
+        "occupation": [
+            "record_producer",
+            "singer",
+            "keyboard_player",
+            "singer-songwriter",
+            "actor"
+        ],
+        "height": 1.6,
+        "birthday": "1961-12-19",
+        "age": 61,
+        "is_alive": true
+    },
+    {
+        "name": "angourie rice",
+        "net_worth": 3000000,
+        "gender": "female",
+        "occupation": [
+            "actor"
+        ],
+        "height": 1.3,
+        "birthday": "2001"
+    },
+    {
+        "name": "angry anderson",
+        "net_worth": 3000000,
+        "gender": "male",
+        "nationality": "au",
+        "occupation": [
+            "singer",
+            "actor",
+            "singer-songwriter",
+            "journalist",
+            "presenter",
+            "political_activist"
+        ],
+        "height": 1.56,
+        "birthday": "1947-08-05",
+        "age": 75,
+        "is_alive": true
+    },
+    {
+        "name": "angus macfadyen",
+        "net_worth": 4000000,
+        "gender": "male",
+        "nationality": "gb",
+        "occupation": [
+            "actor",
+            "screenwriter"
+        ],
+        "height": 1.78,
+        "birthday": "1963-09-21",
+        "age": 59,
+        "is_alive": true
+    }
+]
